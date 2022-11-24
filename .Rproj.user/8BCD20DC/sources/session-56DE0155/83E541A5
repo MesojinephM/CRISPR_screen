@@ -1,0 +1,28 @@
+{
+    "id": "83E541A5",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1669251964875.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "9ac7f29f26ab49c5918d206048d79319",
+        "name": "gmt2",
+        "title": "gmt2",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1360262665016,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1669251964875,
+    "read_only": false,
+    "read_only_alternatives": []
+}

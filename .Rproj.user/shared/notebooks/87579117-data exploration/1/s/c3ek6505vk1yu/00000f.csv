@@ -1,0 +1,90 @@
+"0","# Code adapted from https://stackoverflow.com/questions/6602881/text-file-to-list-in-r"
+"0",""
+"0","# Read in pathways data as list and split elements into strings"
+"0","gmt <- scan(""m2.cp.v2022.1.Mm.symbols.gmt"", what = """", sep = ""\n"")"
+"2","Read 1687 items
+"
+"0","pathways <- strsplit(gmt, ""[[:space:]]+"")"
+"0",""
+"0","# Assign first entry to names of each list element"
+"0","names(pathways) <- sapply(pathways, `[[`, 1)"
+"0",""
+"0","# save urls to separate list for reference"
+"0","source <- sapply(pathways, `[[`, 2)"
+"0",""
+"0","# Remove two beginning reference rows"
+"0","pathways <- lapply(pathways, `[`, -c(1:2))"
+"0",""
+"0",""
+"0","# Alternative set using GSEABase"
+"0","library(GSEABase)"
+"2","Loading required package: BiocGenerics
+"
+"2","
+Attaching package: ‘BiocGenerics’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind, colnames, dirname,
+    do.call, duplicated, eval, evalq, Filter, Find, get, grep, grepl, intersect,
+    is.unsorted, lapply, Map, mapply, match, mget, order, paste, pmax, pmax.int, pmin,
+    pmin.int, Position, rank, rbind, Reduce, rownames, sapply, setdiff, sort, table,
+    tapply, union, unique, unsplit, which.max, which.min
+
+"
+"2","Loading required package: Biobase
+"
+"2","Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with 'browseVignettes()'. To cite
+    Bioconductor, see 'citation(""Biobase"")', and for packages 'citation(""pkgname"")'.
+
+"
+"2","Loading required package: annotate
+"
+"2","Loading required package: AnnotationDbi
+"
+"2","Loading required package: stats4
+"
+"2","Loading required package: IRanges
+"
+"2","Loading required package: S4Vectors
+"
+"2","
+Attaching package: ‘S4Vectors’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    expand.grid, I, unname
+
+"
+"2","
+Attaching package: ‘IRanges’
+
+"
+"2","The following object is masked from ‘package:grDevices’:
+
+    windows
+
+"
+"2","Loading required package: XML
+"
+"2","Loading required package: graph
+"
+"2","
+Attaching package: ‘graph’
+
+"
+"2","The following object is masked from ‘package:XML’:
+
+    addNode
+
+"
+"0","gmt2 <- getGmt(""m2.cp.v2022.1.Mm.symbols.gmt"")"

@@ -1,0 +1,3 @@
+"0",""
+"0","ggplot(mageck, aes(x = pos.score)) +"
+"0","  geom_histogram(bins = 500)"
