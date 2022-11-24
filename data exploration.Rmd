@@ -76,6 +76,7 @@ ggplot(mageck, aes(x = pos.p_value)) +
 
 cor(mageck$neg.p_value, mageck$pos.p_value)
 
+
 histogram <- function(var){
   ggplot(mageck, aes(x = var)) +
     geom_histogram(bins = 500)
@@ -92,6 +93,29 @@ histogram(mageck$neg.score)
 histogram(mageck$neg.p_value)
 histogram(mageck$neg.fdr)
 histogram(mageck$neg.lfc)
+```
+
+### Separate more significant negative and positive p-values
+
+I'm trying to split the data set into two based on whether the positive or negative p-value is more significant (smaller). I know I can use a loop to go element by element, but I'm wondering if there is a more efficient way. 
+```{r}
+# pos.p = NULL
+# neg.p = NULL
+# # equal.p = NULL
+# 
+# sort_fun <- function(x){
+#   if (x$pos.p_value < x$neg.p_value){
+#     pos.p <- c(pos.p, x$pos.p_value)
+#   }
+#   else{
+#     neg.p <- c(neg.p, x$neg.p_value)
+#   }
+# }
+# 
+# apply(X = mageck,
+#       MARGIN = ,
+#       FUN = sort_fun)
+
 ```
 
 
@@ -117,3 +141,7 @@ pathways <- lapply(pathways, `[`, -c(1:2))
 library(GSEABase)
 gmt2 <- getGmt("m2.cp.v2022.1.Mm.symbols.gmt")
 ```
+
+
+
+How to separate the mageck data frame according to pathways? Do I try to new objects combining the pathways and the mageck results or do I find a way to compare the two sets.

@@ -3,7 +3,7 @@
     "path": "~/MATH 401/Capstone Analysis/CRISPR_screen/data exploration.Rmd",
     "project_path": "data exploration.Rmd",
     "type": "r_markdown",
-    "hash": "1594601246",
+    "hash": "785508974",
     "contents": "",
     "dirty": false,
     "created": 1669251917003.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "117,46",
-        "scrollLine": "105",
+        "cursorPosition": "146,174",
+        "scrollLine": "133",
         "last_setup_crc32": "56DE0155bb338d19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1668212733,
+    "lastKnownWriteTime": 1669255309,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1669252072110,
+    "last_content_update": 1669255309908,
     "read_only": false,
     "read_only_alternatives": []
 }
