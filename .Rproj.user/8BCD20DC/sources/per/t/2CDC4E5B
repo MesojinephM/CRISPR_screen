@@ -1,0 +1,27 @@
+{
+    "id": "2CDC4E5B",
+    "path": "~/MATH 401/Capstone Analysis/CRISPR_screen/data exploration.Rmd",
+    "project_path": "data exploration.Rmd",
+    "type": "r_markdown",
+    "hash": "4148392612",
+    "contents": "",
+    "dirty": false,
+    "created": 1669251917003.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "193,19",
+        "scrollLine": "181",
+        "last_setup_crc32": "43BF3A03bb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1674162066,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1674162066661,
+    "read_only": false,
+    "read_only_alternatives": []
+}

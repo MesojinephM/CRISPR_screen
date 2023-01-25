@@ -1,0 +1,8 @@
+"0",""
+"0","#### log fold change"
+"0",""
+"0","# Distribution of lfc (positive and negative values the same)"
+"0","ggplot(mageck, aes(x = pos.lfc)) +"
+"0","  geom_histogram(bins = 500) +"
+"0","  xlab(""lfc"") +"
+"0","  ggtitle(""Distribution of log fold change for all genes"")  "

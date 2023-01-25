@@ -1,7 +1,0 @@
-"0","library(ggplot2)"
-"0",""
-"0","# Compare positive and negative group scores"
-"0","ggplot(mageck, aes(x = neg.score, "
-"0","                   y = pos.score, "
-"0","                   alpha = 0.05)) +"
-"0","  geom_point()"

@@ -1,0 +1,6 @@
+"0",""
+"0","# Distribution of negative selection p-values"
+"0","ggplot(mageck, aes(x = neg.fdr)) +"
+"0","  geom_histogram(bins = 500) +"
+"0","  xlab(""fdr"") +"
+"0","  ggtitle(""Distribution of negative selection fdr values"") "
