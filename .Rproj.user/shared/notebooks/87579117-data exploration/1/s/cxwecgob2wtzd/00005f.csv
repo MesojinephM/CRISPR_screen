@@ -1,0 +1,5 @@
+"0","# Create correlation plot"
+"0","library(corrplot)"
+"0","cor.crispr <- cor(mageck[,-c(1,2,7,12)])"
+"0","corrplot(cor.crispr,"
+"0","         method = ""color"")"

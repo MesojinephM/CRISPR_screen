@@ -1,4 +1,0 @@
-"0",""
-"0","# Plot lfc with pos and neg fdr"
-"0","plot(mageck$neg.fdr, "
-"0","     mageck$neg.lfc)"

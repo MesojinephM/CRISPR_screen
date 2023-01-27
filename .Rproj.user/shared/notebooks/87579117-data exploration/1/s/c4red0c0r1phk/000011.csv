@@ -1,3 +1,0 @@
-"0",""
-"0","# Check normality of variable"
-"0","qqnorm(mageck$pos.lfc, main = ""Normality of log fold change"")"
