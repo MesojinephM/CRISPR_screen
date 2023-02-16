@@ -1,0 +1,8 @@
+"0",""
+"0","# Create separate data frames for each positive and negative selection"
+"0","#  and remove selection variable from each"
+"0","positives <- mageck[mageck$selection == ""positive"", -14]"
+"0","negatives <- mageck[mageck$selection == ""negative"", -14]"
+"0",""
+"0","# Compare lfc in both groups"
+"0","hist(positives$lfc)"

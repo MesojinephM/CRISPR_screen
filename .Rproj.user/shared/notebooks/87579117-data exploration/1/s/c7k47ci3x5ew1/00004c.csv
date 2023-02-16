@@ -1,8 +1,0 @@
-"0",""
-"0","####  False Discovery Rates"
-"0",""
-"0","# Distribution of positive selection fdr"
-"0","ggplot(mageck, aes(x = pos.fdr)) +"
-"0","  geom_histogram(bins = 500) +"
-"0","  xlab(""fdr"") +"
-"0","  ggtitle(""Distribution of positive selection fdr values"")  "

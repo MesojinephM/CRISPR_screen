@@ -1,2 +1,0 @@
-"0",""
-"0","#sig_negs <- na.omit(filter(mageck$neg.fdr, mageck$neg.fdr != 1))"

@@ -1,7 +1,0 @@
-"0",""
-"0","# Compare positive score and negative score"
-"0","ggplot(mageck, aes(x = pos.score, "
-"0","                   y = neg.score, "
-"0","                   alpha = 0.01)) +"
-"0","  geom_density_2d_filled() +"
-"0","  ggtitle(""Comparison of positive score and negative score"") "

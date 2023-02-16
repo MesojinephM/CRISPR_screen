@@ -1,5 +1,5 @@
 ---
-title: "data exploration"
+title: "data exploration 1-30"
 author: "Marie Moriarty"
 date: "`r Sys.Date()`"
 output:
@@ -89,32 +89,33 @@ ggplot(mageck, aes(x = neg.p_value,
 Viewing the histogram of positive selection p-values, the data does not seem to show any obvious patterns, except for some higher frequencies as the values approach zero. For the negative selection p-values, we see more observations with p-values at or close to one. The scatter plot, showing both variables along with red lines marking a significance level of 0.05, shows far more significant p-values for the positive selection than the negative, with a large cluster of data points with both very low positive p-values and very high negative p-values.
 
 ```{r fdr}
-
+library(ggpubr)
 ####  False Discovery Rates
 
 # Distribution of positive selection fdr
-ggplot(mageck, aes(x = pos.fdr)) +
-  geom_histogram(bins = 500) +
-  xlab("fdr") +
-  ggtitle("Distribution of positive selection fdr values")  
+posfdr_plot <- ggplot(mageck, aes(x = pos.fdr)) +
+                  geom_histogram(bins = 500) +
+                  xlab("fdr") +
+                  ggtitle("Distribution of positive selection fdr values")  
 
 # Distribution of negative selection fdr
-ggplot(mageck, aes(x = neg.fdr)) +
-  geom_histogram(bins = 500) +
-  xlab("fdr") +
-  ggtitle("Distribution of negative selection fdr values") 
+negfdr_plot <- ggplot(mageck, aes(x = neg.fdr)) +
+                   geom_histogram(bins = 500) +
+                   xlab("fdr") +
+                   ggtitle("Distribution of negative selection fdr values") 
 
-# Distribution of positive selection p-values
-ggplot(mageck, aes(x = pos.p_value)) +
-  geom_histogram(bins = 500) +
-  xlab("p-value") +
-  ggtitle("Distribution of positive selection p-values") 
-
-# Distribution of negative selection p-values
-ggplot(mageck, aes(x = neg.p_value)) +
-  geom_histogram(bins = 500) +
-  xlab("p-value") +
-  ggtitle("Distribution of negative selection p-values") 
+ggarrange(posfdr_plot, negfdr_plot)
+# # Distribution of positive selection p-values
+# ggplot(mageck, aes(x = pos.p_value)) +
+#   geom_histogram(bins = 500) +
+#   xlab("p-value") +
+#   ggtitle("Distribution of positive selection p-values") 
+# 
+# # Distribution of negative selection p-values
+# ggplot(mageck, aes(x = neg.p_value)) +
+#   geom_histogram(bins = 500) +
+#   xlab("p-value") +
+#   ggtitle("Distribution of negative selection p-values") 
 
 # Compare positive and negative fdr's
 ggplot(mageck, aes(x = neg.fdr, 
@@ -247,6 +248,8 @@ This code chunk imports a file containing a collection of mouse gene sets which 
 ```{r selection}
 library(ggridges)
 
+selection <- NULL
+
 # Sort values based on p-values to see which selection p-value is lower
 for (i in 1:length(mageck$id)){
   if (mageck$neg.p_value[i] > mageck$pos.p_value[i]){
@@ -289,3 +292,5 @@ t.test(negatives$lfc, positives$lfc)
 We sorted every observation based on whether it had a lower negative or positive p-value (none of them were equal), creating a column indicating which selection they belonged to, and separate data frames to hold the information for each selection for use in more in depth analysis of each group. There were approximately twice as many observations in the positive category as in the negative one.
 
 We then observed how the `lfc` changed between the two groups using the density plot. It appears that the log fold change for the positive group was largely positive, and largely negative for the negative group. This confirms our expectations. This was again confirmed using a t-test, with the results given above.
+
+Remember significant positive selection genes are those whose knockout leads to cholesterol accumulation, and significant negatives are those whose knockout caused cholesterol depletion.
