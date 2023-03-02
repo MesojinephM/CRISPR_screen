@@ -105,6 +105,7 @@ negfdr_plot <- ggplot(mageck, aes(x = neg.fdr)) +
                    ggtitle("Distribution of negative selection fdr values") 
 
 ggarrange(posfdr_plot, negfdr_plot)
+
 # # Distribution of positive selection p-values
 # ggplot(mageck, aes(x = pos.p_value)) +
 #   geom_histogram(bins = 500) +
@@ -294,3 +295,17 @@ We sorted every observation based on whether it had a lower negative or positive
 We then observed how the `lfc` changed between the two groups using the density plot. It appears that the log fold change for the positive group was largely positive, and largely negative for the negative group. This confirms our expectations. This was again confirmed using a t-test, with the results given above.
 
 Remember significant positive selection genes are those whose knockout leads to cholesterol accumulation, and significant negatives are those whose knockout caused cholesterol depletion.
+
+```{r re-rank}
+lfc_sort <- mageck[order(mageck$lfc, decreasing = TRUE),]
+
+mageck_lfc_sort <- cbind(lfc_sort$id, lfc_sort$lfc)
+```
+
+### GSEA
+
+```{r}
+library(BiocManager)
+library(fgsea)
+
+```

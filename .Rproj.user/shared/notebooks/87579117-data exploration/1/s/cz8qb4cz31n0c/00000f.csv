@@ -1,0 +1,4 @@
+"0","mageck_lfc_sort <- lfc_sort[c(id, lfc),]
+"
+"2","Error in `[.tbl_df`(lfc_sort, c(id, lfc), ) : object 'id' not found
+"
