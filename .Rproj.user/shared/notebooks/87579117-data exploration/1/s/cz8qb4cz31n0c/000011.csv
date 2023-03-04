@@ -1,0 +1,5 @@
+"0","lfc_sort <- mageck[order(mageck$lfc, decreasing = TRUE),]"
+"0",""
+"0","mageck_lfc_sort <- as.vector(lfc_sort$lfc)"
+"0","names(mageck_lfc_sort) <- lfc_sort$id"
+"0",""

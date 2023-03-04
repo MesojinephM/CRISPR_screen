@@ -1,0 +1,12 @@
+"0","SampleES <- fgsea::fgseaSimple(
+  pathways = pathways[1:4],
+  stats = mageck_lfc_sort,
+  nperm = 1000,
+  minSize = 5,
+  scoreType = ""std"",
+  gseaParam = 1
+)
+"
+"2","Warning: There are ties in the preranked stats (6.31% of the list).
+The order of those tied genes will be arbitrary, which may produce unexpected results."
+"2","Warning: 'package:stats' may not be available when loading"
