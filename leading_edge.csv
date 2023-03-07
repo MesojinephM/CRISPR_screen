@@ -1,0 +1,3948 @@
+$BIOCARTA_CSK_PATHWAY
+[1] "crebbp"  "cd247"   "prkar2b" "zap70"   "prkar2a" "prkacb"  "prkar1b" "cd3e"    "adcy1"  
+
+$BIOCARTA_SRCRPTP_PATHWAY
+[1] "cdk1"   "cdc25b"
+
+$BIOCARTA_ARAP_PATHWAY
+[1] "arap1"   "cyth1"   "arfgap3" "arf1"   
+
+$BIOCARTA_AGR_PATHWAY
+[1] "pak2"   "cdc42"  "musk"   "chrna1" "jun"    "lama2"  "lama1" 
+
+$BIOCARTA_AKAP95_PATHWAY
+[1] "ddx5"    "cdk1"    "ncapd2"  "ppp2ca"  "prkar2b" "prkar2a" "prkacb" 
+
+$BIOCARTA_AKT_PATHWAY
+[1] "akt1"   "nfkbia" "ikbkg"  "rela"   "fasl"  
+
+$BIOCARTA_AT1R_PATHWAY
+ [1] "map2k4" "jun"    "map3k1" "hras"   "ptk2b"  "calm3"  "shc1"   "raf1"   "agtrap" "prkcb" 
+[11] "pak1"  
+
+$BIOCARTA_ACE2_PATHWAY
+[1] "ace"    "ren1"   "agtrap" "col4a2" "cma1"   "agtr2" 
+
+$BIOCARTA_ASBCELL_PATHWAY
+[1] "il10"   "cd40lg" "fasl"   "cd4"    "il4"   
+
+$BIOCARTA_DNAFRAGMENT_PATHWAY
+[1] "hmgb1" "top2a" "top2b" "casp3"
+
+$BIOCARTA_CHEMICAL_PATHWAY
+[1] "stat1" "trp53" "akt1" 
+
+$BIOCARTA_ATM_PATHWAY
+[1] "chek1"  "rad51"  "mre11a" "rad50"  "nbn"    "rpa1"   "nfkb1"  "jun"   
+
+$BIOCARTA_AGPCR_PATHWAY
+[1] "gnas"
+
+$BIOCARTA_BCELLSURVIVAL_PATHWAY
+[1] "mtor" "akt1" "dpf2" "cct4"
+
+$BIOCARTA_BLYMPHOCYTE_PATHWAY
+[1] "itgb2"  "fcgr2b" "icam1"  "itgal" 
+
+$BIOCARTA_BCR_PATHWAY
+ [1] "syk"    "vav1"   "btk"    "jun"    "ppp3cb" "map3k1" "hras"   "calm3"  "shc1"   "raf1"  
+[11] "nfatc3" "nfatc4" "cd79a"  "prkcb" 
+
+$BIOCARTA_BIOPEPTIDES_PATHWAY
+[1] "stat1"  "mapk14"
+
+$BIOCARTA_CACAM_PATHWAY
+[1] "camk4"  "camk2a"
+
+$BIOCARTA_CDMAC_PATHWAY
+[1] "myc"    "nfkbia" "rela"  
+
+$BIOCARTA_CASPASE_PATHWAY
+[1] "cycs"  "parp1" "lmnb2" "casp3" "casp9" "casp1"
+
+$BIOCARTA_CBL_PATHWAY
+[1] "csf1r" "prkcb" "egf"  
+
+$BIOCARTA_CCR3_PATHWAY
+[1] "gnas"    "pik3c2g" "map2k1"  "ccl11"   "rhoa"    "prkca"   "mapk3"  
+
+$BIOCARTA_CD40_PATHWAY
+[1] "traf3"  "nfkbia" "ikbkg"  "rela"   "cd40lg" "dusp1"  "traf6" 
+
+$BIOCARTA_MCM_PATHWAY
+ [1] "orc6"  "orc5"  "orc2"  "orc4"  "mcm7"  "mcm4"  "mcm6"  "cdc6"  "orc3"  "kitl"  "ccne1"
+
+$BIOCARTA_G1_PATHWAY
+ [1] "tfdp1" "cdk1"  "skp2"  "atr"   "ccnd1" "gsk3b" "dhfr"  "cdk4"  "e2f1"  "tgfb1" "ccne1"
+[12] "cdk6" 
+
+$BIOCARTA_G2_PATHWAY
+[1] "chek1"   "plk1"    "cdk1"    "atr"     "rps6ka1" "cdc25b"  "ep300"   "wee1"   
+
+$BIOCARTA_CELL2CELL_PATHWAY
+[1] "vcl"    "ctnna2" "actn2"  "actn3" 
+
+$BIOCARTA_CERAMIDE_PATHWAY
+[1] "fadd"   "cycs"   "nfkb1"  "map2k4"
+
+$BIOCARTA_CLASSIC_PATHWAY
+[1] "c7"   "c4b"  "c1qb" "c2"  
+
+$BIOCARTA_COMP_PATHWAY
+[1] "vps33a" "mbl1"  
+
+$BIOCARTA_VDR_PATHWAY
+ [1] "tsc2"    "prmt1"   "top2b"   "supt16"  "rxra"    "actl6a"  "ncor1"   "crebbp"  "smarcd1"
+[10] "ep300"   "snw1"   
+
+$BIOCARTA_HDAC_PATHWAY
+[1] "mapk14" "akt1"   "camk2a" "igf1r"  "mapk7" 
+
+$BIOCARTA_GCR_PATHWAY
+[1] "gnas" "akt1"
+
+$BIOCARTA_CTCF_PATHWAY
+[1] "mtor"   "trp53"  "cdkn2a" "myc"    "smad4"  "cdkn1b" "tgfb2" 
+
+$BIOCARTA_CTL_PATHWAY
+[1] "itgb2" "cd247" "cd3e"  "cd3d"  "icam1" "itgal" "gzmb" 
+
+$BIOCARTA_CXCR4_PATHWAY
+[1] "nfkb1" "hras"  "ptk2b" "raf1"  "prkcb" "bcar1"
+
+$BIOCARTA_CELLCYCLE_PATHWAY
+[1] "tfdp1" "cdk1"  "ccnd1" "cdk4"  "ccnh"  "e2f1"  "ccne1" "cdk6" 
+
+$BIOCARTA_CFTR_PATHWAY
+[1] "prkar2b" "prkar2a" "prkacb"  "prkar1b" "adcy1"  
+
+$BIOCARTA_CYTOKINE_PATHWAY
+[1] "ifnb1" "il6"   "il10" 
+
+$BIOCARTA_INFLAM_PATHWAY
+[1] "ifnb1" "il6"   "tgfb2" "il10" 
+
+$BIOCARTA_D4GDI_PATHWAY
+[1] "cycs"  "jun"   "parp1" "casp3" "casp9" "casp1"
+
+$BIOCARTA_P35ALZHEIMERS_PATHWAY
+[1] "gsk3b"  "ppp2ca" "capn1"  "cdk5"  
+
+$BIOCARTA_RNA_PATHWAY
+[1] "trp53"  "nfkbia" "rela"  
+
+$BIOCARTA_MTA3_PATHWAY
+[1] "tuba1c" "tuba1b" "gapdh"  "tuba1a"
+
+$BIOCARTA_SKP2E2F_PATHWAY
+[1] "tfdp1" "skp2"  "e2f1"  "ccne1" "cul1"  "rb1"  
+
+$BIOCARTA_CALCINEURIN_PATHWAY
+[1] "cdkn1a" "sp1"   
+
+$BIOCARTA_EGF_PATHWAY
+[1] "stat1" "jak1" 
+
+$BIOCARTA_NDKDYNAMIN_PATHWAY
+[1] "ppp3cb" "nme1"   "calm3"  "dnm1"   "epn1"   "synj1" 
+
+$BIOCARTA_EPHA4_PATHWAY
+[1] "rap1b" "fyn"  
+
+$BIOCARTA_EPO_PATHWAY
+[1] "ptpn6"   "jun"     "csnk2a1" "epo"     "hras"    "shc1"    "raf1"   
+
+$BIOCARTA_ECM_PATHWAY
+[1] "pfn1"   "tln1"   "pik3cg" "hras"   "mylk"   "shc1"   "raf1"  
+
+$BIOCARTA_ERK_PATHWAY
+ [1] "gnas"    "myc"     "mknk2"   "pdgfra"  "rps6ka5" "stat3"   "igf1r"   "map2k2"  "map2k1" 
+[10] "mknk1"   "ptprr"  
+
+$BIOCARTA_ERYTH_PATHWAY
+[1] "kitl"  "tgfb1" "epo"   "csf2"  "flt3"  "il3"   "il11"  "il9"  
+
+$BIOCARTA_EPONFKB_PATHWAY
+[1] "cdkn1a" "nfkbia" "rela"   "jak2"  
+
+$BIOCARTA_EIF_PATHWAY
+[1] "eef2"    "eif2s3x" "eif6"    "eif2s1"  "eif5"   
+
+$BIOCARTA_EXTRINSIC_PATHWAY
+[1] "pros1"    "fgb"      "serpinc1" "f2r"     
+
+$BIOCARTA_FAS_PATHWAY
+ [1] "pak2"   "fadd"   "daxx"   "cflar"  "map2k4" "jun"    "parp1"  "map3k1" "lmnb2"  "casp3" 
+[11] "rb1"    "ptpn13"
+
+$BIOCARTA_FCER1_PATHWAY
+ [1] "pak2"   "syk"    "map2k7" "vav1"   "btk"    "map2k4" "jun"    "pik3cg" "ppp3cb" "map3k1"
+[11] "hras"   "calm3"  "shc1"   "raf1"  
+
+$BIOCARTA_FIBRINOLYSIS_PATHWAY
+[1] "plau" "plat" "fgb" 
+
+$BIOCARTA_FMLP_PATHWAY
+[1] "mapk14"  "nfkbia"  "rela"    "camk2a"  "map2k2"  "pik3c2g" "map2k1"  "gna15"  
+
+$BIOCARTA_FREE_PATHWAY
+[1] "sod1"  "nfkb1" "gss"   "gpx1" 
+
+$BIOCARTA_GABA_PATHWAY
+[1] "nsf"     "gabarap" "ubqln1" 
+
+$BIOCARTA_GATA3_PATHWAY
+[1] "mapk14" "maf"   
+
+$BIOCARTA_SET_PATHWAY
+[1] "crebbp" "nme1"   "apex1"  "gzma"  
+
+$BIOCARTA_GH_PATHWAY
+[1] "ptpn6"   "rps6ka1" "pik3cg"  "hras"    "shc1"    "gh"      "raf1"   
+
+$BIOCARTA_TCAPOPTOSIS_PATHWAY
+[1] "ccr5" "fasl" "cd4" 
+
+$BIOCARTA_HIVNEF_PATHWAY
+ [1] "pak2"   "rasa1"  "fadd"   "daxx"   "map2k7" "cycs"   "nfkb1"  "cflar"  "parp1"  "map3k1"
+[11] "cdk11b" "lmnb2"  "prkcd"  "casp3"  "psen1"  "actg1"  "bid"    "casp9"  "rb1"   
+
+$BIOCARTA_MPR_PATHWAY
+ [1] "cdk1"    "rps6ka1" "cap1"    "hras"    "prkar2b" "prkar2a" "prkacb"  "myt1"    "prkar1b"
+[10] "adcy1"  
+
+$BIOCARTA_HCMV_PATHWAY
+[1] "mapk14" "akt1"   "sp1"    "rela"  
+
+$BIOCARTA_IGF1_PATHWAY
+[1] "rasa1"   "jun"     "csnk2a1" "ptpn11"  "pik3cg"  "hras"    "shc1"    "raf1"   
+
+$BIOCARTA_IL17_PATHWAY
+[1] "il6" "cd4" "cd2"
+
+$BIOCARTA_IL2_PATHWAY
+[1] "syk"     "jun"     "csnk2a1" "il2ra"   "hras"    "shc1"    "raf1"   
+
+$BIOCARTA_IL3_PATHWAY
+[1] "ptpn6" "hras"  "shc1"  "il3"   "raf1" 
+
+$BIOCARTA_IL4_PATHWAY
+[1] "jak1"  "akt1"  "il2rg" "jak3"  "stat6" "il4"   "irs1" 
+
+$BIOCARTA_IL5_PATHWAY
+[1] "il6"   "cd4"   "il4"   "ccl11" "il5ra" "il1b" 
+
+$BIOCARTA_IL6_PATHWAY
+[1] "jak1"    "cebpb"   "il6"     "il6st"   "stat3"   "jak2"    "csnk2a2" "jak3"    "il6ra"  
+
+$BIOCARTA_IL10_PATHWAY
+[1] "stat1"  "jak1"   "il6"    "blvra"  "il10"   "stat3"  "il10ra"
+
+$BIOCARTA_IL12_PATHWAY
+[1] "mapk14"  "tyk2"    "ccr5"    "etv5"    "il12rb1" "jak2"    "cxcr3"  
+
+$BIOCARTA_IL2RB_PATHWAY
+[1] "ptpn6"  "syk"    "cflar"  "e2f1"   "pik3cg" "il2ra"  "hras"  
+
+$BIOCARTA_IL22BP_PATHWAY
+[1] "stat1" "jak1"  "tyk2"  "stat3" "jak2"  "jak3" 
+
+$BIOCARTA_IL7_PATHWAY
+[1] "jak1" "lck"  "jak3"
+
+$BIOCARTA_GSK3_PATHWAY
+[1] "ccnd1"  "gsk3b"  "nfkb1"  "myd88"  "fzd1"   "ppp2ca" "axin1"  "ctnnb1"
+
+$BIOCARTA_DEATH_PATHWAY
+[1] "traf2"   "nfkbia"  "tnfsf13" "gas2"    "tradd"   "rela"    "sptan1"  "casp7"  
+
+$BIOCARTA_RACCYCD_PATHWAY
+[1] "cdkn1a" "akt1"   "nfkbia" "cdkn1b" "ikbkg" 
+
+$BIOCARTA_GLEEVEC_PATHWAY
+[1] "stat1" "akt1"  "myc"  
+
+$BIOCARTA_INSULIN_PATHWAY
+[1] "rasa1"   "jun"     "csnk2a1" "ptpn11"  "pik3cg"  "hras"    "shc1"    "raf1"   
+
+$BIOCARTA_INTEGRIN_PATHWAY
+[1] "tln1"    "rapgef1" "jun"     "hras"    "capn1"   "shc1"    "raf1"   
+
+$BIOCARTA_INTRINSIC_PATHWAY
+[1] "col4a6"   "pros1"    "fgb"      "col4a5"   "kng1"     "serpinc1" "col4a4"   "f2r"     
+
+$BIOCARTA_KERATINOCYTE_PATHWAY
+[1] "traf2"    "mapk14"   "cebpa"    "tnfrsf1a" "nfkbia"   "sp1"      "tnfrsf1b"
+
+$BIOCARTA_TCRA_PATHWAY
+[1] "lck" "cd4"
+
+$BIOCARTA_LECTIN_PATHWAY
+[1] "c7"    "c4b"   "masp2" "masp1" "c2"   
+
+$BIOCARTA_PYK2_PATHWAY
+[1] "mapk14"
+
+$BIOCARTA_EGFR_SMRTE_PATHWAY
+[1] "mapk14" "ncor2"  "thra"   "map2k1"
+
+$BIOCARTA_MAPK_PATHWAY
+ [1] "stat1"   "traf2"   "mapk14"  "max"     "cebpa"   "map2k5"  "myc"     "nfkbia"  "sp1"    
+[10] "mknk2"   "tgfb2"   "tradd"   "rps6kb2" "rela"    "rps6ka5" "mapk6"  
+
+$BIOCARTA_MCALPAIN_PATHWAY
+[1] "tln1"    "hras"    "mylk"    "prkar2b" "prkar2a" "prkacb"  "capn1"   "prkar1b"
+
+$BIOCARTA_ETS_PATHWAY
+ [1] "csf1r" "ddx20" "sin3a" "jun"   "e2f1"  "ets2"  "hras"  "etv3"  "ets1"  "hdac5" "hdac2"
+
+$BIOCARTA_MONOCYTE_PATHWAY
+[1] "itgb2" "itgam" "icam1" "itgal" "cd44" 
+
+$BIOCARTA_MTOR_PATHWAY
+[1] "tsc1" "tsc2" "pten"
+
+$BIOCARTA_IGF1R_PATHWAY
+[1] "rps6ka1" "hras"    "prkar2b" "prkar2a" "prkacb"  "shc1"    "raf1"    "prkar1b" "adcy1"  
+
+$BIOCARTA_PITX2_PATHWAY
+[1] "gsk3b"  "trrap"  "crebbp" "ep300"  "fzd1"   "axin1"  "ctnnb1"
+
+$BIOCARTA_NGF_PATHWAY
+[1] "jun"     "csnk2a1" "pik3cg"  "hras"    "shc1"    "raf1"    "ngfr"   
+
+$BIOCARTA_VIP_PATHWAY
+[1] "nfkb1"   "ppp3cb"  "map3k1"  "prkar2b" "prkar2a" "prkacb"  "calm3"   "prkar1b" "chuk"   
+
+$BIOCARTA_NFAT_PATHWAY
+[1] "mapk14" "akt1"   "hand2" 
+
+$BIOCARTA_NTHI_PATHWAY
+[1] "tgfbr2" "tgfbr1" "nfkb1"  "myd88"  "crebbp" "ikbkb"  "ep300" 
+
+$BIOCARTA_NFKB_PATHWAY
+[1] "tnfrsf1a" "nfkbia"   "irak1"    "ikbkg"    "tnfrsf1b" "tradd"    "rela"    
+
+$BIOCARTA_NOS1_PATHWAY
+[1] "ppp3cb"  "prkar2b" "prkar2a" "prkacb"  "calm3"   "prkar1b" "grin1"   "prkcb"  
+
+$BIOCARTA_NO2IL12_PATHWAY
+[1] "tyk2"    "ccr5"    "il12rb1" "jak2"    "cxcr3"   "cd4"     "cd2"    
+
+$BIOCARTA_RARRXR_PATHWAY
+[1] "rxra" "tbp" 
+
+$BIOCARTA_NUCLEARRS_PATHWAY
+[1] "abca1"   "abcg1"   "abcd3"   "cyp26a1" "cyp3a11" "nr0b2"  
+
+$BIOCARTA_ARENRF2_PATHWAY
+[1] "keap1" "hmox1" "mafg"  "gsta2" "jun"  
+
+$BIOCARTA_P38MAPK_PATHWAY
+[1] "stat1"  "traf2"  "mapk14" "max"    "myc"    "tgfb2"  "tradd"  "hspb2" 
+
+$BIOCARTA_P53_PATHWAY
+[1] "cdkn1a" "trp53" 
+
+$BIOCARTA_PDGF_PATHWAY
+[1] "rasa1"   "map2k4"  "pdgfa"   "jun"     "csnk2a1" "pik3cg"  "map3k1"  "hras"   
+
+$BIOCARTA_CCR5_PATHWAY
+[1] "mapk14" "ccl4"   "ccr5"  
+
+$BIOCARTA_PTDINS_PATHWAY
+[1] "akt1" "lyn"  "arf1"
+
+$BIOCARTA_PLCE_PATHWAY
+[1] "rap2b"   "rapgef3"
+
+$BIOCARTA_EDG1_PATHWAY
+ [1] "akt1"   "itgb3"  "pdgfra" "asah1"  "itgav"  "smpd2"  "rhoa"   "prkca"  "mapk3"  "sphk1" 
+
+$BIOCARTA_CDK5_PATHWAY
+[1] "hras" "raf1" "ngfr" "cdk5"
+
+$BIOCARTA_PLATELETAPP_PATHWAY
+[1] "plau"   "col4a6" "plat"   "col4a5" "col4a4"
+
+$BIOCARTA_PS1_PATHWAY
+[1] "adam17" "gsk3b"  "fzd1"   "axin1"  "ctnnb1" "psen1" 
+
+$BIOCARTA_AKAPCENTROSOME_PATHWAY
+[1] "cdk1"    "prkce"   "ppp2ca"  "prkar2b" "prkar2a" "prkacb" 
+
+$BIOCARTA_PTEN_PATHWAY
+[1] "pten" "ilk"  "shc1"
+
+$BIOCARTA_RAB_PATHWAY
+[1] "rab6a"  "rab8a"  "rab7"   "rab11a" "rab9"   "rab2a" 
+
+$BIOCARTA_RAC1_PATHWAY
+[1] "vav1"   "pld1"   "pik3cg" "map3k1" "mylk"   "ncf2"  
+
+$BIOCARTA_RAS_PATHWAY
+[1] "cdc42"  "nfkb1"  "pld1"   "pik3cg" "hras"   "casp9"  "raf1"  
+
+$BIOCARTA_NKCELLS_PATHWAY
+[1] "ptpn6" "syk"   "vav1"  "il18"  "ptk2b" "klrd1"
+
+$BIOCARTA_RB_PATHWAY
+[1] "chek1"  "cdk1"   "cdk4"   "cdc25b" "wee1"   "rb1"    "myt1"  
+
+$BIOCARTA_BAD_PATHWAY
+[1] "akt1"  "il3ra"
+
+$BIOCARTA_CK1_PATHWAY
+[1] "ppp2ca"  "prkar2b" "prkar2a" "prkacb"  "csnk1d"  "prkar1b"
+
+$BIOCARTA_EIF2_PATHWAY
+[1] "gsk3b"   "eif2s3x" "eif2s1"  "eif2ak3" "eif5"   
+
+$BIOCARTA_EIF4_PATHWAY
+[1] "mtor"   "mapk14" "akt1"   "pabpc1"
+
+$BIOCARTA_STEM_PATHWAY
+[1] "epo"  "csf2" "il5"  "il3"  "il11" "il9"  "csf3" "il2" 
+
+$BIOCARTA_P27_PATHWAY
+[1] "nedd8" "cks1b" "tfdp1" "rbx1"  "skp2"  "e2f1"  "ccne1" "cul1" 
+
+$BIOCARTA_PGC1A_PATHWAY
+[1] "camk4"  "camk2a" "esrra"  "slc2a4"
+
+$BIOCARTA_PML_PATHWAY
+[1] "uba2"   "daxx"   "sae1"   "crebbp" "hras"  
+
+$BIOCARTA_DREAM_PATHWAY
+[1] "jun"     "prkar2b" "prkar2a" "prkacb"  "oprk1"   "prkar1b" "fos"    
+
+$BIOCARTA_RHO_PATHWAY
+[1] "pfn1"  "tln1"  "ophn1"
+
+$BIOCARTA_AKAP13_PATHWAY
+[1] "gna12"  "lpar1"  "prkag1" "lpar2"  "rhoa"   "lpar3" 
+
+$BIOCARTA_ATRBRCA_PATHWAY
+ [1] "chek1"  "rad9a"  "rad51"  "mre11a" "rad1"   "rad50"  "hus1"   "atr"    "brca2"  "nbn"   
+[11] "rad17" 
+
+$BIOCARTA_CARDIACEGF_PATHWAY
+[1] "nfkb1" "jun"   "hras"  "ednrb" "prkcb" "edn1"  "agtr2" "egf"   "fos"  
+
+$BIOCARTA_HER2_PATHWAY
+[1] "il6"    "il6st"  "stat3"  "il6ra"  "map2k1" "erbb4" 
+
+$BIOCARTA_ERK5_PATHWAY
+[1] "rps6ka1" "pik3cg"  "hras"    "shc1"   
+
+$BIOCARTA_MAL_PATHWAY
+[1] "cdc42"  "map3k1" "hras"   "raf1"  
+
+$BIOCARTA_MEF2D_PATHWAY
+[1] "ep300"  "ppp3cb" "calm3"  "hdac2"  "prkcb" 
+
+$BIOCARTA_MITOCHONDRIA_PATHWAY
+[1] "diablo" "casp7"  "birc2"  "bax"    "bak1"   "endog"  "casp8"  "dffb"  
+
+$BIOCARTA_ACH_PATHWAY
+[1] "akt1"   "chrnb1" "fasl"  
+
+$BIOCARTA_PARKIN_PATHWAY
+[1] "uba2" "snca"
+
+$BIOCARTA_CDC42RAC_PATHWAY
+[1] "cdc42" "pak1" 
+
+$BIOCARTA_RANMS_PATHWAY
+[1] "rangap1" "kpnb1"   "aurka"   "rcc1"    "tpx2"    "kpna2"  
+
+$BIOCARTA_BARR_MAPK_PATHWAY
+[1] "gnas"   "map2k2" "map2k1" "kcna3" 
+
+$BIOCARTA_TOB1_PATHWAY
+[1] "tgfbr2" "tgfbr1" "tgfb1"  "il2ra"  "cd247" 
+
+$BIOCARTA_BARRESTIN_SRC_PATHWAY
+[1] "gnas"   "fgr"    "map2k2" "map2k1" "kcna3" 
+
+$BIOCARTA_NKT_PATHWAY
+[1] "ccl4"    "ccr5"    "ccr2"    "tgfb2"   "il12rb1" "cd40lg"  "cxcr3"   "cd4"     "il4"    
+
+$BIOCARTA_IL1R_PATHWAY
+[1] "mapk14" "ifnb1"  "nfkbia" "il6"    "irak1"  "tgfb2"  "irak2"  "rela"  
+
+$BIOCARTA_MET_PATHWAY
+[1] "pten"    "rasa1"   "rap1b"   "rapgef1" "jun"     "ptpn11"  "pik3cg"  "hras"    "ptk2b"  
+
+$BIOCARTA_GPCR_PATHWAY
+ [1] "jun"     "rps6ka3" "ppp3cb"  "hras"    "prkar2b" "prkar2a" "prkacb"  "calm3"   "raf1"   
+[10] "prkar1b" "nfatc3"  "adcy1"   "nfatc4"  "prkcb"   "fos"    
+
+$BIOCARTA_IGF1MTOR_PATHWAY
+[1] "mtor" "akt1"
+
+$BIOCARTA_SODD_PATHWAY
+[1] "traf2"    "tnfrsf1a" "tnfrsf1b" "tradd"   
+
+$BIOCARTA_SHH_PATHWAY
+[1] "dyrk1a" "dyrk1b" "shh"    "gli2"  
+
+$BIOCARTA_PTC1_PATHWAY
+[1] "cdk1"   "ccnh"   "xpo1"   "cdc25b" "mnat1"  "cdk7"  
+
+$BIOCARTA_SPRY_PATHWAY
+[1] "rasa1" "hras"  "shc1"  "raf1" 
+
+$BIOCARTA_BARRESTIN_PATHWAY
+[1] "gnas"
+
+$BIOCARTA_STATHMIN_PATHWAY
+ [1] "cdk1"    "rb1cc1"  "cd247"   "prkar2b" "prkar2a" "prkacb"  "tsg101"  "stmn1"   "prkar1b"
+[10] "cd3e"   
+
+$BIOCARTA_HSP27_PATHWAY
+[1] "daxx"     "cycs"     "mapkapk2" "casp3"    "casp9"   
+
+$BIOCARTA_TCR_PATHWAY
+ [1] "rasa1"  "vav1"   "nfkb1"  "map2k4" "jun"    "pik3cg" "cd247"  "ppp3cb" "map3k1" "hras"  
+[11] "zap70"  "calm3"  "shc1"   "raf1"   "cd3e"   "nfatc3"
+
+$BIOCARTA_TCYTOTOXIC_PATHWAY
+[1] "itgb2" "cd247" "cd3e"  "cd3d"  "icam1" "itgal" "cd8a" 
+
+$BIOCARTA_THELPER_PATHWAY
+[1] "itgb2" "cd247" "cd3e"  "cd3d"  "icam1"
+
+$BIOCARTA_TALL1_PATHWAY
+[1] "traf2"  "mapk14" "traf3" 
+
+$BIOCARTA_TEL_PATHWAY
+[1] "terf1"    "xrcc6"    "hsp90aa1" "tep1"     "ppp2ca"  
+
+$BIOCARTA_TGFB_PATHWAY
+[1] "tgfbr2" "tgfbr1" "tgfb1"  "crebbp" "ep300"  "skil"  
+
+$BIOCARTA_TH1TH2_PATHWAY
+[1] "il12rb1" "il12a"   "cd40lg"  "il4"    
+
+$BIOCARTA_41BB_PATHWAY
+[1] "traf2"  "mapk14" "nfkbia"
+
+$BIOCARTA_CTLA4_PATHWAY
+[1] "ptpn11" "cd247"  "itk"    "icos"   "cd86"   "cd3e"   "cd3d"   "il2"   
+
+$BIOCARTA_LONGEVITY_PATHWAY
+[1] "sod1"   "pik3cg" "hras"   "shc1"   "gh"    
+
+$BIOCARTA_PAR1_PATHWAY
+[1] "rock1"   "gna12"   "arhgef1"
+
+$BIOCARTA_STRESS_PATHWAY
+[1] "traf2"    "mapk14"   "tnfrsf1a" "nfkbia"   "ikbkg"    "tradd"    "rela"    
+
+$BIOCARTA_TNFR1_PATHWAY
+[1] "pak2"   "fadd"   "map2k4" "jun"    "parp1"  "map3k1" "lmnb2"  "casp3" 
+
+$BIOCARTA_TNFR2_PATHWAY
+[1] "traf2"    "traf3"    "nfkbia"   "ikbkg"    "tnfrsf1b" "rela"    
+
+$BIOCARTA_TOLL_PATHWAY
+[1] "mapk14" "nfkbia" "irak1"  "ikbkg"  "rela"  
+
+$BIOCARTA_TPO_PATHWAY
+[1] "rasa1"   "jun"     "csnk2a1" "pik3cg"  "hras"    "shc1"    "raf1"   
+
+$BIOCARTA_CREB_PATHWAY
+[1] "mapk14" "akt1"  
+
+$BIOCARTA_CARM1_PATHWAY
+[1] "rxra"    "crebbp"  "ep300"   "prkar2b" "prkar2a" "prkacb"  "prkar1b"
+
+$BIOCARTA_TFF_PATHWAY
+[1] "cycs"   "pik3cg" "hras"   "ctnnb1" "casp9"  "shc1"   "gh"    
+
+$BIOCARTA_TRKA_PATHWAY
+[1] "akt1"
+
+$BIOCARTA_ARF_PATHWAY
+[1] "trp53"  "cdkn2a" "myc"    "twist1"
+
+$BIOCARTA_UCALPAIN_PATHWAY
+[1] "tln1"  "capn1"
+
+$BIOCARTA_VITCB_PATHWAY
+[1] "slc23a1" "col4a6"  "slc2a3" 
+
+$BIOCARTA_WNT_PATHWAY
+[1] "ccnd1"   "gsk3b"   "csnk2a1" "crebbp"  "fzd1"    "ppp2ca"  "axin1"   "ctnnb1" 
+
+$BIOCARTA_ACTINY_PATHWAY
+[1] "wasf2" "psma7"
+
+$BIOCARTA_EICOSANOID_PATHWAY
+[1] "ptges"  "hpgds"  "ptgfr"  "ptgir"  "ptger4"
+
+$BIOCARTA_CHREBP_PATHWAY
+[1] "ppp2ca"  "prkar2b" "prkar2a" "mlxipl"  "prkacb"  "prkar1b" "adcy1"  
+
+$BIOCARTA_LIS1_PATHWAY
+[1] "dynll1"   "dctn6"    "csnk2a1"  "dctn3"    "pafah1b1" "abl1"     "cdk5"     "clip1"   
+
+$BIOCARTA_HSWI_SNF_PATHWAY
+[1] "arid1a"  "smarce1" "smarca4" "smarcb1"
+
+$BIOCARTA_PCAF_PATHWAY
+[1] "hmgb1"  "nfkb1"  "jun"    "crebbp"
+
+$BIOCARTA_LYMPHOCYTE_PATHWAY
+[1] "itgb2" "icam1" "itgal" "cd44" 
+
+$BIOCARTA_AMAN_PATHWAY
+[1] "b3galt1" "man1a"   "st3gal4" "man2b1" 
+
+$BIOCARTA_NEUTROPHIL_PATHWAY
+[1] "itgb2" "itgam" "icam1" "itgal" "cd44" 
+
+$BIOCARTA_EFP_PATHWAY
+[1] "cdk1"  "cdk4"  "cdk6"  "esr1"  "cdk7"  "ccnb2" "ccnb1" "cdk5"  "cdk2" 
+
+$BIOCARTA_CREM_PATHWAY
+[1] "xpo1"  "fhl5"  "adcy1"
+
+$BIOCARTA_ERAD_PATHWAY
+[1] "uba2"    "sec61a1" "rbx1"    "ube2i"   "sae1"    "fbxo2"   "cul1"    "mogs"   
+
+$BIOCARTA_BTG2_PATHWAY
+[1] "prmt1" "ccnd1" "btg1" 
+
+$BIOCARTA_TERT_PATHWAY
+[1] "max"   "trp53" "myc"   "sp1"  
+
+$BIOCARTA_VOBESITY_PATHWAY
+[1] "rxra"    "hsd11b1" "retn"    "pparg"   "lpl"    
+
+$BIOCARTA_ERBB3_PATHWAY
+[1] "ube2d1" "erbb3"  "egfr"   "rnf41"  "nrg1"   "egf"   
+
+$BIOCARTA_CTBP1_PATHWAY
+[1] "uba2"  "ube2i" "sae1"  "zeb1" 
+
+$BIOCARTA_PRION_PATHWAY
+[1] "rpsa"   "dnajb6" "lama1" 
+
+$BIOCARTA_FXR_PATHWAY
+[1] "abca1" "rxra" 
+
+$BIOCARTA_ACETAMINOPHEN_PATHWAY
+[1] "nr1i3"  "cyp1a2"
+
+$BIOCARTA_PRC2_PATHWAY
+[1] "rbbp4" "ezh2" 
+
+$BIOCARTA_RANBP2_PATHWAY
+[1] "uba2"    "rangap1" "sae1"    "ranbp2"  "hdac6"  
+
+$BIOCARTA_IRES_PATHWAY
+[1] "eif4e"  "eif4g3"
+
+$BIOCARTA_PLC_PATHWAY
+[1] "vav1"   "pik3cg"
+
+$BIOCARTA_BBCELL_PATHWAY
+[1] "cd40lg" "fasl"   "cd4"   
+
+$BIOCARTA_CDC25_PATHWAY
+[1] "chek1"  "cdk1"   "cdc25b" "wee1"  
+
+$BIOCARTA_DSP_PATHWAY
+[1] "mapk14" "dusp2"  "dusp6"  "dusp1" 
+
+$BIOCARTA_MELANOCYTE_PATHWAY
+[1] "rps6ka1" "kitl"    "ep300"   "mitf"    "creb1"   "kit"    
+
+$BIOCARTA_S1P_PATHWAY
+[1] "hmgcs1" "mbtps1" "srebf1" "ldlr"  
+
+$BIOCARTA_HBX_PATHWAY
+[1] "hras"  "ptk2b" "shc1"  "creb1" "grb2"  "sos1" 
+
+$BIOCARTA_MALATEX_PATHWAY
+[1] "cs"      "mdh1"    "slc25a1"
+
+$BIOCARTA_TSP1_PATHWAY
+[1] "mapk14"
+
+$BIOCARTA_NPP1_PATHWAY
+[1] "col4a6" "col4a5" "col4a4" "spp1"  
+
+$BIOCARTA_CPSF_PATHWAY
+[1] "cpsf1"  "cpsf3"  "pabpn1"
+
+$BIOCARTA_HES_PATHWAY
+[1] "rbpj" "dll1" "hes1"
+
+$BIOCARTA_ERBB4_PATHWAY
+[1] "adam17" "psen1"  "nrg3"   "prkcb" 
+
+$BIOCARTA_TERC_PATHWAY
+[1] "nfyb" "nfyc" "rb1"  "sp3"  "nfya"
+
+$BIOCARTA_EOSINOPHILS_PATHWAY
+[1] "csf2" "il5"  "il3"  "ccr3" "ccl5"
+
+$BIOCARTA_REELIN_PATHWAY
+[1] "reln"   "cdk5r1" "fyn"    "vldlr"  "cdk5"   "dab1"  
+
+$BIOCARTA_SAM68_PATHWAY
+[1] "rasa1" "cdk1"  "hras" 
+
+$BIOCARTA_FBW7_PATHWAY
+[1] "tfdp1" "fbxw7" "e2f1"  "ccne1" "cul1"  "rb1"  
+
+$BIOCARTA_CB1R_PATHWAY
+[1] "pld1" "cnr1" "baat" "pld3"
+
+$BIOCARTA_SUMO_PATHWAY
+[1] "uba2"  "sumo2" "ube2i" "sae1" 
+
+$BIOCARTA_IFNA_PATHWAY
+[1] "ifnar1" "ifnar2" "stat1"  "jak1"   "tyk2"   "ifnb1"  "irf9"  
+
+$BIOCARTA_PKC_PATHWAY
+[1] "nfkbia" "rela"  
+
+$BIOCARTA_PPARG_PATHWAY
+[1] "rxra"   "crebbp" "ep300" 
+
+$BIOCARTA_PELP1_PATHWAY
+[1] "crebbp" "ep300"  "esr1"  
+
+$BIOCARTA_STAT3_PATHWAY
+[1] "mtor"  "jak1"  "tyk2"  "stat3" "jak2"  "jak3" 
+
+$BIOCARTA_EEA1_PATHWAY
+[1] "hgs"   "egf"   "egfr"  "tfrc"  "pp2d1" "trf"  
+
+$BIOCARTA_CIRCADIAN_PATHWAY
+[1] "cry2"  "clock"
+
+$BIOCARTA_RECK_PATHWAY
+[1] "mmp9"  "mmp2"  "timp4"
+
+$BIOCARTA_MSP_PATHWAY
+[1] "tnf"  "il1b"
+
+$BIOCARTA_SLRP_PATHWAY
+[1] "epyc" "lum" 
+
+$BIOCARTA_ALTERNATIVE_PATHWAY
+[1] "vps33a" "c9"    
+
+$BIOCARTA_NOTCH_PATHWAY
+[1] "adam17" "psen1" 
+
+$BIOCARTA_TUBBY_PATHWAY
+[1] "htr2c" "chrm1" "plcb1" "tub"   "gnaq" 
+
+$BIOCARTA_MRP_PATHWAY
+[1] "gstp2"  "abcc3"  "abcb1b"
+
+$BIOCARTA_PLCD_PATHWAY
+[1] "plcd1"  "prkcb"  "adra1b"
+
+$BIOCARTA_WNT_LRP6_PATHWAY
+[1] "wnt8b"   "kremen2" "wnt8a"  
+
+$BIOCARTA_PEPI_PATHWAY
+[1] "cela1" "slpi" 
+
+$BIOCARTA_IFNG_PATHWAY
+[1] "stat1" "jak1" 
+
+$REACTOME_INTERLEUKIN_6_SIGNALING
+[1] "tyk2"  "il6"   "il6st" "stat3" "jak2"  "cbl"   "il6ra"
+
+$REACTOME_APOPTOSIS
+ [1] "kpnb1"  "hmgb1"  "fadd"   "clspn"  "cycs"   "dynll1" "nmt1"   "cflar"  "opa1"   "ywhab" 
+[11] "acin1"  "apip"  
+
+$REACTOME_HEMOSTASIS
+  [1] "sod1"     "tuba1c"   "tuba1b"   "kif20a"   "fermt3"   "kif11"    "ptpn6"    "rad51c"  
+  [9] "apbb1ip"  "hdac1"    "syk"      "rap1b"    "racgap1"  "wdr1"     "tln1"     "gnai2"   
+ [17] "atp2a2"   "cdc42"    "arrb2"    "tex264"   "itgb2"    "rhog"     "aamp"     "h3f3a"   
+ [25] "mafg"     "vav1"     "itgam"    "a2m"      "sh2b3"    "f2rl3"    "dock8"    "kif4"    
+ [33] "capzb"    "kif27"    "rac2"     "ehd1"     "kif23"    "atp2b1"   "pdgfa"    "kif18b"  
+ [41] "sdc4"     "anxa5"    "dgka"     "fcamr"    "ptpn11"   "cenpe"    "pik3cg"   "cbx5"    
+ [49] "tuba1a"   "ceacam1"  "prkce"    "tubal3"   "hrg"      "tgfb1"    "alb"      "zfpm1"   
+ [57] "app"      "gnb5"     "tfpi"     "ppp2r5c"  "kif12"    "jam3"     "maged2"   "dgkq"    
+ [65] "sirpb1a"  "gna14"    "vegfc"    "ptpn1"    "hras"     "ppp2ca"   "atp2a1"   "cd63"    
+ [73] "gng12"    "psg22"    "p2rx6"    "plg"      "f11r"     "qsox1"    "kifc5b"   "sirpb1b" 
+ [81] "prkar2b"  "ppp2cb"   "ecm1"     "prkcd"    "kif20b"   "vegfb"    "cd9"      "trpc7"   
+ [89] "prkacb"   "cd47"     "ola1"     "p2rx4"    "rad51b"   "cxadr"    "cdc37l1"  "aldoa"   
+ [97] "serpinb2" "actg1"    "calm3"    "daglb"    "dock4"    "tuba3b"   "shc1"     "phactr2" 
+[105] "pde5a"    "dgkg"     "sirpa"    "kif13b"   "gata6"    "nos3"     "raf1"    
+
+$REACTOME_INTRINSIC_PATHWAY_FOR_APOPTOSIS
+[1] "cycs"   "dynll1" "nmt1"   "ywhab"  "apip"   "ywhae"  "casp3"  "bid"    "casp9" 
+
+$REACTOME_MAPK3_ERK1_ACTIVATION
+[1] "tyk2"   "il6"    "il6st"  "jak2"   "il6ra"  "map2k1"
+
+$REACTOME_TRANSLESION_SYNTHESIS_BY_Y_FAMILY_DNA_POLYMERASES_BYPASSES_LESIONS_ON_DNA_TEMPLATE
+ [1] "pole"   "rpa3"   "rfc5"   "vcp"    "pcna"   "pold2"  "rfc2"   "rps27a" "sprtn"  "pold1" 
+[11] "rfc1"   "rfc3"   "pole2"  "pold3"  "nploc4" "rfc4"   "rpa1"  
+
+$REACTOME_RECOGNITION_OF_DNA_DAMAGE_BY_PCNA_CONTAINING_REPLICATION_COMPLEX
+ [1] "pole"   "rpa3"   "rfc5"   "pcna"   "wdr48"  "pold2"  "rfc2"   "rps27a" "pold1"  "rfc1"  
+[11] "rbx1"   "rfc3"   "pole2"  "pold3"  "rfc4"   "rpa1"   "ddb1"   "uba52"  "pole4"  "pole3" 
+[21] "usp1"  
+
+$REACTOME_TRANSLESION_SYNTHESIS_BY_POLH
+ [1] "rpa3"   "rfc5"   "vcp"    "pcna"   "rfc2"   "rps27a" "sprtn"  "rfc1"   "rfc3"   "nploc4"
+[11] "rfc4"   "rpa1"   "uba52" 
+
+$REACTOME_CLEAVAGE_OF_THE_DAMAGED_PYRIMIDINE
+[1] "nthl1" "neil1" "ung"  
+
+$REACTOME_DISPLACEMENT_OF_DNA_GLYCOSYLASE_BY_APEX1
+[1] "nthl1" "apex1" "ung"  
+
+$REACTOME_POLB_DEPENDENT_LONG_PATCH_BASE_EXCISION_REPAIR
+[1] "lig1"  "fen1"  "parg"  "parp1" "polb"  "apex1"
+
+$REACTOME_RESOLUTION_OF_AP_SITES_VIA_THE_MULTIPLE_NUCLEOTIDE_PATCH_REPLACEMENT_PATHWAY
+ [1] "pole"  "rpa3"  "rfc5"  "pcna"  "pold2" "rfc2"  "pold1" "rfc1"  "rfc3"  "pole2" "pold3"
+[12] "lig1"  "fen1"  "rfc4"  "rpa1"  "pole4" "parg"  "pole3" "parp1"
+
+$REACTOME_ACTIVATION_OF_BAD_AND_TRANSLOCATION_TO_MITOCHONDRIA
+[1] "ywhab" "ywhae" "bid"  
+
+$REACTOME_BH3_ONLY_PROTEINS_ASSOCIATE_WITH_AND_INACTIVATE_ANTI_APOPTOTIC_BCL_2_MEMBERS
+[1] "bcl2l11" "bmf"     "bcl2l1"  "pmaip1" 
+
+$REACTOME_RELEASE_OF_APOPTOTIC_FACTORS_FROM_THE_MITOCHONDRIA
+[1] "cycs"
+
+$REACTOME_FORMATION_OF_APOPTOSOME
+[1] "cycs"  "apip"  "casp9"
+
+$REACTOME_ACTIVATION_OF_CASPASES_THROUGH_APOPTOSOME_MEDIATED_CLEAVAGE
+[1] "cycs"  "casp3" "casp9"
+
+$REACTOME_CYTOCHROME_C_MEDIATED_APOPTOTIC_RESPONSE
+[1] "cycs"  "apip"  "casp3" "casp9"
+
+$REACTOME_APOPTOTIC_CLEAVAGE_OF_CELLULAR_PROTEINS
+[1] "rock1"  "vim"    "dsg2"   "dsp"    "bmx"    "gas2"   "sptan1" "gsn"    "casp7" 
+
+$REACTOME_APOPTOTIC_FACTOR_MEDIATED_RESPONSE
+[1] "cycs"  "apip"  "casp3" "casp9"
+
+$REACTOME_OPIOID_SIGNALLING
+ [1] "adcy3"   "gng13"   "ppp2r1b" "plcb4"   "ppp1r1b" "gngt1"   "pde4b"   "ppp1ca"  "adcy5"  
+[10] "gnai1"   "pomc"    "ppp2r5d" "gng8"    "gna15"   "adcy9"   "plcb3"   "plcb2"   "pde1c"  
+
+$REACTOME_PKA_MEDIATED_PHOSPHORYLATION_OF_CREB
+[1] "adcy3"
+
+$REACTOME_CAMK_IV_MEDIATED_PHOSPHORYLATION_OF_CREB
+[1] "calm3"  "calm2"  "camkk2"
+
+$REACTOME_CAM_PDE_1_ACTIVATION
+[1] "calm3" "pde1a" "pde1b" "calm2"
+
+$REACTOME_CA_DEPENDENT_EVENTS
+ [1] "adcy3"   "adcy5"   "adcy9"   "pde1c"   "prkar1a" "adcy7"   "camkk1"  "prkcg"   "prkaca" 
+[10] "calm1"   "camkk2"  "mapk1"   "adcy8"   "calm2"   "adcy2"   "pde1b"   "adcy6"   "pde1a"  
+[19] "adcy1"   "adcy4"   "prkar1b" "calm3"   "prkacb"  "prkcd"   "prkar2b"
+
+$REACTOME_G_PROTEIN_MEDIATED_EVENTS
+ [1] "adcy3"   "plcb4"   "adcy5"   "gnai1"   "gna15"   "adcy9"   "plcb3"   "plcb2"   "pde1c"  
+[10] "prkar1a" "adcy7"   "camkk1"  "prkcg"  
+
+$REACTOME_ELECTRIC_TRANSMISSION_ACROSS_GAP_JUNCTIONS
+[1] "panx2" "gjd2"  "gja10" "gjc1"  "panx1"
+
+$REACTOME_PRESYNAPTIC_DEPOLARIZATION_AND_CALCIUM_CHANNEL_OPENING
+[1] "cacna1a"  "cacna1b"  "cacng2"   "cacna1e"  "cacna2d3" "cacnb1"   "cacna2d2"
+
+$REACTOME_NEUROTRANSMITTER_RELEASE_CYCLE
+[1] "slc22a2" "slc1a6"  "gls"     "lin7c"   "gad1"    "slc32a1" "arl6ip5" "cask"    "stx1a"  
+
+$REACTOME_NEUROTRANSMITTER_CLEARANCE
+[1] "slc22a2"
+
+$REACTOME_NEUROTRANSMITTER_RECEPTORS_AND_POSTSYNAPTIC_SIGNAL_TRANSMISSION
+ [1] "gnai2"   "ap2s1"   "rps6ka1" "glrb"    "ap2m1"   "gabrr2"  "chrna1"  "gabrr1"  "grin3a" 
+[10] "glra1"   "kcnj16"  "gnb5"    "rps6ka3" "gng12"   "rps6ka2" "prkar2b" "pick1"   "gabrb3" 
+[19] "prkacb"  "lrrc7"   "calm3"   "chrnb3"  "gnb3"    "kcnj2"   "prkar1b" "grin1"   "cacng2" 
+[28] "gnb4"    "htr3b"   "chrnd"   "adcy4"  
+
+$REACTOME_TRANSMISSION_ACROSS_CHEMICAL_SYNAPSES
+ [1] "gnai2"   "ap2s1"   "ppfia1"  "rps6ka1" "glrb"    "ap2m1"   "gabrr2"  "chrna1"  "gabrr1" 
+[10] "cacna1a" "grin3a"  "glra1"   "hspa8"   "kcnj16"  "slc6a11" "maoa"    "gnb5"    "dnajc5" 
+[19] "rps6ka3" "cacna1b" "unc13b"  "gng12"   "rps6ka2" "chat"    "prkar2b" "pick1"   "gabrb3" 
+[28] "slc22a1" "prkacb"  "lrrc7"   "calm3"   "slc6a4"  "chrnb3"  "slc38a1" "gnb3"    "aldh5a1"
+[37] "slc5a7"  "slc6a12" "kcnj2"   "prkar1b" "grin1"   "cacng2"  "gnb4"    "htr3b"   "chrnd"  
+
+$REACTOME_NEURONAL_SYSTEM
+ [1] "adcy3"   "flot2"   "homer1"  "nsf"     "gng13"   "rps6ka6" "slc22a2" "slc1a6"  "nrxn1"  
+[10] "kcnb2"   "kcnj11"  "gls"     "gngt1"   "grik2"   "lin7c"   "kcnc3"   "dlgap3"  "dlg2"   
+[19] "gad1"    "hcn3"    "kcnq4"   "nrxn3"   "lrfn2"   "kcng1"   "slc32a1" "arl6ip5" "gabbr2" 
+[28] "hcn2"    "glul"    "kcnh4"   "ntrk3"   "arhgef9" "dlg4"    "glra3"   "gabrr3"  "camk2a" 
+[37] "cask"    "adcy5"   "kcns3"   "stx1a"   "slitrk6" "gnai1"   "kcns2"   "ppfibp1" "ncald"  
+[46] "kcna10"  "abcc9"   "lrrtm1"  "grin2d"  "kcnj10"  "flot1"   "kcnh8"   "chrna3"  "gng8"   
+[55] "mdm2"    "sh3glb2" "kcna3"   "gria4"   "apba1"   "dlgap1"  "hcn1"    "cacnb4"  "adcy9"  
+[64] "grip2"   "plcb3"   "plcb2"   "actn2"   "hcn4"    "kcna5"  
+
+$REACTOME_FORMATION_OF_RNA_POL_II_ELONGATION_COMPLEX
+ [1] "cdc73"  "ncbp2"  "ercc3"  "ssrp1"  "ncbp1"  "nelfcd" "polr2i" "supt6"  "leo1"   "supt16"
+[11] "polr2b" "ccnh"   "nelfb"  "nelfa"  "paf1"   "polr2e" "polr2g" "polr2f" "wdr61"  "gtf2h1"
+[21] "gtf2h4"
+
+$REACTOME_IRS_MEDIATED_SIGNALLING
+[1] "pik3r4" "ptpn11" "pik3c3" "fgf16"  "irs2"   "fgf3"   "fgf10"  "fgf6"   "frs2"  
+
+$REACTOME_RAF_INDEPENDENT_MAPK1_3_ACTIVATION
+ [1] "tyk2"   "il6"    "il6st"  "dusp2"  "jak2"   "pea15a" "dusp10" "il6ra"  "map2k2" "dusp6" 
+[11] "dusp1"  "map2k1"
+
+$REACTOME_MAPK1_ERK2_ACTIVATION
+[1] "tyk2"   "il6"    "il6st"  "jak2"   "il6ra"  "map2k2"
+
+$REACTOME_FORMATION_OF_THE_EARLY_ELONGATION_COMPLEX
+ [1] "ncbp2"  "ercc3"  "ncbp1"  "nelfcd" "polr2i" "polr2b" "ccnh"   "nelfb"  "nelfa"  "polr2e"
+[11] "polr2g" "polr2f" "gtf2h1" "gtf2h4"
+
+$REACTOME_INHIBITION_OF_REPLICATION_INITIATION_OF_DAMAGED_DNA_BY_RB1_E2F1
+[1] "prim1"  "pola1"  "pola2"  "ppp2ca" "ppp2cb" "prim2"  "rb1"   
+
+$REACTOME_ACTIVATION_OF_BH3_ONLY_PROTEINS
+[1] "bcl2l11" "bmf"     "pmaip1"  "ywhag"   "sfn"    
+
+$REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS
+[1] "dgka"  "prkce" "dgkq"  "prkcd" "trpc7" "daglb" "dgkg" 
+
+$REACTOME_GPVI_MEDIATED_ACTIVATION_CASCADE
+[1] "ptpn6"  "syk"    "cdc42"  "rhog"   "vav1"   "rac2"   "ptpn11" "pik3cg"
+
+$REACTOME_DOWNSTREAM_SIGNALING_EVENTS_OF_B_CELL_RECEPTOR_BCR
+ [1] "psmd14" "fbxw11" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6" 
+[11] "psmd4"  "psmb7"  "nfkb1"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3"  "psmd6" 
+[21] "psma2"  "psmd10" "psmc4"  "psmc5"  "ikbkb"  "ppp3cb" "cul1"   "hras"   "psmd8"  "psmd11"
+
+$REACTOME_ACTIVATION_OF_NF_KAPPAB_IN_B_CELLS
+ [1] "psmd14" "fbxw11" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6" 
+[11] "psmd4"  "psmb7"  "nfkb1"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3"  "psmd6" 
+[21] "psma2"  "psmd10" "psmc4"  "psmc5"  "ikbkb"  "cul1"   "psmd8"  "psmd11"
+
+$REACTOME_ANTIVIRAL_MECHANISM_BY_IFN_STIMULATED_GENES
+[1] "eif4a3" "arih1"  "eif4e2" "ppm1b"  "flnb"   "usp18" 
+
+$REACTOME_PROLACTIN_RECEPTOR_SIGNALING
+[1] "rbx1"  "cul1"  "gh"    "prlr"  "prl"   "sh2b1"
+
+$REACTOME_SIGNALING_BY_NODAL
+[1] "smad4"
+
+$REACTOME_FERTILIZATION
+[1] "b4galt1"  "adam30"   "catsper4" "cd9"      "zp1"     
+
+$REACTOME_ROS_AND_RNS_PRODUCTION_IN_PHAGOCYTES
+[1] "atp6v0e"  "atp6v0d2" "atp6v1f"  "atp6v0b"  "tcirg1"   "cybb"     "atp6v1c1" "atp6v0c" 
+[9] "atp6v1c2"
+
+$REACTOME_SIGNALING_BY_ERBB2
+ [1] "rps27a"   "uba52"    "prkce"    "hsp90aa1" "memo1"    "hras"     "prkcd"    "usp8"    
+ [9] "shc1"     "cdc37"    "yes1"     "nrg3"     "src"      "egf"      "ubb"      "ereg"    
+[17] "gab1"    
+
+$REACTOME_REGULATION_OF_GENE_EXPRESSION_BY_HYPOXIA_INDUCIBLE_FACTOR
+[1] "hif1a" "ep300" "arnt"  "epas1"
+
+$REACTOME_CELLULAR_RESPONSE_TO_HYPOXIA
+ [1] "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "rbx1"   "psmd12" "psma6"  "psmd3"  "psmc6" 
+[11] "psmd4"  "cul2"   "psmb7"  "psmb2"  "psmb5"  "psma5"  "psma7"  "hif1a"  "uba52"  "psma3" 
+[21] "psmd6"  "psma2"  "psmd10" "psmc4"  "psmc5"  "ep300"  "arnt"   "psmd8"  "psmd11"
+
+$REACTOME_SIGNALING_BY_ERBB4
+ [1] "rps27a" "psenen" "wwp1"   "uba52"  "hras"   "psen1"  "nedd4"  "shc1"   "esr1"   "nrg3"  
+[11] "src"    "aph1b"  "ncstn"  "egf"    "ubb"    "ereg"   "stat5a" "nrg1"  
+
+$REACTOME_CROSS_PRESENTATION_OF_PARTICULATE_EXOGENOUS_ANTIGENS_PHAGOSOMES
+[1] "cybb"  "itgav"
+
+$REACTOME_ER_PHAGOSOME_PATHWAY
+ [1] "h2-q10"   "h2-m3"    "h2-q1"    "sec22b"   "h2-m9"    "h2-m10.6" "snap23"   "b2m"     
+ [9] "vamp8"    "h2-q2"   
+
+$REACTOME_ANTIGEN_PROCESSING_CROSS_PRESENTATION
+ [1] "psmd14" "psmb1"  "psma4"  "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6"  "psmd4"  "psmb7" 
+[11] "psmb2"  "psmb5"  "pdia3"  "psma5"  "calr"   "psma7"  "psma3"  "psmd6"  "psma2"  "psmd10"
+[21] "psmc4"  "psmc5" 
+
+$REACTOME_ENDOSOMAL_VACUOLAR_PATHWAY
+[1] "h2-q10"   "h2-m3"    "h2-q1"    "h2-m9"    "h2-m10.6" "b2m"      "lnpep"    "h2-q2"   
+[9] "h2-m1"   
+
+$REACTOME_CROSS_PRESENTATION_OF_SOLUBLE_EXOGENOUS_ANTIGENS_ENDOSOMES
+ [1] "psmd14" "psmb1"  "psma4"  "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6"  "psmd4"  "psmb7" 
+[11] "psmb2"  "psmb5"  "psma5"  "psma7"  "psma3"  "psmd6"  "psma2"  "psmd10" "psmc4"  "psmc5" 
+[21] "mrc2"   "psmd8"  "psmd11"
+
+$REACTOME_ERYTHROCYTES_TAKE_UP_CARBON_DIOXIDE_AND_RELEASE_OXYGEN
+[1] "slc4a1" "cyb5r1" "cyb5r2" "rhag"   "aqp1"  
+
+$REACTOME_ERYTHROCYTES_TAKE_UP_OXYGEN_AND_RELEASE_CARBON_DIOXIDE
+[1] "slc4a1" "rhag"   "aqp1"  
+
+$REACTOME_SHC1_EVENTS_IN_ERBB2_SIGNALING
+[1] "prkce" "prkcd" "shc1"  "nrg3"  "egf"   "ereg"  "nrg1" 
+
+$REACTOME_PI3K_EVENTS_IN_ERBB4_SIGNALING
+[1] "erbb4"  "btc"    "pik3ca" "hbegf"  "pik3r1" "nrg1"   "ereg"   "nrg3"  
+
+$REACTOME_SHC1_EVENTS_IN_ERBB4_SIGNALING
+[1] "hras" "shc1" "nrg3" "ereg" "nrg1"
+
+$REACTOME_NUCLEAR_SIGNALING_BY_ERBB4
+[1] "psenen" "psen1"  "esr1"   "src"    "aph1b"  "ncstn"  "stat5a"
+
+$REACTOME_DOWNREGULATION_OF_ERBB4_SIGNALING
+[1] "rps27a" "wwp1"   "uba52"  "nedd4"  "src"    "ubb"   
+
+$REACTOME_INTERLEUKIN_7_SIGNALING
+[1] "smarca4" "tslp"    "il2rg"   "stat3"  
+
+$REACTOME_DEVELOPMENTAL_BIOLOGY
+ [1] "tuba1c"        "pfn1"          "pak2"          "tuba1b"        "dnm2"         
+ [6] "csnk2b"        "rasa1"         "gm10228"       "rps27a"        "tln1"         
+[11] "tyrobp"        "hdac3"         "ap2s1"         "cdc42"         "actb"         
+[16] "hsp90ab1"      "krtap5-4"      "cltc"          "krtap20-2"     "gsk3b"        
+[21] "gm11569"       "dok1"          "trem2"         "cdk4"          "rxra"         
+[26] "gm3238"        "krtap6-5"      "krt9"          "krtap10-4"     "kif4"         
+[31] "dsc1"          "ap2m1"         "krt33b"        "krtap13"       "krtap12-1"    
+[36] "krtap6-1"      "ephb3"         "krtap4-13"     "psenen"        "krt72"        
+[41] "gm4559"        "csnk2a1"       "pspn"          "ptpn11"        "kalrn"        
+[46] "gm11559"       "krt82"         "klk12"         "gm11562"       "krt81"        
+[51] "tchh"          "uba52"         "efna2"         "tuba1a"        "krtap4-9"     
+[56] "gm11937"       "arhgef7"       "cdsn"          "tubal3"        "hsp90aa1"     
+[61] "cdh4"          "gm11568"       "bnip2"         "pkp2"          "krtap19-2"    
+[66] "gm11567"       "irs2"          "1110025l11rik" "clta"          "col3a1"       
+[71] "krtap19-1"     "krt26"         "sptbn4"       
+
+$REACTOME_MITOCHONDRIAL_PROTEIN_IMPORT
+[1] "atp5b"  "ndufb8" "hspd1"  "coq2"   "fxn"    "hscb"  
+
+$REACTOME_CYTOKINE_SIGNALING_IN_IMMUNE_SYSTEM
+ [1] "ube2m"     "eif4a3"    "uba3"      "psmd14"    "fbxw11"    "arih1"     "psmb1"    
+ [8] "ptpn6"     "csf1r"     "kpnb1"     "psma4"     "hmgb1"     "syk"       "rps27a"   
+[15] "psmd2"     "map2k7"    "rbx1"      "psmd12"    "psma6"     "psmd3"     "tnfrsf11a"
+[22] "psmc6"     "psmd4"     "vav1"      "il13ra1"   "rapgef1"   "sh2b3"     "eif4e2"   
+[29] "tnfsf14"   "psmb7"     "nfkb1"     "psmb2"     "rps6ka1"   "ifna7"     "psmb5"    
+[36] "map2k4"    "myd88"     "psma5"     "ifna16"    "hsp90b1"   "jun"       "psma7"    
+[43] "ppm1b"     "ptpn11"    "uba52"     "flnb"      "psma3"     "il23a"     "app"      
+[50] "psmd6"     "psma2"     "irs2"      "mapkapk2"  "psmd10"    "tnfrsf14"  "tnfrsf12a"
+[57] "rps6ka3"   "usp18"     "psmc4"     "psmc5"     "csf2"      "il2ra"     "ikbkb"    
+[64] "ptpn1"     "cul1"      "hras"      "ptprj"     "ppp2ca"    "ifnlr1"    "rps6ka2"  
+
+$REACTOME_ADAPTIVE_IMMUNE_SYSTEM
+  [1] "keap1"    "ube2m"    "tuba1c"   "traip"    "cul3"     "pak2"     "tuba1b"   "uba3"    
+  [9] "kif20a"   "psmd14"   "dnm2"     "uba5"     "fbxw11"   "pten"     "psmb1"    "kif11"   
+ [17] "lrr1"     "ptpn6"    "det1"     "psma4"    "syk"      "rap1b"    "cdc23"    "rps27a"  
+ [25] "racgap1"  "anapc10"  "cdc20"    "psmd2"    "glmn"     "rbx1"     "ap2s1"    "psmd12"  
+ [33] "cdc42"    "skp2"     "psma6"    "dctn4"    "psmd3"    "itgb2"    "dynll1"   "psmc6"   
+ [41] "cltc"     "dctn6"    "psmd4"    "trem2"    "vav1"     "fbxw7"    "uba1"     "cdc16"   
+ [49] "ubr4"     "vcam1"    "anapc11"  "cul2"     "trim37"   "fbxo7"    "atg7"     "psmb7"   
+ [57] "trim21"   "nfkb1"    "psmb2"    "btk"      "psmb5"    "kif4"     "capzb"    "anapc5"  
+ [65] "fbxl14"   "ywhab"    "pdia3"    "fbxl5"    "kif23"    "anapc1"   "ap2m1"    "dctn5"   
+ [73] "psma5"    "fbxw2"    "siah1a"   "cdc27"    "calr"     "cdc26"    "psma7"    "fbxo2"   
+ [81] "ube2g1"   "uba6"     "dync1i2"  "trim36"   "ptpn11"   "wwp1"     "cenpe"    "uba52"   
+ [89] "tuba1a"   "tubal3"   "psma3"    "pik3ap1"  "trpc1"    "ube3a"    "psmd6"    "asb4"    
+ [97] "psma2"    "dctn3"    "arel1"    "clta"     "psmd10"   "col3a1"   "ube2q1"   "ppp2r5c" 
+[105] "ube2l3"   "tnfrsf14" "anapc2"   "psmc4"    "psmc5"    "cd300e"   "huwe1"   
+
+$REACTOME_SPRY_REGULATION_OF_FGF_SIGNALING
+[1] "rps27a" "ptpn11" "uba52"  "ppp2ca" "ppp2cb"
+
+$REACTOME_ACTIVATION_OF_G_PROTEIN_GATED_POTASSIUM_CHANNELS
+[1] "gng13"  "gngt1"  "gabbr2"
+
+$REACTOME_CA2_ACTIVATED_K_CHANNELS
+[1] "kcnn1"  "kcnmb2" "kcnmb4"
+
+$REACTOME_INWARDLY_RECTIFYING_K_CHANNELS
+[1] "gng13"  "kcnj11" "gngt1"  "gabbr2" "abcc9"  "kcnj10" "gng8"  
+
+$REACTOME_POTASSIUM_CHANNELS
+ [1] "gng13"  "kcnb2"  "kcnj11" "gngt1"  "kcnc3"  "hcn3"   "kcnq4"  "kcng1"  "gabbr2" "hcn2"  
+[11] "kcnh4"  "kcns3"  "kcns2"  "kcna10" "abcc9"  "kcnj10" "kcnh8"  "gng8"   "kcna3"  "hcn1"  
+[21] "hcn4"   "kcna5"  "kcnh2"  "gabbr1" "kcnb1"  "kcnn1"  "kcnk16" "kcnab3" "kcnmb2" "kcnmb4"
+[31] "kcnq5"  "kcnj1"  "kcnk18" "kcnk6"  "kcnj6" 
+
+$REACTOME_VOLTAGE_GATED_POTASSIUM_CHANNELS
+ [1] "kcnb2"  "kcnc3"  "kcnq4"  "kcng1"  "kcnh4"  "kcns3"  "kcns2"  "kcna10" "kcnh8"  "kcna3" 
+[11] "kcna5"  "kcnh2"  "kcnb1" 
+
+$REACTOME_TANDEM_PORE_DOMAIN_POTASSIUM_CHANNELS
+ [1] "kcnk1"  "kcnk3"  "kcnk4"  "kcnk2"  "kcnk9"  "kcnk7"  "kcnk10" "kcnk13" "kcnk6"  "kcnk18"
+[11] "kcnk16"
+
+$REACTOME_SPERM_MOTILITY_AND_TAXES
+[1] "catsperd" "catsper2"
+
+$REACTOME_ACROSOME_REACTION_AND_SPERM_OOCYTE_MEMBRANE_BINDING
+[1] "izumo4" "izumo2"
+
+$REACTOME_DOWNREGULATION_OF_ERBB2_ERBB3_SIGNALING
+[1] "rps27a" "uba52"  "usp8"  
+
+$REACTOME_MITOCHONDRIAL_IRON_SULFUR_CLUSTER_BIOGENESIS
+[1] "nfs1"  "fxn"   "hscb"  "lyrm4"
+
+$REACTOME_ABC_TRANSPORTERS_IN_LIPID_HOMEOSTASIS
+[1] "abca6" "pex3"  "pex19" "abcg1" "abcd3"
+
+$REACTOME_ELEVATION_OF_CYTOSOLIC_CA2_LEVELS
+[1] "p2rx6" "trpc7" "p2rx4" "p2rx7" "p2rx1"
+
+$REACTOME_APOPTOSIS_INDUCED_DNA_FRAGMENTATION
+[1] "kpnb1" "hmgb1" "casp3"
+
+$REACTOME_CASPASE_ACTIVATION_VIA_DEATH_RECEPTORS_IN_THE_PRESENCE_OF_LIGAND
+[1] "traf2" "tlr4"  "tradd" "fasl"  "ly96"  "cd14" 
+
+$REACTOME_INTRINSIC_PATHWAY_OF_FIBRIN_CLOT_FORMATION
+[1] "gp9"      "serpine2" "gp5"      "pros1"    "serpinc1" "gp1bb"   
+
+$REACTOME_COMMON_PATHWAY_OF_FIBRIN_CLOT_FORMATION
+ [1] "serpine2" "pros1"    "fgb"      "procr"    "serpinc1" "cd177"    "f2r"      "prtn3"   
+ [9] "f13b"     "f10"     
+
+$REACTOME_FORMATION_OF_FIBRIN_CLOT_CLOTTING_CASCADE
+ [1] "gp9"      "serpine2" "gp5"      "pros1"    "fgb"      "procr"    "serpinc1" "cd177"   
+ [9] "f2r"      "prtn3"    "gp1bb"   
+
+$REACTOME_INHIBITION_OF_THE_PROTEOLYTIC_ACTIVITY_OF_APC_C_REQUIRED_FOR_THE_ONSET_OF_ANAPHASE_BY_MITOTIC_SPINDLE_CHECKPOINT_COMPONENTS
+ [1] "cdc23"   "anapc10" "cdc20"   "mad2l1"  "bub3"    "cdc16"   "anapc11" "anapc5"  "anapc1" 
+[10] "cdc27"   "cdc26"   "bub1b"   "anapc2" 
+
+$REACTOME_AMPLIFICATION_OF_SIGNAL_FROM_THE_KINETOCHORES
+ [1] "aurkb"   "rangap1" "plk1"    "incenp"  "cdca8"   "nup160"  "zwint"   "spc24"   "mis12"  
+[10] "ndc80"   "spdl1"   "cenpc1"  "nuf2"    "cdc20"   "nudc"    "rps27rt" "nup85"   "mad2l1" 
+[19] "bub3"    "rps27"   "nsl1"    "pmf1"    "dynll1"  "nup98"   "nup43"   "nup107"  "cenpk"  
+[28] "mapre1"  "zwilch"  "cenpq"   "cenpn"   "ckap5"   "dync1i2" "cenpe"   "xpo1"    "ranbp2" 
+[37] "bub1b"  
+
+$REACTOME_THE_CITRIC_ACID_TCA_CYCLE_AND_RESPIRATORY_ELECTRON_TRANSPORT
+ [1] "sdhd"     "idh3a"    "atp5b"    "sdhb"     "cycs"     "timmdc1"  "ndufs7"   "fh1"     
+ [9] "sdhc"     "rxra"     "uqcr10"   "cox14"    "atp5c1"   "atp5e"    "atp5h"    "uqcrc2"  
+[17] "aco2"     "cyc1"     "ndufa2"   "cox7c"    "ndufb4"   "sdha"     "atp5k"    "atp5j"   
+[25] "atp5d"    "ndufa6"   "cox6a1"   "tmem126b" "ndufb8"   "ndufb2"   "ndufa9"   "uqcrc1"  
+[33] "cox4i1"   "atp5a1"   "atp5j2"   "atp5g1"   "ndufab1"  "suclg2"   "cox5a"    "ndufa13" 
+[41] "coq10b"   "ndufaf1"  "cox7b"    "mdh2"     "ndufb3"   "suclg1"   "ndufb11"  "ogdh"    
+[49] "cox18"    "ndufa8"   "ndufs1"   "atp5l"    "ndufa5"   "ndufb6"   "cox16"    "ndufs2"  
+[57] "ndufa11"  "ndufb10"  "ndufs6"   "ldhal6b"  "ndufb9"   "cox11"   
+
+$REACTOME_METABOLISM
+  [1] "tk1"        "rrm1"       "txn1"       "pnpla2"     "pi4ka"      "mtmr6"     
+  [7] "psmd14"     "dnm2"       "pten"       "psmb1"      "csnk2b"     "kpnb1"     
+ [13] "nup160"     "dtymk"      "gapdh"      "cdipt"      "psma4"      "pik3r4"    
+ [19] "sdhd"       "gclc"       "nup205"     "mmachc"     "tyms"       "psmd2"     
+ [25] "aasdhppt"   "txnrd1"     "idh3a"      "ugcg"       "rfk"        "rae1"      
+ [31] "atp5b"      "sumo2"      "hdac3"      "nup85"      "sdhb"       "ahcy"      
+ [37] "gnai2"      "guk1"       "psmd12"     "paics"      "trmt112"    "psma6"     
+ [43] "ube2i"      "b4galt1"    "hmox1"      "dut"        "psmd3"      "pgk1"      
+ [49] "hsp90ab1"   "ckb"        "crls1"      "gnpat"      "cycs"       "nfs1"      
+ [55] "psmc6"      "nup98"      "timmdc1"    "ndufs7"     "gart"       "fh1"       
+ [61] "sdhc"       "ak2"        "gch1"       "nup214"     "acsl4"      "psmd4"     
+ [67] "nampt"      "dhfr"       "tgs1"       "gpx4"       "gale"       "nup43"     
+ [73] "pmvk"       "gaa"        "rxra"       "ppa2"       "dao"        "slc3a2"    
+ [79] "uqcr10"     "cox14"      "nup107"     "adsl"       "atp5c1"     "elovl1"    
+ [85] "uroc1"      "nup93"      "atp5e"      "osbp"       "ippk"       "atp5h"     
+ [91] "hgsnat"     "lpin2"      "uqcrc2"     "aco2"       "flad1"      "aox1"      
+ [97] "dbt"        "atic"       "smarcd3"    "mlycd"      "nudt19"     "psmb7"     
+[103] "impdh2"     "psmb2"      "nt5c2"      "psmb5"      "pcyt1a"     "cyp11b1"   
+[109] "gmps"       "cyc1"       "hmgcs1"     "pkm"        "mat1a"      "ndufa2"    
+[115] "cox7c"      "tecrl"      "ndufb4"     "man2c1"     "cyp3a59"    "sdha"      
+[121] "sin3a"      "dcxr"       "pgd"        "psma5"      "far1"       "adssl1"    
+[127] "cyp4f40"    "atp5k"      "nupl2"      "gsta2"      "ido1"       "pnpla3"    
+[133] "galt"       "slc26a2"    "vac14"      "hsd3b7"     "ugp2"       "atp5j"     
+[139] "cyp2j6"     "hdc"        "atp5d"      "ptgis"      "gsto2"      "sdc4"      
+[145] "dgat1"      "ndufa6"     "psma7"      "mmab"       "cox6a1"     "dse"       
+[151] "cacna1a"    "mtr"        "srd5a3"     "csnk2a1"    "tmem126b"   "ndufb8"    
+[157] "ndufb2"     "ndufa9"     "ddhd1"      "ak1"        "uqcrc1"     "cox4i1"    
+[163] "entpd7"     "csgalnact2" "acot6"      "akr1b3"     "atp5a1"     "duox1"     
+[169] "fpgs"       "hsd17b12"   "uck1"       "idi1"       "nadk"       "cds2"      
+[175] "b3galt5"    "pik3cg"     "mocs1"      "rpe"        "parp6"      "paox"      
+[181] "ak7"        "st3gal2"    "acbd6"      "mtrr"       "psma3"      "dck"       
+[187] "hsp90aa1"   "mat2b"      "inpp4a"     "qprt"       "nup153"     "alb"       
+[193] "pik3c3"     "ranbp2"     "atp5j2"     "acer2"      "b3gnt4"     "slc6a11"   
+[199] "gss"        "gpx1"       "mthfd2"     "maoa"       "plekha2"    "stab2"     
+[205] "ppat"       "atp5g1"     "psmd6"      "dpep1"      "psma2"      "ptges3"    
+[211] "ndufab1"    "ggt1"       "pah"        "gclm"       "dhcr7"      "gnb5"      
+[217] "entpd5"     "mapkapk2"   "suclg2"     "fa2h"       "psmd10"     "mthfd1"    
+[223] "mocos"      "cox5a"      "pycr2"      "aldoc"      "serpina6"   "adi1"      
+[229] "nup88"      "mgst1"      "psmc4"      "psmc5"      "hadha"      "ndufa13"   
+[235] "abhd10"     "coq10b"     "ndufaf1"    "etnppl"     "cox10"      "sat1"      
+[241] "cyp17a1"    "mat2a"      "nudt15"     "papss1"     "gna14"      "glb1"      
+[247] "cox7b"      "hsd17b11"   "mogat1"     "coq2"       "nags"       "aldh3a1"   
+[253] "bcan"       "tat"        "car1"       "fabp3"      "acbd5"      "lclat1"    
+[259] "arnt"       "cept1"      "hibadh"     "fxn"        "pcca"       "aoc1"      
+[265] "mmadhc"     "abcc1"      "gng12"      "mdh2"       "ada"        "ndufb3"    
+[271] "nme1"       "suclg1"     "cpne7"      "ndufb11"    "ext2"       "bgn"       
+[277] "pgm2"       "akr1c6"     "chat"       "apom"       "mthfd1l"    "papss2"    
+[283] "ogdh"       "alox5ap"    "mgst2"      "cox18"      "hadhb"      "hsd11b1"   
+[289] "vnn1"       "gstm2"      "psmd8"      "aass"       "ndufa8"     "st3gal3"   
+[295] "cyp26a1"    "arsj"       "galns"      "psmd11"     "prkar2b"    "ggps1"     
+[301] "fut9"       "hpgd"       "pfas"       "acot13"     "ndufs1"     "acadsb"    
+[307] "atp5l"      "ndufa5"     "mtmr9"      "degs1"      "chsy1"      "nt5c"      
+[313] "slc10a2"    "rpia"       "sacm1l"     "b4gat1"     "ndufb6"     "glyctk"    
+[319] "ptdss2"     "omd"        "stard3"     "neu3"       "ppt2"       "plekha5"   
+[325] "pld4"       "prkacb"     "hmgcs2"     "amt"        "acsf2"      "seh1l"     
+[331] "hscb"      
+
+$REACTOME_SIGNALING_BY_SCF_KIT
+[1] "chek1"  "ptpn6"  "vav1"   "sh2b3"  "ptpn11" "kitl"  
+
+$REACTOME_REGULATION_OF_KIT_SIGNALING
+[1] "ptpn6" "sh2b3" "kitl"  "yes1"  "sh2b2" "src"  
+
+$REACTOME_COLLAGEN_DEGRADATION
+ [1] "try4"    "mmp1a"   "prss3"   "col26a1" "col7a1"  "col3a1"  "col10a1" "gm10334" "tmprss6"
+[10] "col5a2"  "try5"    "col6a3"  "mmp20"   "col5a1"  "prss1"   "col4a2" 
+
+$REACTOME_BETA_DEFENSINS
+[1] "defb14" "defb47" "defb48" "defb19" "defb28" "defb25"
+
+$REACTOME_DEFENSINS
+ [1] "defa2"   "defa25"  "try4"    "defa5"   "defb14"  "prss3"   "defa21"  "defb47"  "defb48" 
+[10] "defb19"  "gm10334" "defa26"  "try5"    "prss1"   "defb28"  "try10"   "defb25" 
+
+$REACTOME_ALPHA_DEFENSINS
+ [1] "defa2"   "defa25"  "try4"    "defa5"   "prss3"   "defa21"  "gm10334" "defa26"  "try5"   
+[10] "prss1"  
+
+$REACTOME_TETRAHYDROBIOPTERIN_BH4_SYNTHESIS_RECYCLING_SALVAGE_AND_REGULATION
+[1] "gch1"     "hsp90aa1" "calm3"    "nos3"    
+
+$REACTOME_DEGRADATION_OF_THE_EXTRACELLULAR_MATRIX
+ [1] "capn7"  "mmp13"  "col4a6" "mmp9"   "capn5"  "mmp15"  "acan"   "furin"  "fbn2"   "mmp2"  
+[11] "capn2"  "fbn1"   "mmp8"   "col6a1" "ctsb"   "col4a5" "klk7"   "cast"  
+
+$REACTOME_EXTRACELLULAR_MATRIX_ORGANIZATION
+ [1] "loxl2"    "capn7"    "mmp13"    "col4a6"   "emilin2"  "mmp9"     "tgfb2"    "itga6"   
+ [9] "sh3pxd2a" "capn5"    "colgalt2" "mmp15"    "pcolce2"  "adamts3"  "acan"     "sdc2"    
+[17] "itgb3"    "loxl3"    "tll2"     "furin"    "fbn2"     "mmp2"     "plod1"    "capn2"   
+[25] "fbn1"     "itgae"    "mmp8"     "col6a1"   "itga11"   "ctsb"     "p3h2"     "fgb"     
+[33] "col4a5"   "madcam1"  "itgb7"    "lum"      "klk7"     "cast"     "dspp"     "itgav"   
+[41] "col23a1"  "adam19"   "itga3"    "ltbp4"    "plod2"    "col9a2"   "mmp11"    "col4a4"  
+[49] "icam4"    "col14a1"  "lox"      "spp1"     "col12a1"  "capn8"    "vcan"     "capn3"   
+[57] "tnn"     
+
+$REACTOME_COLLAGEN_FORMATION
+ [1] "loxl2"    "mmp13"    "col4a6"   "mmp9"     "colgalt2" "pcolce2"  "adamts3"  "loxl3"   
+ [9] "tll2"     "plod1"    "col6a1"   "ctsb"     "p3h2"     "col4a5"   "col23a1"  "plod2"   
+[17] "col9a2"   "col4a4"   "col14a1"  "lox"      "col12a1"  "col11a1"  "col6a2"   "ctsl"    
+[25] "tll1"     "col19a1"  "col15a1"  "col2a1"   "col16a1"  "col9a1"   "plod3"   
+
+$REACTOME_REVERSIBLE_HYDRATION_OF_CARBON_DIOXIDE
+[1] "car6"  "car5b" "car13" "car9" 
+
+$REACTOME_ACYL_CHAIN_REMODELLING_OF_PC
+[1] "pla2g1b" "pla2r1"  "pla2g4c" "pnpla8"  "pla2g2f" "lpcat1"  "plbd1"   "pla2g2e" "pla2g4f"
+
+$REACTOME_ACYL_CHAIN_REMODELLING_OF_PS
+[1] "osbpl8"  "pla2g1b" "pla2r1"  "pla2g2f" "pla2g2e" "pla2g4f"
+
+$REACTOME_ACYL_CHAIN_REMODELLING_OF_PE
+[1] "pla2g1b" "pla2r1"  "pla2g4c" "pnpla8"  "pla2g2f" "plbd1"   "pla2g2e" "pla2g4f"
+
+$REACTOME_ACYL_CHAIN_REMODELING_OF_DAG_AND_TAG
+[1] "pnpla2" "pnpla3" "dgat1" 
+
+$REACTOME_ACYL_CHAIN_REMODELLING_OF_PI
+[1] "pla2g1b" "pla2r1"  "pla2g4c" "pla2g2f" "plbd1"   "pla2g2e" "pla2g4f"
+
+$REACTOME_ACYL_CHAIN_REMODELLING_OF_PG
+[1] "pla2g1b" "pla2r1"  "pla2g2f" "lpcat1"  "lpgat1"  "pla2g2e" "pla2g4f"
+
+$REACTOME_HYDROLYSIS_OF_LPC
+[1] "pla2g4c" "plbd1"   "pla2g4f"
+
+$REACTOME_SYNTHESIS_OF_PA
+ [1] "ddhd2"   "lipi"    "pla2g1b" "pld2"    "pla2r1"  "pla2g2f" "gpat2"   "agpat2"  "alpi"   
+[10] "lpcat1"  "agpat3" 
+
+$REACTOME_SYNTHESIS_OF_PC
+[1] "chkb"     "phospho1" "lpin1"    "lpin3"    "chka"     "mfsd2a"   "csnk2a2" 
+
+$REACTOME_GLYCEROPHOSPHOLIPID_BIOSYNTHESIS
+ [1] "pnpla2"  "csnk2b"  "cdipt"   "crls1"   "gnpat"   "lpin2"   "pcyt1a"  "pnpla3"  "dgat1"  
+[10] "csnk2a1" "ddhd1"   "cds2"    "hadha"   "etnppl"  "lclat1"  "cept1"   "cpne7"   "chat"   
+[19] "hadhb"  
+
+$REACTOME_SYNTHESIS_OF_PE
+[1] "chkb"     "phospho1" "lpin1"    "lpin3"    "chka"    
+
+$REACTOME_SYNTHESIS_OF_PI
+[1] "cdipt" "cds1" 
+
+$REACTOME_SYNTHESIS_OF_PIPS_AT_THE_ER_MEMBRANE
+[1] "pi4ka"  "sacm1l" "sbf1"  
+
+$REACTOME_INOSITOL_PHOSPHATE_METABOLISM
+ [1] "inpp5d" "ocrl"   "plcb4"  "itpkb"  "inpp5j" "nudt3"  "nudt4"  "itpkc"  "minpp1" "itpk1" 
+[11] "miox"   "plcd4"  "plcb3"  "plcb2" 
+
+$REACTOME_PI_METABOLISM
+[1] "pi4ka"   "mtmr6"   "pten"    "pik3r4"  "vac14"   "pik3cg"  "inpp4a"  "pik3c3"  "plekha2"
+
+$REACTOME_PHOSPHOLIPID_METABOLISM
+ [1] "pnpla2"  "pi4ka"   "mtmr6"   "pten"    "csnk2b"  "cdipt"   "pik3r4"  "crls1"   "gnpat"  
+[10] "lpin2"   "pcyt1a"  "pnpla3"  "vac14"   "dgat1"   "csnk2a1" "ddhd1"   "cds2"    "pik3cg" 
+[19] "inpp4a"  "pik3c3"  "plekha2"
+
+$REACTOME_CELL_CELL_COMMUNICATION
+ [1] "tyrobp"  "actb"    "kirrel2" "tesk1"   "cdh4"    "prkci"   "cdh11"   "sirpb1a" "fblim1" 
+[10] "ilk"     "pard6a"  "f11r"    "sirpb1b" "ctnnb1"  "ptk2b"   "cd47"    "cdh18"   "actg1"  
+[19] "cadm2"   "sirpa"   "pard6b"  "fyb"     "cdh13"   "cdh2"    "cdh3"   
+
+$REACTOME_SIGNALING_BY_ACTIVIN
+[1] "fst"   "smad4"
+
+$REACTOME_G0_AND_EARLY_G1
+[1] "ccna2" "lin52" "tfdp1" "hdac1" "lin9"  "ccne1" "ccne2" "lin54"
+
+$REACTOME_PHASE_II_CONJUGATION_OF_COMPOUNDS
+ [1] "gclc"    "ahcy"    "trmt112" "mat1a"   "gsta2"   "slc26a2" "ugp2"    "gsto2"   "mtr"    
+[10] "mtrr"    "mat2b"   "gss"     "ggt1"    "gclm"    "mgst1"   "abhd10"  "mat2a"   "papss1" 
+[19] "papss2"  "mgst2"   "gstm2"  
+
+$REACTOME_METHYLATION
+[1] "ahcy"    "trmt112" "mat1a"   "mtr"     "mtrr"    "mat2b"   "mat2a"  
+
+$REACTOME_CYTOSOLIC_SULFONATION_OF_SMALL_MOLECULES
+[1] "slc35b2" "slc26a1" "sult1c2" "podxl2"  "abhd14b" "sult1e1" "bpnt1"   "sult4a1" "tpst1"  
+
+$REACTOME_AMINO_ACID_CONJUGATION
+[1] "acsm4"   "glyat"   "acsm1"   "acsm2"   "glyatl3" "acsm5"  
+
+$REACTOME_GLUCURONIDATION
+ [1] "ugp2"    "abhd10"  "ugt3a2"  "ugt1a5"  "ugt1a9"  "ugt2b38" "ugt1a1"  "ugdh"    "ugt2b5" 
+[10] "ugt2b34"
+
+$REACTOME_GLUTATHIONE_CONJUGATION
+[1] "gclc"  "gsta2" "gsto2" "gss"   "ggt1"  "gclm"  "mgst1" "mgst2" "gstm2"
+
+$REACTOME_ELASTIC_FIBRE_FORMATION
+[1] "loxl2"   "emilin2" "tgfb2"   "itgb3"   "loxl3"   "furin"   "fbn2"    "fbn1"   
+
+$REACTOME_EUKARYOTIC_TRANSLATION_ELONGATION
+[1] "eef2"   "eef1a1" "eef1g" 
+
+$REACTOME_SIGNALING_BY_NOTCH
+[1] "rbpj"  "akt1"  "tmed2" "wwp2"  "dll1" 
+
+$REACTOME_TELOMERE_MAINTENANCE
+ [1] "dna2"  "terf1" "rpa3"  "ccna2" "rfc5"  "dkc1"  "pcna"  "nop10" "prim1" "pold2" "rfc2" 
+[12] "daxx"  "pold1" "rfc1"  "rfc3"  "acd"   "pola1" "pold3" "lig1"  "ppp6c" "fen1"  "rfc4" 
+[23] "rpa1"  "pot1a" "atrx"  "gar1"  "rtel1"
+
+$REACTOME_GAP_JUNCTION_TRAFFICKING_AND_REGULATION
+ [1] "tuba1c" "tuba1b" "dnm2"   "actb"   "cltc"   "ap2m1"  "tuba1a" "tubal3" "gjb1"   "clta"  
+[11] "gja8"   "gja3"   "actg1"  "dnm1"   "tuba3b"
+
+$REACTOME_METABOLISM_OF_NUCLEOTIDES
+ [1] "tk1"    "rrm1"   "txn1"   "dtymk"  "tyms"   "txnrd1" "guk1"   "paics"  "dut"    "gart"  
+[11] "ak2"    "adsl"   "atic"   "impdh2" "nt5c2"  "gmps"   "adssl1" "ak1"    "entpd7" "uck1"  
+[21] "ak7"    "dck"    "ppat"   "entpd5"
+
+$REACTOME_MITOCHONDRIAL_BIOGENESIS
+ [1] "atp5b"  "cycs"   "atp5c1" "atp5e"  "atp5h"  "atp5k"  "atp5j"  "atp5d"  "atp5a1" "atp5j2"
+[11] "atp5g1"
+
+$REACTOME_TRANSPORT_OF_THE_SLBP_DEPENDANT_MATURE_MRNA
+ [1] "ncbp2"  "nup160" "nxf1"   "ncbp1"  "slbp"   "nup205" "rae1"   "nup85"  "alyref" "nup98" 
+[11] "nup214" "nup43"  "nup107" "nup93"  "nupl2"  "nup153" "ranbp2"
+
+$REACTOME_TRANSPORT_OF_MATURE_MRNAS_DERIVED_FROM_INTRONLESS_TRANSCRIPTS
+ [1] "ncbp2"  "nup160" "nxf1"   "ncbp1"  "slbp"   "nup205" "cpsf2"  "rae1"   "nup85"  "alyref"
+[11] "nup98"  "nup214" "nup43"  "nup107" "nup93"  "nupl2"  "nup153" "ranbp2"
+
+$REACTOME_ACTIVATION_OF_MATRIX_METALLOPROTEINASES
+[1] "mmp13" "mmp9"  "mmp15" "furin" "mmp2"  "mmp8" 
+
+$REACTOME_RECYCLING_OF_BILE_ACIDS_AND_SALTS
+[1] "slco1a4" "nr1h4"   "slc10a1" "slc51b" 
+
+$REACTOME_GAMMA_CARBOXYLATION_OF_PROTEIN_PRECURSORS
+[1] "pros1"  "f10"    "f7"     "proz"   "ggcx"   "proc"   "bglap2"
+
+$REACTOME_TRANSPORT_OF_GAMMA_CARBOXYLATED_PROTEIN_PRECURSORS_FROM_THE_ENDOPLASMIC_RETICULUM_TO_THE_GOLGI_APPARATUS
+[1] "pros1"  "f10"    "f7"     "gas6"   "proz"   "proc"   "bglap2"
+
+$REACTOME_GAMMA_CARBOXYLATION_TRANSPORT_AND_AMINO_TERMINAL_CLEAVAGE_OF_PROTEINS
+[1] "furin" "pros1"
+
+$REACTOME_ZBP1_DAI_MEDIATED_INDUCTION_OF_TYPE_I_IFNS
+[1] "nfkbia" "nfkb2"  "ikbkg"  "rela"  
+
+$REACTOME_DEGRADATION_OF_CYSTEINE_AND_HOMOCYSTEINE
+[1] "cth" "ado" "tst"
+
+$REACTOME_SULFUR_AMINO_ACID_METABOLISM
+[1] "ahcy"  "mat1a" "mtr"   "mtrr"  "adi1" 
+
+$REACTOME_GOLGI_CISTERNAE_PERICENTRIOLAR_STACK_REORGANIZATION
+[1] "plk1"  "rab2a"
+
+$REACTOME_SYNTHESIS_OF_GLYCOSYLPHOSPHATIDYLINOSITOL_GPI
+[1] "pigv" "pign" "pigg" "pigx" "pigw" "pigl" "pigz"
+
+$REACTOME_ATTACHMENT_OF_GPI_ANCHOR_TO_UPAR
+[1] "pigs"  "pigk"  "plaur" "pigu"  "pgap1"
+
+$REACTOME_GLYCOSAMINOGLYCAN_METABOLISM
+ [1] "chp1"       "chpf"       "chst7"      "ext1"       "slc35b2"    "hpse2"     
+ [7] "ogn"        "xylt2"      "has2"       "acan"       "sdc2"       "hs3st2"    
+[13] "hs3st1"     "has1"       "hpse"       "slc26a1"    "hyal2"      "b3gnt2"    
+[19] "lum"        "chst14"     "idua"       "xylt1"      "hs6st1"     "b3gat3"    
+[25] "chst1"      "hs3st5"     "b4galt2"    "sgsh"       "hyal3"      "vcan"      
+[31] "ndst4"      "hexa"       "cspg5"      "ids"        "csgalnact1" "slc9a1"    
+[37] "st3gal4"    "has3"       "gpc2"       "agrn"      
+
+$REACTOME_POST_TRANSLATIONAL_MODIFICATION_SYNTHESIS_OF_GPI_ANCHORED_PROTEINS
+[1] "dpm1"    "dpm2"    "dpm3"    "alpl"    "nrn1l"   "ceacam1" "mdga2"   "reck"    "gpaa1"  
+
+$REACTOME_RESPIRATORY_ELECTRON_TRANSPORT_ATP_SYNTHESIS_BY_CHEMIOSMOTIC_COUPLING_AND_HEAT_PRODUCTION_BY_UNCOUPLING_PROTEINS
+ [1] "atp5b"    "cycs"     "timmdc1"  "ndufs7"   "uqcr10"   "cox14"    "atp5c1"   "atp5e"   
+ [9] "atp5h"    "uqcrc2"   "cyc1"     "ndufa2"   "cox7c"    "ndufb4"   "atp5k"    "atp5j"   
+[17] "atp5d"    "ndufa6"   "cox6a1"   "tmem126b" "ndufb8"   "ndufb2"   "ndufa9"   "uqcrc1"  
+[25] "cox4i1"   "atp5a1"   "atp5j2"   "atp5g1"   "ndufab1"  "cox5a"    "ndufa13"  "coq10b"  
+[33] "ndufaf1"  "cox7b"    "ndufb3"   "ndufb11"  "cox18"    "ndufa8"   "ndufs1"   "atp5l"   
+[41] "ndufa5"   "ndufb6"   "cox16"    "ndufs2"   "ndufa11"  "ndufb10"  "ndufs6"   "ndufb9"  
+[49] "cox11"   
+
+$REACTOME_FORMATION_OF_ATP_BY_CHEMIOSMOTIC_COUPLING
+ [1] "atp5b"  "atp5c1" "atp5e"  "atp5h"  "atp5k"  "atp5j"  "atp5d"  "atp5a1" "atp5j2" "atp5g1"
+
+$REACTOME_MACROAUTOPHAGY
+ [1] "tsc1"      "tsc2"      "lamtor2"   "rragc"     "rraga"     "lamtor3"   "lamtor1"  
+ [8] "lamtor4"   "tuba1c"    "atg13"     "tuba1b"    "atg14"     "csnk2b"    "atg9a"    
+[15] "atg101"    "chmp6"     "pik3r4"    "rps27a"    "rb1cc1"    "dynll1"    "tomm20"   
+[22] "tomm22"    "chmp7"     "atg16l1"   "atg7"      "tomm40"    "gabarapl2" "csnk2a1"  
+[29] "dync1i2"   "atm"       "uba52"     "tuba1a"    "tubal3"    "pik3c3"   
+
+$REACTOME_GLUCAGON_SIGNALING_IN_METABOLIC_REGULATION
+[1] "prkar2b" "prkacb"  "prkar1b"
+
+$REACTOME_TRIGLYCERIDE_CATABOLISM
+[1] "pnpla5" "fabp1" 
+
+$REACTOME_AMPK_INHIBITS_CHREBP_TRANSCRIPTIONAL_ACTIVATION_ACTIVITY
+[1] "prkag2"  "prkaa2"  "prkab2"  "adipor1"
+
+$REACTOME_INTEGRATION_OF_ENERGY_METABOLISM
+ [1] "acaca"   "gnas"    "prkag2"  "gng13"   "kcnj11"  "cacna1c" "gngt1"   "rapgef3" "acacb"  
+[10] "adcy5"   "kcns3"   "gnai1"   "glp1r"   "prkaa2"  "cysltr2" "gng8"    "gna15"   "fasn"   
+[19] "plcb3"   "plcb2"   "ffar1"   "itpr2"   "kcnb1"   "cacna1d" "rapgef4" "prkar1a" "prkab2" 
+[28] "adipor1" "cd36"   
+
+$REACTOME_KERATAN_SULFATE_KERATIN_METABOLISM
+ [1] "b4galt1" "st3gal2" "b3gnt4"  "glb1"    "st3gal3" "galns"   "b4gat1"  "omd"     "prelp"  
+[10] "glb1l"  
+
+$REACTOME_HEPARAN_SULFATE_HEPARIN_HS_GAG_METABOLISM
+ [1] "ext1"     "hpse2"    "xylt2"    "sdc2"     "hs3st2"   "hs3st1"   "hpse"     "idua"    
+ [9] "xylt1"    "hs6st1"   "b3gat3"   "hs3st5"   "sgsh"     "vcan"     "ndst4"    "cspg5"   
+[17] "ids"      "gpc2"     "agrn"     "hs3st6"   "gpc3"     "hs3st3a1"
+
+$REACTOME_GAMMA_CARBOXYLATION_HYPUSINE_FORMATION_AND_ARYLSULFATASE_ACTIVATION
+[1] "eif5a"   "eef2"    "dph1"    "dhps"    "dnajc24" "dph5"    "arsj"   
+
+$REACTOME_CELL_CYCLE
+  [1] "orc6"     "aurkb"    "dna2"     "tuba1c"   "tubg1"    "smc4"     "orc5"     "terf1"   
+  [9] "dbf4"     "gins1"    "mau2"     "tuba1b"   "smarca5"  "pole"     "rpa3"     "chek1"   
+ [17] "ccna2"    "espl1"    "orc2"     "orc1"     "cks1b"    "kif20a"   "rfc5"     "rangap1" 
+ [25] "psmd14"   "plk1"     "cdt1"     "mcm2"     "incenp"   "rad9a"    "dkc1"     "fbxw11"  
+ [33] "mcm5"     "psmb1"    "pcna"     "csnk2b"   "mcm3"     "cdca8"    "gins2"    "orc4"    
+ [41] "kpnb1"    "lin52"    "ncaph"    "nup160"   "smc2"     "nipbl"    "nop10"    "haus3"   
+ [49] "tfdp1"    "cdk1"     "prim1"    "zwint"    "mcm7"     "pold2"    "psma4"    "bard1"   
+ [57] "rfc2"     "cep192"   "spc24"    "hdac1"    "ctdnep1"  "top3a"    "chmp6"    "mastl"   
+ [65] "mre11a"   "mcm4"     "mcm10"    "mis12"    "ndc80"    "spdl1"    "rad1"     "daxx"    
+ [73] "cdc23"    "cenpc1"   "nuf2"     "rps27a"   "mzt1"     "tubgcp3"  "nup205"   "anapc10" 
+ [81] "bora"     "gins3"    "cdc20"    "nudc"     "smc1a"    "rad50"    "psmd2"    "pold1"   
+ [89] "rfc1"     "rae1"     "aurka"    "haus1"    "topbp1"   "rbx1"     "mdm4"     "ncapd2"  
+ [97] "mcm6"     "smc3"     "rps27rt"  "clspn"    "fbxo5"    "cdc6"     "banf1"    "nup85"   
+[105] "mad2l1"   "orc3"     "rfc3"     "bub3"     "pole2"    "cdc45"    "esco2"    "rps27"   
+[113] "psmd12"   "nedd1"    "pds5a"    "skp2"     "hus1"     "nsl1"     "rad21"    "psma6"   
+[121] "ube2i"    "acd"      "pola1"    "psmd3"    "hsp90ab1" "pold3"    "pmf1"     "dynll1"  
+[129] "psmc6"    "nup98"    "ccnd1"    "lig1"     "tubgcp6"  "haus8"    "chmp7"    "nup214"  
+[137] "haus4"    "psmd4"    "mdc1"     "nup43"    "ppp6c"    "cdk4"     "fen1"     "rcc1"    
+[145] "lin9"     "cdc16"    "nup107"   "rfc4"     "ccnh"     "nup93"    "nbn"      "lpin2"   
+[153] "tubgcp4"  "anapc11"  "cenpk"    "tubgcp2"  "tpx2"     "ncapg2"   "rpa1"     "pot1a"   
+[161] "psmb7"    "npm1"     "cnep1r1"  "psmb2"    "ppme1"    "psmb5"    "gins4"    "sfi1"    
+[169] "anapc5"   "atrip"    "mapre1"   "ywhab"    "zwilch"   "cenpq"    "haus6"    "kif23"   
+[177] "anapc1"   "cdc7"     "psma5"    "nupl2"    "atrx"     "cenpn"    "mis18bp1" "numa1"   
+[185] "cdc27"    "ncapg"    "ckap5"    "cdc26"    "psma7"    "haus2"    "csnk2a1"  "gar1"    
+[193] "mis18a"   "e2f1"     "dync1i2"  "brcc3"    "atm"      "rad17"    "cenpe"    "cep76"   
+[201] "uba52"    "rtel1"    "tuba1a"   "rbbp8"    "tubal3"   "xpo1"     "haus5"    "psma3"   
+[209] "stag1"    "hsp90aa1" "ankle2"   "nup153"   "ranbp2"   "bub1b"    "stag2"    "chmp4c"  
+[217] "psmd6"    "ppp1r12a" "cdc25b"   "ccne1"    "psma2"    "pds5b"    "ccne2"    "lin54"   
+[225] "dscc1"    "cdk6"     "dctn3"    "psmd10"   "pole4"    "ppp2r5c"  "gmnn"     "pola2"   
+[233] "bub1"    
+
+$REACTOME_PKA_ACTIVATION_IN_GLUCAGON_SIGNALLING
+[1] "prkar2b" "prkacb"  "prkar1b"
+
+$REACTOME_COLLAGEN_BIOSYNTHESIS_AND_MODIFYING_ENZYMES
+ [1] "col4a6"   "colgalt2" "pcolce2"  "adamts3"  "tll2"     "plod1"    "col6a1"   "p3h2"    
+ [9] "col4a5"   "col23a1"  "plod2"    "col9a2"   "col4a4"   "col14a1"  "col12a1"  "col11a1" 
+[17] "col6a2"   "tll1"     "col19a1"  "col15a1"  "col2a1"   "col16a1"  "col9a1"   "plod3"   
+[25] "colgalt1" "p4ha2"    "col28a1" 
+
+$REACTOME_MTOR_SIGNALLING
+[1] "tsc1"    "tsc2"    "lamtor2" "rragc"   "rraga"   "lamtor3" "lamtor1" "lamtor4" "rps6"   
+
+$REACTOME_REGULATION_OF_CHOLESTEROL_BIOSYNTHESIS_BY_SREBP_SREBF
+[1] "kpnb1"  "mbtps1" "srebf1"
+
+$REACTOME_TOLL_LIKE_RECEPTOR_4_TLR4_CASCADE
+ [1] "dnm2"     "fbxw11"   "hmgb1"    "fadd"     "rps27a"   "map2k7"   "itgb2"    "itgam"   
+ [9] "nfkb1"    "rps6ka1"  "map2k4"   "jun"      "ptpn11"   "uba52"    "app"      "mapkapk2"
+[17] "rps6ka3"  "usp18"    "ikbkb"    "cul1"     "ppp2ca"   "ly86"     "rps6ka2"  "nkiras2" 
+[25] "ppp2cb"  
+
+$REACTOME_SYNTHESIS_OF_PIPS_AT_THE_PLASMA_MEMBRANE
+ [1] "mtmr14"  "inpp5d"  "ocrl"    "rab5a"   "pip4k2a" "mtmr3"   "plekha4" "pik3cb"  "bmx"    
+[10] "arf1"    "inpp5j" 
+
+$REACTOME_SYNTHESIS_OF_PIPS_AT_THE_GOLGI_MEMBRANE
+[1] "pi4ka"  "pik3r4" "vac14"  "pik3c3"
+
+$REACTOME_SYNTHESIS_OF_PIPS_AT_THE_EARLY_ENDOSOME_MEMBRANE
+[1] "pik3r4" "vac14"  "inpp4a" "pik3c3"
+
+$REACTOME_SYNTHESIS_OF_PIPS_AT_THE_LATE_ENDOSOME_MEMBRANE
+[1] "pik3r4" "vac14"  "pik3c3"
+
+$REACTOME_MYD88_MAL_TIRAP_CASCADE_INITIATED_ON_PLASMA_MEMBRANE
+ [1] "traf2"   "mapk14"  "ppp2r1b" "nfkbia"  "nfkb2"   "lrrc14"  "tirap"   "irak1"   "ikbkg"  
+[10] "irak2"   "rela"    "rps6ka5" "nlrx1"   "ube2v1"  "tnip2"   "usp14"   "s100b"   "mapk7"  
+[19] "mapk10"  "ppp2r5d" "tab3"    "dusp6"   "peli2"  
+
+$REACTOME_SPHINGOLIPID_DE_NOVO_BIOSYNTHESIS
+[1] "sptlc2" "kdsr"   "sptlc1" "sptssa" "sgms1"  "acer3"  "sphk2"  "cers5" 
+
+$REACTOME_GLYCOSPHINGOLIPID_METABOLISM
+ [1] "neu2"  "smpd4" "esyt3" "esyt1" "asah1" "cerk"  "smpd2" "arsi"  "arsg"  "ugt8a" "cptp" 
+[12] "gba2"  "hexa"  "enpp7" "neu4"  "sumf2" "asah2" "hexb"  "neu1" 
+
+$REACTOME_MYD88_INDEPENDENT_TLR4_CASCADE
+ [1] "traf2"   "mapk14"  "traf3"   "ppp2r1b" "nfkbia"  "nfkb2"   "lrrc14"  "irak1"   "ikbkg"  
+[10] "tlr4"    "irak2"   "sarm1"   "rela"    "rps6ka5" "nlrx1"   "ube2v1"  "ripk3"   "ube2d1" 
+[19] "tnip2"   "usp14"   "s100b"   "mapk7"   "mapk10"  "ly96"    "cd14"    "ppp2r5d" "tab3"   
+[28] "birc2"   "irf3"   
+
+$REACTOME_MITOCHONDRIAL_UNCOUPLING
+[1] "slc25a27" "pm20d1"   "ucp3"     "slc25a14" "ucp1"     "ucp2"    
+
+$REACTOME_MTORC1_MEDIATED_SIGNALLING
+[1] "lamtor2" "rragc"   "rraga"   "lamtor3" "lamtor1" "lamtor4" "rps6"   
+
+$REACTOME_THE_ACTIVATION_OF_ARYLSULFATASES
+[1] "arsi"  "arsg"  "sumf2" "arsa" 
+
+$REACTOME_SIGNALING_BY_NTRKS
+ [1] "ap2s1"     "cltc"      "kidins220" "rapgef1"   "rps6ka1"   "shc2"      "ywhab"    
+ [8] "ap2m1"     "cdk5r2"    "chd4"      "irs2"      "mapkapk2"  "clta"      "rps6ka3"  
+[15] "hras"      "ppp2ca"    "rps6ka2"   "frs2"      "ppp2cb"    "ntf3"     
+
+$REACTOME_COMPLEMENT_CASCADE
+ [1] "cpn2"    "c7"      "crp"     "c4b"     "masp2"   "colec11" "igll1"   "masp1"   "c1qb"   
+[10] "cpn1"    "gzmm"    "cr1l"    "cd81"    "cfd"     "c5ar2"   "cfp"     "c2"      "c5ar1"  
+
+$REACTOME_LECTIN_PATHWAY_OF_COMPLEMENT_ACTIVATION
+[1] "masp2"   "colec11" "masp1"  
+
+$REACTOME_INITIAL_TRIGGERING_OF_COMPLEMENT
+ [1] "crp"     "c4b"     "masp2"   "colec11" "igll1"   "masp1"   "c1qb"    "gzmm"    "cfd"    
+[10] "cfp"     "c2"     
+
+$REACTOME_TERMINAL_PATHWAY_OF_COMPLEMENT
+[1] "c7"
+
+$REACTOME_SIGNALLING_TO_RAS
+[1] "mapk14"
+
+$REACTOME_THE_FATTY_ACID_CYCLING_MODEL
+[1] "slc25a27" "ucp3"     "slc25a14" "ucp1"     "ucp2"    
+
+$REACTOME_TRAFFICKING_AND_PROCESSING_OF_ENDOSOMAL_TLR
+[1] "tlr8" "ctsb" "ctsl" "lgmn" "ctsk" "tlr7"
+
+$REACTOME_TOLL_LIKE_RECEPTOR_9_TLR9_CASCADE
+ [1] "fbxw11"   "hmgb1"    "pik3r4"   "rps27a"   "map2k7"   "nfkb1"    "rps6ka1"  "map2k4"  
+ [9] "jun"      "uba52"    "pik3c3"   "app"      "mapkapk2" "rps6ka3"  "usp18"    "ikbkb"   
+[17] "cul1"     "ppp2ca"   "rps6ka2"  "nkiras2"  "ppp2cb"  
+
+$REACTOME_INNATE_IMMUNE_SYSTEM
+  [1] "lamtor2"   "ube2m"     "lamtor3"   "defa2"     "lamtor1"   "pak2"      "txn1"     
+  [8] "uba3"      "psmd14"    "dnm2"      "vcp"       "fbxw11"    "psmb1"     "csnk2b"   
+ [15] "ptpn6"     "cand1"     "kpnb1"     "ppie"      "psma4"     "bri3"      "hmgb1"    
+ [22] "nckap1l"   "mre11a"    "pik3r4"    "fadd"      "syk"       "rap1b"     "rps27a"   
+ [29] "atp6v1a"   "psmd2"     "tyrobp"    "map2k7"    "eef2"      "psmd12"    "cdc42"    
+ [36] "brk1"      "actb"      "psma6"     "b4galt1"   "psmd3"     "hsp90ab1"  "itgb2"    
+ [43] "rab6a"     "dynll1"    "psmc6"     "defa25"    "ddx41"     "rhog"      "aamp"     
+ [50] "psmd4"     "xrcc6"     "trem2"     "gaa"       "vav1"      "wasf2"     "ubr4"     
+ [57] "hgsnat"    "itgam"     "atg7"      "atp6v1b2"  "atp6v1g1"  "psmb7"     "trim21"   
+ [64] "impdh2"    "nfkb1"     "cyfip1"    "psmb2"     "rps6ka1"   "btk"       "psmb5"    
+ [71] "ddost"     "pkm"       "map2k4"    "myd88"     "cap1"      "try4"      "dsc1"     
+ [78] "rac2"      "eef1a1"    "psma5"     "defa5"     "hsp90b1"   "myo1c"     "rab10"    
+ [85] "tlr6"      "jun"       "defb14"    "dgat1"     "psma7"     "prss3"     "padi2"    
+ [92] "kcmf1"     "atp6v1e1"  "ptpn11"    "serpinb3c" "cstb"      "uba52"     "ear10"    
+ [99] "hspa8"     "ppia"      "nfam1"     "rhof"      "defa21"    "ceacam1"   "abi1"     
+[106] "prkce"     "psma3"     "hsp90aa1"  "tmem30a"   "pik3c3"    "cfi"       "ilf2"     
+[113] "myh9"      "lat2"      "app"       "psmd6"     "psma2"     "prg2"      "serpinb3d"
+[120] "defb47"    "mapkapk2"  "clec4n"    "psmd10"    "dnajc5"    "commd3"    "aldoc"    
+[127] "rps6ka3"   "pdap1"     "usp18"     "mgst1"     "psmc4"     "psmc5"     "defb48"   
+[134] "cd300e"    "huwe1"     "reg3d"     "sirpb1a"   "glb1"      "defb19"    "cd247"    
+[141] "ikbkb"     "ep300"     "mcemp1"    "ppp3cb"    "cul1"      "hras"      "aoc1"     
+[148] "ptprj"     "ppp2ca"    "cd63"      "ly86"      "itk"       "psg22"     "gm10334"  
+[155] "rps6ka2"   "pa2g4"     "pgm2"      "cd46"      "rnase2a"   "s100a11"   "nkiras2"  
+[162] "qsox1"     "vnn1"      "psmd8"     "sirpb1b"   "galns"     "psmd11"    "ppp2cb"   
+[169] "ctnnb1"    "gca"       "prkcd"     "degs1"     "rab7"      "bpifb1"    "trim32"   
+[176] "apeh"      "pygb"      "pld4"      "prkacb"    "klrd1"     "lrrc7"     "cd47"     
+[183] "dnase1l1"  "psen1"     "actr1b"    "fcgr4"     "ripk2"     "klrk1"     "defa26"   
+[190] "psmc3"     "pigr"      "mlec"      "cst3"      "aldoa"     "cd59b"     "ncf2"     
+[197] "tbc1d10c"  "crisp2"    "epx"       "ear14"     "psmb4"     "actg1"     "calm3"    
+
+$REACTOME_IMMUNE_SYSTEM
+  [1] "lamtor2"   "keap1"     "ube2m"     "lamtor3"   "defa2"     "lamtor1"   "eif4a3"   
+  [8] "tuba1c"    "traip"     "cul3"      "pak2"      "txn1"      "tuba1b"    "uba3"     
+ [15] "kif20a"    "psmd14"    "dnm2"      "vcp"       "uba5"      "fbxw11"    "pten"     
+ [22] "arih1"     "psmb1"     "csnk2b"    "kif11"     "lrr1"      "ptpn6"     "det1"     
+ [29] "cand1"     "csf1r"     "kpnb1"     "ppie"      "psma4"     "bri3"      "hmgb1"    
+ [36] "nckap1l"   "mre11a"    "pik3r4"    "fadd"      "syk"       "rap1b"     "cdc23"    
+ [43] "rps27a"    "racgap1"   "atp6v1a"   "anapc10"   "cdc20"     "psmd2"     "tyrobp"   
+ [50] "map2k7"    "glmn"      "rbx1"      "eef2"      "ap2s1"     "psmd12"    "cdc42"    
+ [57] "brk1"      "actb"      "skp2"      "psma6"     "dctn4"     "b4galt1"   "psmd3"    
+ [64] "hsp90ab1"  "tnfrsf11a" "itgb2"     "rab6a"     "dynll1"    "psmc6"     "defa25"   
+ [71] "cltc"      "dctn6"     "ddx41"     "rhog"      "aamp"      "psmd4"     "xrcc6"    
+ [78] "trem2"     "gaa"       "vav1"      "wasf2"     "fbxw7"     "uba1"      "il13ra1"  
+ [85] "cdc16"     "rapgef1"   "ubr4"      "hgsnat"    "vcam1"     "anapc11"   "itgam"    
+ [92] "cul2"      "trim37"    "sh2b3"     "eif4e2"    "fbxo7"     "atg7"      "tnfsf14"  
+ [99] "atp6v1b2"  "atp6v1g1"  "psmb7"     "trim21"    "impdh2"    "nfkb1"     "cyfip1"   
+[106] "psmb2"     "rps6ka1"   "btk"       "ifna7"     "psmb5"     "ddost"     "kif4"     
+[113] "capzb"     "pkm"       "map2k4"    "myd88"     "cap1"      "anapc5"    "try4"     
+[120] "fbxl14"    "dsc1"      "ywhab"     "rac2"      "pdia3"     "fbxl5"     "eef1a1"   
+[127] "kif23"     "anapc1"    "ap2m1"     "dctn5"     "psma5"     "fbxw2"     "defa5"    
+[134] "siah1a"    "ifna16"    "hsp90b1"   "myo1c"     "cdc27"     "rab10"     "tlr6"     
+[141] "calr"      "jun"       "defb14"    "dgat1"     "cdc26"     "psma7"     "fbxo2"    
+[148] "ube2g1"    "prss3"     "padi2"     "ppm1b"     "uba6"      "dync1i2"   "trim36"   
+[155] "kcmf1"     "atp6v1e1"  "ptpn11"    "wwp1"      "serpinb3c" "cenpe"     "cstb"     
+[162] "uba52"     "ear10"     "flnb"      "hspa8"     "tuba1a"    "ppia"      "nfam1"    
+[169] "rhof"      "defa21"    "ceacam1"   "abi1"      "prkce"     "tubal3"    "psma3"    
+[176] "hsp90aa1"  "tmem30a"   "pik3c3"    "pik3ap1"   "cfi"       "trpc1"     "ube3a"    
+[183] "ilf2"      "myh9"      "lat2"      "il23a"     "app"       "psmd6"     "asb4"     
+[190] "psma2"     "prg2"      "serpinb3d" "defb47"    "irs2"      "mapkapk2"  "dctn3"    
+[197] "arel1"     "clta"      "clec4n"    "psmd10"    "col3a1"    "ube2q1"    "dnajc5"   
+[204] "ppp2r5c"   "commd3"    "ube2l3"    "tnfrsf14"  "tnfrsf12a" "aldoc"     "rps6ka3"  
+[211] "anapc2"    "pdap1"     "usp18"     "mgst1"     "psmc4"     "psmc5"    
+
+$REACTOME_NOD1_2_SIGNALING_PATHWAY
+[1] "rps27a"  "aamp"    "uba52"   "ripk2"   "casp9"   "ube2n"   "casp1"   "mapk11"  "tnfaip3"
+
+$REACTOME_NUCLEOTIDE_BINDING_DOMAIN_LEUCINE_RICH_REPEAT_CONTAINING_RECEPTOR_NLR_SIGNALING_PATHWAYS
+[1] "txn1"     "rps27a"   "hsp90ab1" "aamp"    
+
+$REACTOME_TOLL_LIKE_RECEPTOR_CASCADES
+ [1] "dnm2"     "fbxw11"   "hmgb1"    "pik3r4"   "fadd"     "rps27a"   "map2k7"   "itgb2"   
+ [9] "itgam"    "nfkb1"    "rps6ka1"  "map2k4"   "hsp90b1"  "tlr6"     "jun"      "ptpn11"  
+[17] "uba52"    "pik3c3"   "app"      "mapkapk2" "rps6ka3"  "usp18"    "ikbkb"    "cul1"    
+[25] "ppp2ca"   "ly86"     "rps6ka2"  "nkiras2"  "ppp2cb"  
+
+$REACTOME_DDX58_IFIH1_MEDIATED_INDUCTION_OF_INTERFERON_ALPHA_BETA
+ [1] "hmgb1"    "rps27a"   "hsp90ab1" "nfkb1"    "uba52"    "hsp90aa1" "app"      "ikbkb"   
+ [9] "ep300"    "nkiras2" 
+
+$REACTOME_PROLONGED_ERK_ACTIVATION_EVENTS
+[1] "kidins220" "rapgef1"   "ywhab"     "frs2"     
+
+$REACTOME_ADENYLATE_CYCLASE_ACTIVATING_PATHWAY
+[1] "adcy3" "adcy5" "adcy9" "adcy7"
+
+$REACTOME_ADENYLATE_CYCLASE_INHIBITORY_PATHWAY
+[1] "gnai2" "adcy4" "adcy1" "gnai3" "adcy6" "adcy2"
+
+$REACTOME_SIGNALING_BY_TGF_BETA_RECEPTOR_COMPLEX
+[1] "ube2m"  "nedd8"  "tfdp1"  "tgfbr2" "hdac1"  "strap"  "rps27a" "tgfbr1" "itga8" 
+
+$REACTOME_ARMS_MEDIATED_ACTIVATION
+[1] "kidins220" "crk"      
+
+$REACTOME_P38MAPK_EVENTS
+[1] "mapk14"
+
+$REACTOME_TELOMERE_EXTENSION_BY_TELOMERASE
+[1] "terf1" "ccna2" "dkc1"  "nop10" "acd"   "ppp6c" "pot1a" "gar1"  "rtel1"
+
+$REACTOME_APC_C_CDC20_MEDIATED_DEGRADATION_OF_CYCLIN_B
+ [1] "cdk1"    "cdc23"   "rps27a"  "anapc10" "cdc20"   "cdc16"   "anapc11" "anapc5"  "anapc1" 
+[10] "cdc27"   "cdc26"   "uba52"   "anapc2" 
+
+$REACTOME_SCF_BETA_TRCP_MEDIATED_DEGRADATION_OF_EMI1
+[1] "rps27a" "cdc20"  "fbxo5"  "uba52"  "cul1"  
+
+$REACTOME_APC_C_MEDIATED_DEGRADATION_OF_CELL_CYCLE_PROTEINS
+ [1] "aurkb"   "ccna2"   "psmd14"  "plk1"    "psmb1"   "cdk1"    "psma4"   "cdc23"   "rps27a" 
+[10] "anapc10" "cdc20"   "psmd2"   "aurka"   "fbxo5"   "mad2l1"  "bub3"    "psmd12"  "skp2"   
+[19] "psma6"   "psmd3"   "psmc6"   "psmd4"   "cdc16"   "anapc11" "psmb7"   "psmb2"   "psmb5"  
+[28] "anapc5"  "anapc1"  "psma5"   "cdc27"   "cdc26"   "psma7"   "uba52"   "psma3"   "bub1b"  
+[37] "psmd6"   "psma2"   "psmd10"  "anapc2"  "psmc4"   "psmc5"  
+
+$REACTOME_APC_C_CDH1_MEDIATED_DEGRADATION_OF_CDC20_AND_OTHER_APC_C_CDH1_TARGETED_PROTEINS_IN_LATE_MITOSIS_EARLY_G1
+ [1] "aurkb"   "psmd14"  "plk1"    "psmb1"   "psma4"   "cdc23"   "rps27a"  "anapc10" "cdc20"  
+[10] "psmd2"   "aurka"   "psmd12"  "skp2"    "psma6"   "psmd3"   "psmc6"   "psmd4"   "cdc16"  
+[19] "anapc11" "psmb7"   "psmb2"   "psmb5"   "anapc5"  "anapc1"  "psma5"   "cdc27"   "cdc26"  
+[28] "psma7"   "uba52"   "psma3"   "psmd6"   "psma2"   "psmd10"  "anapc2"  "psmc4"   "psmc5"  
+
+$REACTOME_TRANSPORT_AND_SYNTHESIS_OF_PAPS
+[1] "slc26a2" "papss1"  "papss2" 
+
+$REACTOME_GLUTATHIONE_SYNTHESIS_AND_RECYCLING
+[1] "gclc" "gss"  "ggt1" "gclm"
+
+$REACTOME_POLYMERASE_SWITCHING_ON_THE_C_STRAND_OF_THE_TELOMERE
+ [1] "terf1" "rfc5"  "pcna"  "prim1" "pold2" "rfc2"  "pold1" "rfc1"  "rfc3"  "acd"   "pola1"
+[12] "pold3" "rfc4"  "pot1a"
+
+$REACTOME_PROCESSIVE_SYNTHESIS_ON_THE_C_STRAND_OF_THE_TELOMERE
+ [1] "dna2"  "terf1" "rpa3"  "pcna"  "pold2" "pold1" "acd"   "pold3" "lig1"  "fen1"  "rpa1" 
+[12] "pot1a"
+
+$REACTOME_TELOMERE_C_STRAND_LAGGING_STRAND_SYNTHESIS
+ [1] "dna2"  "terf1" "rpa3"  "rfc5"  "pcna"  "prim1" "pold2" "rfc2"  "pold1" "rfc1"  "rfc3" 
+[12] "acd"   "pola1" "pold3" "lig1"  "fen1"  "rfc4"  "rpa1"  "pot1a"
+
+$REACTOME_TELOMERE_C_STRAND_SYNTHESIS_INITIATION
+[1] "terf1" "prim1" "acd"   "pola1" "pot1a" "pola2" "terf2" "ten1"  "prim2"
+
+$REACTOME_PLASMA_LIPOPROTEIN_ASSEMBLY_REMODELING_AND_CLEARANCE
+ [1] "abca1"  "nceh1"  "rps27a" "ap2s1"  "cltc"   "a2m"    "ap2m1"  "apoc1"  "uba52"  "bmp1"  
+[11] "nr1h2"  "alb"    "clta"   "abcg1"  "apoc4"  "plg"    "apoa5"  "prkacb" "npc1"   "zdhhc8"
+[21] "lipg"  
+
+$REACTOME_ACTIVATION_OF_ATR_IN_RESPONSE_TO_REPLICATION_STRESS
+ [1] "orc6"  "orc5"  "dbf4"  "rpa3"  "chek1" "orc2"  "orc1"  "rfc5"  "mcm2"  "rad9a" "mcm5" 
+[12] "mcm3"  "orc4"  "mcm7"  "rfc2"  "mcm4"  "mcm10" "rad1"  "mcm6"  "clspn" "cdc6"  "orc3" 
+[23] "rfc3"  "cdc45" "hus1"  "rfc4"  "rpa1"  "atrip" "cdc7" 
+
+$REACTOME_CONVERSION_FROM_APC_C_CDC20_TO_APC_C_CDH1_IN_LATE_ANAPHASE
+ [1] "cdc23"   "anapc10" "cdc20"   "cdc16"   "anapc11" "anapc5"  "anapc1"  "cdc27"   "cdc26"  
+[10] "anapc2" 
+
+$REACTOME_REGULATION_OF_APC_C_ACTIVATORS_BETWEEN_G1_S_AND_EARLY_ANAPHASE
+ [1] "ccna2"   "plk1"    "cdk1"    "cdc23"   "rps27a"  "anapc10" "cdc20"   "fbxo5"   "mad2l1" 
+[10] "bub3"    "cdc16"   "anapc11" "anapc5"  "anapc1"  "cdc27"   "cdc26"   "uba52"   "bub1b"  
+
+$REACTOME_PHOSPHORYLATION_OF_THE_APC_C
+ [1] "plk1"    "cdk1"    "cdc23"   "anapc10" "cdc16"   "anapc11" "anapc5"  "anapc1"  "cdc27"  
+[10] "cdc26"  
+
+$REACTOME_PHOSPHORYLATION_OF_EMI1
+[1] "plk1"  "cdk1"  "cdc20" "fbxo5"
+
+$REACTOME_ACTIVATION_OF_APC_C_AND_APC_C_CDC20_MEDIATED_DEGRADATION_OF_MITOTIC_PROTEINS
+ [1] "ccna2"   "psmd14"  "plk1"    "psmb1"   "cdk1"    "psma4"   "cdc23"   "rps27a"  "anapc10"
+[10] "cdc20"   "psmd2"   "mad2l1"  "bub3"    "psmd12"  "psma6"   "psmd3"   "psmc6"   "psmd4"  
+[19] "cdc16"   "anapc11" "psmb7"   "psmb2"   "psmb5"   "anapc5"  "anapc1"  "psma5"   "cdc27"  
+[28] "cdc26"   "psma7"   "uba52"   "psma3"   "bub1b"   "psmd6"   "psma2"   "psmd10"  "anapc2" 
+[37] "psmc4"   "psmc5"  
+
+$REACTOME_CONJUGATION_OF_SALICYLATE_WITH_GLYCINE
+[1] "acsm4"   "glyat"   "acsm2"   "glyatl3" "acsm5"  
+
+$REACTOME_RETROGRADE_NEUROTROPHIN_SIGNALLING
+[1] "ap2s1" "cltc"  "ap2m1" "clta" 
+
+$REACTOME_SIGNALING_BY_EGFR
+[1] "rps27a"  "cdc42"   "aamp"    "ptpn11"  "uba52"   "arhgef7" "pag1"    "hras"   
+
+$REACTOME_CHONDROITIN_SULFATE_DERMATAN_SULFATE_METABOLISM
+ [1] "chpf"       "chst7"      "xylt2"      "sdc2"       "chst14"     "idua"      
+ [7] "xylt1"      "b3gat3"     "hyal3"      "vcan"       "hexa"       "cspg5"     
+[13] "ids"        "csgalnact1" "gpc2"       "agrn"       "hexb"      
+
+$REACTOME_APC_CDC20_MEDIATED_DEGRADATION_OF_NEK2A
+ [1] "cdc23"   "rps27a"  "anapc10" "cdc20"   "mad2l1"  "bub3"    "cdc16"   "anapc11" "anapc5" 
+[10] "anapc1"  "cdc27"   "cdc26"   "uba52"   "bub1b"   "anapc2" 
+
+$REACTOME_SRP_DEPENDENT_COTRANSLATIONAL_PROTEIN_TARGETING_TO_MEMBRANE
+ [1] "rps25"   "rps7"    "rps3"    "rps4x"   "rps15a"  "rpl4"    "rpl18"   "rpsa"    "rps26"  
+[10] "rpl7"    "rpl6"    "rpl37"   "rps6"    "rps14"   "rps27rt" "rps21"   "rps27"   "rpl36a" 
+[19] "rpl18a"  "rpl10"   "rps9"    "rpl38"   "rpl13"   "rpl27"   "rpl39"   "rps19"   "rps2"   
+[28] "rps27l"  "rps13"   "rps23"   "rps16"   "rpl5"    "srp19"   "rps28"   "srp72"   "rps18"  
+[37] "rps20"   "rpl19"   "rpl23"   "rps15"   "rpl35"   "rplp0"   "rpl36al" "rps10"   "rpl35a" 
+[46] "rpl9"    "srp54b"  "rpl29"   "uba52"   "rps24"   "rpl14"  
+
+$REACTOME_DARPP_32_EVENTS
+[1] "ppp2r1b" "ppp1r1b" "pde4b"   "ppp1ca"  "ppp2r5d"
+
+$REACTOME_GAB1_SIGNALOSOME
+[1] "ptpn11" "pag1"   "src"    "egf"    "ereg"   "gab1"  
+
+$REACTOME_SHC1_EVENTS_IN_EGFR_SIGNALING
+[1] "hras" "shc1" "egf"  "ereg"
+
+$REACTOME_SEROTONIN_NEUROTRANSMITTER_RELEASE_CYCLE
+[1] "ppfia1" "unc13b" "ppfia2" "ppfia4" "stxbp1" "snap25"
+
+$REACTOME_NOREPINEPHRINE_NEUROTRANSMITTER_RELEASE_CYCLE
+[1] "ppfia1"  "maoa"    "unc13b"  "slc22a1" "ppfia2"  "ppfia4"  "stxbp1"  "snap25" 
+
+$REACTOME_ACETYLCHOLINE_BINDING_AND_DOWNSTREAM_EVENTS
+[1] "chrna1" "chrnb3" "chrnd"  "chrnb2" "chrna2" "chrna9" "chrna6"
+
+$REACTOME_EGFR_DOWNREGULATION
+[1] "rps27a"  "cdc42"   "uba52"   "arhgef7"
+
+$REACTOME_STING_MEDIATED_INDUCTION_OF_HOST_IMMUNE_RESPONSES
+[1] "ddx41" "tbk1" 
+
+$REACTOME_CYTOSOLIC_SENSORS_OF_PATHOGEN_ASSOCIATED_DNA
+ [1] "mre11a"  "rps27a"  "ddx41"   "trim21"  "nfkb1"   "myd88"   "uba52"   "ikbkb"   "ep300"  
+[10] "nkiras2" "ctnnb1"  "trim32" 
+
+$REACTOME_ORGANELLE_BIOGENESIS_AND_MAINTENANCE
+ [1] "tuba1c"   "tubg1"    "tuba1b"   "plk1"     "haus3"    "cdk1"     "cep192"   "atp5b"   
+ [9] "haus1"    "nedd1"    "cycs"     "dynll1"   "haus8"    "haus4"    "cep83"    "atp5c1"  
+[17] "atp5e"    "atp5h"    "sfi1"     "mapre1"   "haus6"    "atp5k"    "atp5j"    "atp5d"   
+[25] "ttc26"    "ckap5"    "haus2"    "dync1i2"  "ift57"    "atp5a1"   "cep76"    "tuba1a"  
+[33] "tubal3"   "haus5"    "hsp90aa1" "gbf1"     "atp5j2"   "atp5g1"   "dctn3"    "exoc8"   
+[41] "cep89"    "rab8a"    "iqcb1"    "mark4"    "unc119b"  "hdac6"    "wdr19"    "prkar2b" 
+[49] "ift81"    "atp5l"    "ninl"     "ywhae"    "bbs5"     "actr1a"   "ift74"    "rab11a"  
+[57] "csnk1d"   "cngb1"   
+
+$REACTOME_SYNTHESIS_OF_PYROPHOSPHATES_IN_THE_CYTOSOL
+[1] "nudt3"  "nudt4"  "itpk1"  "nudt10"
+
+$REACTOME_SYNTHESIS_OF_IP2_IP_AND_INS_IN_THE_CYTOSOL
+[1] "ocrl"   "inpp5j" "miox"  
+
+$REACTOME_SYNTHESIS_OF_IP3_AND_IP4_IN_THE_CYTOSOL
+ [1] "inpp5d" "ocrl"   "plcb4"  "itpkb"  "inpp5j" "itpkc"  "itpk1"  "plcd4"  "plcb3"  "plcb2" 
+
+$REACTOME_DOWNSTREAM_SIGNAL_TRANSDUCTION
+[1] "rasa1"   "rapgef1" "pdgfa"   "ptpn11"  "pdgfrb"  "hras"   
+
+$REACTOME_SIGNALING_BY_PDGF
+ [1] "rasa1"   "rapgef1" "pdgfa"   "ptpn11"  "pdgfrb"  "col3a1"  "hras"    "plg"     "col5a2" 
+[10] "col6a3"  "col5a1"  "col4a2"  "src"     "col9a3"  "thbs1"   "nck1"    "col6a6"  "bcar1"  
+
+$REACTOME_SIGNALING_BY_NTRK1_TRKA
+ [1] "ap2s1"     "cltc"      "kidins220" "rapgef1"   "rps6ka1"   "shc2"      "ywhab"    
+ [8] "ap2m1"     "cdk5r2"    "chd4"      "irs2"      "mapkapk2"  "clta"      "rps6ka3"  
+[15] "hras"      "ppp2ca"    "rps6ka2"   "frs2"      "ppp2cb"   
+
+$REACTOME_SCF_SKP2_MEDIATED_DEGRADATION_OF_P27_P21
+ [1] "ccna2"  "cks1b"  "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "skp2"   "psma6" 
+[11] "psmd3"  "psmc6"  "ccnd1"  "psmd4"  "cdk4"   "psmb7"  "psmb2"  "psmb5"  "psma5"  "psma7" 
+[21] "uba52"  "psma3"  "psmd6"  "ccne1"  "psma2"  "ccne2"  "psmd10" "psmc4"  "psmc5" 
+
+$REACTOME_SIGNALLING_TO_ERKS
+[1] "kidins220" "rapgef1"   "shc2"      "ywhab"     "mapkapk2"  "hras"      "frs2"     
+
+$REACTOME_DIGESTION_OF_DIETARY_CARBOHYDRATE
+[1] "amy2a4" "amy2a2" "amy2a3"
+
+$REACTOME_CELLULAR_HEXOSE_TRANSPORT
+[1] "slc2a3"  "slc2a7"  "slc5a10" "slc2a12" "slc50a1" "slc2a4"  "slc2a1"  "slc2a9" 
+
+$REACTOME_METABOLISM_OF_PORPHYRINS
+[1] "hmox1" "gsta2" "alb"   "cox10" "abcc1"
+
+$REACTOME_HEME_BIOSYNTHESIS
+[1] "alas1" "cox15" "alas2" "ppox"  "fech" 
+
+$REACTOME_HEME_DEGRADATION
+[1] "hmox1" "gsta2" "alb"   "abcc1"
+
+$REACTOME_SIGNALING_BY_FGFR
+ [1] "ncbp2"  "ncbp1"  "rps27a" "polr2i" "polr2b" "polr2e" "flrt2"  "polr2g" "polr2f" "ptbp1" 
+[11] "ptpn11" "uba52"  "fgf16"  "fgf3"   "fgfbp3" "fgf10"  "fgf6"   "hras"   "ppp2ca" "frs2"  
+[21] "ppp2cb" "spred1"
+
+$REACTOME_FGFR3_LIGAND_BINDING_AND_ACTIVATION
+[1] "fgf23" "fgf18" "fgf4"  "fgf17" "fgf1"  "fgf9" 
+
+$REACTOME_FGFR2_LIGAND_BINDING_AND_ACTIVATION
+[1] "fgfbp1" "fgf23"  "fgf18"  "fgf4"   "fgf17"  "fgf1"   "fgf22"  "fgf9"  
+
+$REACTOME_FGFR1B_LIGAND_BINDING_AND_ACTIVATION
+[1] "fgf3"  "fgf10"
+
+$REACTOME_FGFR3B_LIGAND_BINDING_AND_ACTIVATION
+[1] "fgf18" "fgf17" "fgf1"  "fgf9" 
+
+$REACTOME_FGFR1C_LIGAND_BINDING_AND_ACTIVATION
+[1] "fgf23" "fgf4"  "fgf17" "fgfr1" "fgf1"  "fgf9" 
+
+$REACTOME_FGFR2C_LIGAND_BINDING_AND_ACTIVATION
+[1] "fgf23" "fgf18" "fgf4"  "fgf17" "fgf1"  "fgf9" 
+
+$REACTOME_FGFR2B_LIGAND_BINDING_AND_ACTIVATION
+[1] "fgf3"   "fgfbp3" "fgf10" 
+
+$REACTOME_GAP_JUNCTION_ASSEMBLY
+[1] "tuba1c" "tuba1b" "tuba1a" "tubal3" "gjb1"  
+
+$REACTOME_TRANSPORT_OF_CONNEXONS_TO_THE_PLASMA_MEMBRANE
+[1] "tuba1c" "tuba1b" "tuba1a" "tubal3"
+
+$REACTOME_GAP_JUNCTION_DEGRADATION
+[1] "dnm2"  "actb"  "cltc"  "ap2m1" "clta"  "actg1" "dnm1" 
+
+$REACTOME_PRE_NOTCH_PROCESSING_IN_GOLGI
+[1] "tmed2" "furin"
+
+$REACTOME_PRE_NOTCH_EXPRESSION_AND_PROCESSING
+[1] "tmed2" "furin" "elf3" 
+
+$REACTOME_CHOLESTEROL_BIOSYNTHESIS
+ [1] "pmvk"   "hmgcs1" "idi1"   "dhcr7"  "ggps1"  "sqle"   "msmo1"  "srebf1" "nsdhl"  "cyp51" 
+
+$REACTOME_SNRNP_ASSEMBLY
+ [1] "nup160" "snrpe"  "snrpf"  "gemin4" "nup205" "snrpd1" "rae1"   "nup85"  "snupn"  "snrpg" 
+[11] "snrpd2" "ddx20"  "nup98"  "prmt5"  "nup214" "snrpd3" "tgs1"   "nup43"  "snrpb"  "nup107"
+[21] "nup93"  "gemin8" "clns1a" "gemin5" "gemin6" "nupl2"  "gemin7" "nup153" "ranbp2"
+
+$REACTOME_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS
+ [1] "akr1c14" "osbpl1a" "acot8"   "nr1h4"   "akr1cl"  "cyp39a1" "slc27a2" "acox2"   "osbpl6" 
+[10] "cyp7b1"  "ncoa2"   "osbpl2" 
+
+$REACTOME_DIGESTION_OF_DIETARY_LIPID
+[1] "pnlip"    "pnliprp1" "clps"    
+
+$REACTOME_ANDROGEN_BIOSYNTHESIS
+[1] "srd5a3"   "hsd17b12" "cyp17a1" 
+
+$REACTOME_ESTROGEN_BIOSYNTHESIS
+[1] "hsd17b11" "cyp19a1"  "hsd17b2" 
+
+$REACTOME_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS_VIA_7ALPHA_HYDROXYCHOLESTEROL
+[1] "akr1c14" "acot8"   "nr1h4"   "akr1cl"  "slc27a2" "acox2"   "cyp7b1"  "ncoa2"  
+
+$REACTOME_P75NTR_SIGNALS_VIA_NF_KB
+[1] "rps27a" "nfkb1"  "myd88"  "uba52"  "prkci"  "ikbkb"  "ripk2" 
+
+$REACTOME_NRAGE_SIGNALS_DEATH_THROUGH_JNK
+ [1] "ect2"     "vav1"     "tiam2"    "arhgef26" "fgd3"     "prex1"    "kalrn"    "arhgef7" 
+ [9] "arhgef10" "mcf2"     "arhgef37"
+
+$REACTOME_REGULATED_PROTEOLYSIS_OF_P75NTR
+[1] "adam17" "nfkb1"  "psenen" "psen1"  "ngfr"   "aph1b"  "ncstn" 
+
+$REACTOME_P75NTR_REGULATES_AXONOGENESIS
+[1] "rtn4"
+
+$REACTOME_P75_NTR_RECEPTOR_MEDIATED_SIGNALLING
+ [1] "adam17"   "ect2"     "rps27a"   "vav1"     "tiam2"    "arhgef26" "nfkb1"    "myd88"   
+ [9] "fgd3"     "psenen"   "prex1"    "kalrn"    "uba52"    "arhgef7"  "prkci"    "arhgef10"
+[17] "ikbkb"    "mcf2"     "arhgef37" "ywhae"    "casp3"    "psen1"    "akap13"   "ripk2"   
+
+$REACTOME_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS_VIA_24_HYDROXYCHOLESTEROL
+[1] "akr1c14" "akr1cl"  "cyp39a1" "slc27a2"
+
+$REACTOME_SYNTHESIS_OF_BILE_ACIDS_AND_BILE_SALTS_VIA_27_HYDROXYCHOLESTEROL
+[1] "rxra"   "hsd3b7" "ptgis"  "akr1c6"
+
+$REACTOME_MINERALOCORTICOID_BIOSYNTHESIS
+[1] "hsd3b2"  "cyp11b2" "hsd3b3"  "lhb"     "hsd3b5" 
+
+$REACTOME_GLUCOCORTICOID_BIOSYNTHESIS
+[1] "cyp11b1"  "serpina6" "cyp17a1"  "hsd11b1" 
+
+$REACTOME_BILE_ACID_AND_BILE_SALT_METABOLISM
+ [1] "slco1a4" "akr1c14" "osbpl1a" "acot8"   "nr1h4"   "slc10a1" "akr1cl"  "slc51b"  "cyp39a1"
+[10] "slc27a2" "acox2"   "osbpl6"  "cyp7b1"  "ncoa2"   "osbpl2"  "abcc3"  
+
+$REACTOME_SIGNALING_BY_VEGF
+ [1] "mtor"    "mapk14"  "akt1"    "mlst8"   "rock1"   "cybb"    "rictor"  "baiap2"  "kdr"    
+[10] "pik3cb"  "prr5"    "cav1"    "mapkap1" "shb"     "itgb3"   "pak3"    "wasf1"   "trib3"  
+
+$REACTOME_VEGF_LIGAND_RECEPTOR_INTERACTIONS
+[1] "kdr"  "pgf"  "flt1"
+
+$REACTOME_DEGRADATION_OF_BETA_CATENIN_BY_THE_DESTRUCTION_COMPLEX
+ [1] "psmd14"  "psmb1"   "psma4"   "rps27a"  "psmd2"   "rbx1"    "psmd12"  "csnk1a1" "psma6"  
+[10] "psmd3"   "psmc6"   "gsk3b"   "psmd4"   "psmb7"   "psmb2"   "psmb5"   "psma5"   "psma7"  
+[19] "uba52"   "psma3"   "psmd6"   "psma2"   "psmd10"  "ppp2r5c" "psmc4"   "psmc5"   "tcf7l2" 
+[28] "cul1"    "ppp2ca"  "tcf7l1"  "axin1"   "psmd8"   "psmd11"  "ppp2cb"  "ctnnb1"  "tcf7"   
+
+$REACTOME_RHO_GTPASE_EFFECTORS
+ [1] "aurkb"    "tuba1c"   "pfn1"     "pak2"     "prc1"     "tuba1b"   "rangap1"  "plk1"    
+ [9] "incenp"   "cdca8"    "nup160"   "zwint"    "spc24"    "nckap1l"  "pik3r4"   "mis12"   
+[17] "ndc80"    "spdl1"    "cenpc1"   "nuf2"     "cdc20"    "nudc"     "rps27rt"  "nup85"   
+[25] "mad2l1"   "bub3"     "rps27"    "cdc42"    "brk1"     "actb"     "nsl1"     "pmf1"    
+[33] "dynll1"   "nup98"    "rhog"     "nup43"    "wasf2"    "nup107"   "cenpk"    "cyfip1"  
+[41] "btk"      "mapre1"   "ywhab"    "rac2"     "zwilch"   "cenpq"    "cenpn"    "ckap5"   
+[49] "dync1i2"  "cenpe"    "tuba1a"   "abi1"     "tubal3"   "xpo1"     "pik3c3"   "ranbp2"  
+[57] "bub1b"    "myh9"     "kif14"    "ppp1r12a"
+
+$REACTOME_SIGNALING_BY_WNT
+ [1] "cdc73"   "pfn1"    "cul3"    "chd8"    "psmd14"  "psmb1"   "csnk2b"  "psma4"   "ash2l"  
+[10] "hdac1"   "rps27a"  "psmd2"   "rbx1"    "ap2s1"   "psmd12"  "csnk1a1" "arrb2"   "psma6"  
+[19] "psmd3"   "psmc6"   "cltc"    "leo1"    "vps29"   "gsk3b"   "psmd4"   "psmb7"   "psmb2"  
+[28] "psmb5"   "rbbp5"   "rac2"    "ap2m1"   "psma5"   "axin2"   "psma7"   "csnk2a1" "uba52"  
+[37] "wls"     "xpo1"    "psma3"   "psmd6"   "psma2"   "gnb5"    "clta"    "psmd10"  "ppp2r5c"
+[46] "psmc4"   "psmc5"   "tcf7l2"  "bcl9l"   "ep300"   "ppp3cb"  "cul1"    "fzd1"    "rspo2"  
+[55] "ppp2ca"  "gng12"   "pard6a"  "tcf7l1"  "sox17"   "axin1"   "gnat2"   "psmd8"   "psmd11" 
+[64] "ppp2cb"  "ctnnb1"  "wnt4"    "tcf7"    "usp8"    "pde6b"   "bcl9"   
+
+$REACTOME_METABOLISM_OF_STEROID_HORMONES
+[1] "cyp11b1"  "srd5a3"   "akr1b3"   "hsd17b12" "serpina6" "cyp17a1"  "hsd17b11" "hsd11b1" 
+[9] "stard3"  
+
+$REACTOME_PREGNENOLONE_BIOSYNTHESIS
+[1] "akr1b3"   "stard3"   "star"     "stard3nl" "cyp11a1"  "stard6"  
+
+$REACTOME_BETA_CATENIN_PHOSPHORYLATION_CASCADE
+[1] "csnk1a1" "gsk3b"   "ppp2r5c" "ppp2ca"  "axin1"   "ppp2cb"  "ctnnb1" 
+
+$REACTOME_GRB2_EVENTS_IN_ERBB2_SIGNALING
+[1] "hras" "nrg3" "ereg" "nrg1"
+
+$REACTOME_PI3K_EVENTS_IN_ERBB2_SIGNALING
+ [1] "erbb4"  "btc"    "erbb2"  "erbb3"  "pik3ca" "hbegf"  "pik3r1" "egfr"   "grb2"   "nrg1"  
+[11] "gab1"   "ereg"   "egf"    "nrg3"  
+
+$REACTOME_COBALAMIN_CBL_VITAMIN_B12_TRANSPORT_AND_METABOLISM
+[1] "mmachc" "mmab"   "mtr"    "mtrr"   "mmadhc" "abcc1" 
+
+$REACTOME_METABOLISM_OF_FOLATE_AND_PTERINES
+[1] "dhfr"    "fpgs"    "mthfd2"  "mthfd1"  "mthfd1l"
+
+$REACTOME_BIOTIN_TRANSPORT_AND_METABOLISM
+[1] "acaca" "acacb" "btd"  
+
+$REACTOME_COENZYME_A_BIOSYNTHESIS
+[1] "ppcdc" "ppcs" 
+
+$REACTOME_VITAMIN_D_CALCIFEROL_METABOLISM
+[1] "sumo2" "ube2i" "pias4"
+
+$REACTOME_NICOTINATE_METABOLISM
+[1] "nudt12" "slc5a8" "nmrk2"  "naprt"  "nmrk1" 
+
+$REACTOME_VITAMIN_B1_THIAMIN_METABOLISM
+[1] "slc19a3"  "thtpa"    "slc19a2"  "tpk1"     "slc25a19"
+
+$REACTOME_VITAMIN_C_ASCORBATE_METABOLISM
+[1] "slc23a1" "slc2a3" 
+
+$REACTOME_VITAMIN_B2_RIBOFLAVIN_METABOLISM
+[1] "rfk"   "flad1"
+
+$REACTOME_METABOLISM_OF_WATER_SOLUBLE_VITAMINS_AND_COFACTORS
+ [1] "mmachc"   "aasdhppt" "rfk"      "nfs1"     "nampt"    "dhfr"     "flad1"    "aox1"    
+ [9] "ptgis"    "gsto2"    "mmab"     "mtr"      "fpgs"     "nadk"     "mocs1"    "parp6"   
+[17] "mtrr"     "qprt"     "mthfd2"   "mthfd1"   "mocos"    "pcca"     "mmadhc"   "abcc1"   
+[25] "mthfd1l"  "vnn1"    
+
+$REACTOME_METABOLISM_OF_VITAMINS_AND_COFACTORS
+ [1] "mmachc"   "aasdhppt" "rfk"      "nfs1"     "gch1"     "nampt"    "dhfr"     "flad1"   
+ [9] "aox1"     "ptgis"    "gsto2"    "sdc4"     "mmab"     "mtr"      "fpgs"     "nadk"    
+[17] "mocs1"    "parp6"    "mtrr"     "hsp90aa1" "qprt"     "mthfd2"   "mthfd1"   "mocos"   
+[25] "coq2"     "pcca"     "mmadhc"   "abcc1"    "akr1c6"   "apom"     "mthfd1l"  "vnn1"    
+[33] "lrp10"    "calm3"    "pank1"    "plb1"     "pccb"     "nmnat1"   "nt5e"     "bco1"    
+[41] "ubiad1"   "nos3"    
+
+$REACTOME_A_TETRASACCHARIDE_LINKER_SEQUENCE_IS_REQUIRED_FOR_GAG_SYNTHESIS
+ [1] "xylt2"  "sdc2"   "xylt1"  "b3gat3" "vcan"   "cspg5"  "gpc2"   "agrn"   "gpc3"   "gpc5"  
+[11] "sdc1"  
+
+$REACTOME_NICOTINAMIDE_SALVAGING
+[1] "nudt12" "slc5a8" "naprt" 
+
+$REACTOME_SIGNALING_BY_NOTCH1
+[1] "rps27a" "jag2"   "uba52"  "ep300"  "kat2a" 
+
+$REACTOME_PI3K_AKT_ACTIVATION
+[1] "pik3cb" "ntrk1"  "rhoa"   "pik3ca" "pik3r2" "ngf"   
+
+$REACTOME_AKT_PHOSPHORYLATES_TARGETS_IN_THE_CYTOSOL
+[1] "tsc2"  "casp9"
+
+$REACTOME_AKT_PHOSPHORYLATES_TARGETS_IN_THE_NUCLEUS
+[1] "akt1"    "rps6kb2" "foxo6"  
+
+$REACTOME_NUCLEAR_EVENTS_KINASE_AND_TRANSCRIPTION_FACTOR_ACTIVATION
+[1] "mapk14"  "ppp2r1b" "rps6ka5" "mapk7"   "ppp2r5d" "sgk1"    "dusp6"  
+
+$REACTOME_ERK_MAPK_TARGETS
+[1] "mapk14"  "ppp2r1b" "rps6ka5" "mapk7"   "ppp2r5d" "dusp6"  
+
+$REACTOME_IMMUNOREGULATORY_INTERACTIONS_BETWEEN_A_LYMPHOID_AND_A_NON_LYMPHOID_CELL
+ [1] "h2-q10"   "h2-m3"    "h2-q1"    "crtam"    "ifitm6"   "h2-m9"    "h2-m10.6" "cd40lg"  
+ [9] "b2m"      "igll1"    "treml1"   "treml2"   "kir3dl1"  "madcam1"  "itgb7"    "h2-q2"   
+[17] "h2-m1"    "cd81"     "icam4"    "pvr"      "slamf7"   "trem1"    "h2-q4"    "sell"    
+[25] "hcst"     "col2a1"   "h2-m10.3" "cd19"     "cd96"     "slamf6"   "h2-t22"   "cd40"    
+[33] "cd3g"    
+
+$REACTOME_VITAMIN_B5_PANTOTHENATE_METABOLISM
+[1] "ppcdc" "ppcs" 
+
+$REACTOME_NEGATIVE_REGULATION_OF_THE_PI3K_AKT_NETWORK
+ [1] "pten"    "rhog"    "vav1"    "myd88"   "rac2"    "pdgfa"   "ptpn11"  "kitl"    "pik3ap1"
+[10] "fgf16"   "pdgfrb"  "irs2"    "fgf3"    "ppp2r5c" "fgf10"   "fgf6"    "ppp2ca"  "frs2"   
+[19] "icos"    "ppp2cb"  "il33"    "cd86"   
+
+$REACTOME_CREB_PHOSPHORYLATION
+[1] "rps6ka1"  "mapkapk2" "rps6ka3"  "rps6ka2"  "atf1"    
+
+$REACTOME_ER_TO_GOLGI_ANTEROGRADE_TRANSPORT
+ [1] "sec13"    "sec31a"   "copz2"    "cog2"     "capza3"   "tmed2"    "nsf"      "capza2"  
+ [9] "tmed10"   "gosr1"    "tfg"      "sec22b"   "sec23ip"  "tubb4b"   "cog4"     "arfgap3" 
+[17] "uso1"     "copa"     "golgb1"   "arf1"     "trappc6b" "rab1b"    "stx5a"    "lman1"   
+[25] "sptan1"   "kdelr2"   "trappc1"  "ctsc"     "trappc9"  "cog6"     "arf3"     "cope"    
+[33] "cog3"     "lman1l"   "ctsz"     "arf5"     "cnih2"    "tubb3"    "sec23a"  
+
+$REACTOME_MEMBRANE_TRAFFICKING
+ [1] "tsc1"      "tsc2"      "nedd8"     "tuba1c"    "tuba1b"    "tbc1d7"    "kif20a"   
+ [8] "dnm2"      "kif11"     "ap3b1"     "bloc1s4"   "cops4"     "arf6"      "gps1"     
+[15] "chmp6"     "napa"      "rps27a"    "racgap1"   "cops6"     "vps37a"    "rab8b"    
+[22] "ap2s1"     "actb"      "arrb2"     "dctn4"     "rab6a"     "gosr2"     "dynll1"   
+[29] "cltc"      "dctn6"     "chmp7"     "ubap1"     "bloc1s3"   "pacsin2"   "vps51"    
+[36] "sec16a"    "ppp6c"     "dtnbp1"    "picalm"    "bloc1s6"   "rab3il1"   "cops5"    
+[43] "ric1"      "cops8"     "kif4"      "gabarapl2" "trappc2"   "capzb"     "kif27"    
+[50] "preb"      "kif23"     "ap2m1"     "dctn5"     "trappc4"   "copz1"     "vps37c"   
+[57] "folr1"     "kif18b"    "rab10"     "dennd1a"   "rab38"     "dennd4b"   "tmed3"    
+[64] "vps25"     "dync1i2"   "cops7a"    "dennd6a"   "cenpe"     "uba52"     "hspa8"    
+[71] "tuba1a"    "snx5"      "tubal3"    "gbf1"      "gjb1"      "cyth4"     "rgp1"     
+[78] "necap2"    "col7a1"    "chmp4c"    "app"      
+
+$REACTOME_TRANS_GOLGI_NETWORK_VESICLE_BUDDING
+ [1] "dnm2"    "ap3b1"   "bloc1s4" "napa"    "cltc"    "bloc1s3" "dtnbp1"  "picalm"  "bloc1s6"
+[10] "hspa8"   "snx5"    "gbf1"    "app"     "clta"    "ap1g2"   "necap1"  "clvs2"   "tgoln1" 
+[19] "snx2"    "snx9"   
+
+$REACTOME_CARNITINE_METABOLISM
+[1] "acaca"    "prkag2"   "slc25a20" "acacb"    "mid1ip1"  "prkaa2"   "cpt1a"   
+
+$REACTOME_SIGNALING_BY_BMP
+[1] "ski"     "smad4"   "ube2d1"  "amh"     "zfyve16" "smurf2"  "smad9"   "acvr2a" 
+
+$REACTOME_SIGNALING_BY_ALK
+[1] "ptpn6" "hdac1" "hdac3" "ep300"
+
+$REACTOME_TCF_DEPENDENT_SIGNALING_IN_RESPONSE_TO_WNT
+ [1] "cdc73"   "cul3"    "chd8"    "psmd14"  "psmb1"   "csnk2b"  "psma4"   "ash2l"   "hdac1"  
+[10] "rps27a"  "psmd2"   "rbx1"    "psmd12"  "csnk1a1" "psma6"   "psmd3"   "psmc6"   "leo1"   
+[19] "gsk3b"   "psmd4"   "psmb7"   "psmb2"   "psmb5"   "rbbp5"   "psma5"   "axin2"   "psma7"  
+[28] "csnk2a1" "uba52"   "xpo1"    "psma3"   "psmd6"   "psma2"   "psmd10"  "ppp2r5c" "psmc4"  
+[37] "psmc5"   "tcf7l2"  "bcl9l"   "ep300"   "fzd1"    "rspo2"   "ppp2ca"  "tcf7l1"  "sox17"  
+[46] "axin1"   "psmd8"   "psmd11"  "ppp2cb"  "ctnnb1"  "tcf7"    "usp8"    "bcl9"   
+
+$REACTOME_WNT_MEDIATED_ACTIVATION_OF_DVL
+[1] "csnk2b"  "csnk2a1"
+
+$REACTOME_FORMATION_OF_THE_BETA_CATENIN_TCF_TRANSACTIVATING_COMPLEX
+ [1] "cdc73"  "ash2l"  "hdac1"  "leo1"   "rbbp5"  "tcf7l2" "bcl9l"  "ep300"  "tcf7l1" "ctnnb1"
+[11] "tcf7"   "bcl9"  
+
+$REACTOME_G_PROTEIN_ACTIVATION
+[1] "gng13" "gngt1" "pomc"  "gng8"  "gna15"
+
+$REACTOME_METABOLISM_OF_NITRIC_OXIDE_NOS3_ACTIVATION_AND_REGULATION
+[1] "dnm2"     "hsp90aa1" "calm3"    "nos3"    
+
+$REACTOME_ASSEMBLY_OF_COLLAGEN_FIBRILS_AND_OTHER_MULTIMERIC_STRUCTURES
+ [1] "loxl2"   "mmp13"   "col4a6"  "mmp9"    "loxl3"   "tll2"    "col6a1"  "ctsb"    "col4a5" 
+[10] "col9a2"  "col14a1" "lox"     "col12a1" "col11a1" "col6a2"  "ctsl"    "tll1"    "col15a1"
+[19] "col2a1" 
+
+$REACTOME_METABOLISM_OF_ANGIOTENSINOGEN_TO_ANGIOTENSINS
+[1] "atp6ap2" "cpb1"    "ctsz"   
+
+$REACTOME_KERATAN_SULFATE_BIOSYNTHESIS
+[1] "b4galt1" "st3gal2" "b3gnt4"  "st3gal3" "b4gat1"  "omd"     "prelp"  
+
+$REACTOME_KERATAN_SULFATE_DEGRADATION
+[1] "ogn"  "acan"
+
+$REACTOME_CHONDROITIN_SULFATE_BIOSYNTHESIS
+[1] "csgalnact2" "bcan"       "bgn"        "chsy1"      "chst15"    
+
+$REACTOME_DERMATAN_SULFATE_BIOSYNTHESIS
+[1] "dse"  "bcan" "bgn"  "ust" 
+
+$REACTOME_HS_GAG_BIOSYNTHESIS
+ [1] "ext1"     "sdc2"     "hs3st2"   "hs3st1"   "hs6st1"   "hs3st5"   "ndst4"    "gpc2"    
+ [9] "agrn"     "hs3st6"   "gpc3"     "hs3st3a1"
+
+$REACTOME_TCR_SIGNALING
+ [1] "pak2"   "psmd14" "fbxw11" "pten"   "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6" 
+[11] "psmd3"  "psmc6"  "psmd4"  "psmb7"  "nfkb1"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52" 
+[21] "psma3"  "psmd6"  "psma2"  "psmd10" "psmc4"  "psmc5"  "cd247"  "ikbkb"  "pag1"   "cul1"  
+[31] "ptprj"  "itk"    "psmd8"  "psmd11" "zap70" 
+
+$REACTOME_HS_GAG_DEGRADATION
+ [1] "hpse2" "sdc2"  "hpse"  "idua"  "sgsh"  "ids"   "gpc2"  "agrn"  "gpc3"  "gpc5"  "sdc1" 
+[12] "naglu"
+
+$REACTOME_CS_DS_DEGRADATION
+[1] "idua"  "hyal3" "vcan"  "hexa"  "cspg5" "ids"   "hexb" 
+
+$REACTOME_DOWNSTREAM_TCR_SIGNALING
+ [1] "psmd14" "fbxw11" "pten"   "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3" 
+[11] "psmc6"  "psmd4"  "psmb7"  "nfkb1"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3" 
+[21] "psmd6"  "psma2"  "psmd10" "psmc4"  "psmc5"  "cd247"  "ikbkb"  "cul1"  
+
+$REACTOME_PHOSPHORYLATION_OF_CD3_AND_TCR_ZETA_CHAINS
+[1] "h2-eb1" "lck"    "ptpn22" "cd4"   
+
+$REACTOME_TRANSLOCATION_OF_ZAP_70_TO_IMMUNOLOGICAL_SYNAPSE
+[1] "h2-eb1" "lck"    "ptpn22" "cd4"   
+
+$REACTOME_GENERATION_OF_SECOND_MESSENGER_MOLECULES
+ [1] "pak2"   "cd247"  "itk"    "zap70"  "fyb"    "cd3e"   "h2-eb2" "pak1"   "nck1"   "lcp2"  
+[11] "cd3d"  
+
+$REACTOME_CALCINEURIN_ACTIVATES_NFAT
+[1] "ppp3cb" "calm3"  "nfatc3" "fkbp1a" "calm2" 
+
+$REACTOME_ERKS_ARE_INACTIVATED
+[1] "ppp2r1b" "mapk7"   "ppp2r5d" "dusp6"  
+
+$REACTOME_CELL_SURFACE_INTERACTIONS_AT_THE_VASCULAR_WALL
+ [1] "ptpn6"     "itgb2"     "itgam"     "sdc4"      "fcamr"     "ptpn11"    "ceacam1"  
+ [8] "tgfb1"     "jam3"      "sirpb1a"   "hras"      "psg22"     "f11r"      "sirpb1b"  
+[15] "cd47"      "cxadr"     "shc1"      "sirpa"     "esam"      "sdc3"      "yes1"     
+[22] "tnfrsf10b" "src"       "dok2"      "gm5150"    "pf4"       "cd74"      "ceacam2"  
+
+$REACTOME_SIGNALING_BY_HIPPO
+[1] "ywhab"  "stk4"   "ywhae"  "casp3"  "tjp1"   "wwtr1"  "amotl1"
+
+$REACTOME_FCGAMMA_RECEPTOR_FCGR_DEPENDENT_PHAGOCYTOSIS
+ [1] "nckap1l"  "syk"      "cdc42"    "brk1"     "actb"     "hsp90ab1" "vav1"     "wasf2"   
+ [9] "cyfip1"   "btk"      "myo1c"    "abi1"     "prkce"    "hsp90aa1" "myh9"    
+
+$REACTOME_ROLE_OF_PHOSPHOLIPIDS_IN_PHAGOCYTOSIS
+[1] "syk"   "prkce" "cd247" "prkcd" "pld4"  "fcgr4"
+
+$REACTOME_YAP1_AND_WWTR1_TAZ_STIMULATED_GENE_EXPRESSION
+[1] "tbx5"  "kat2b" "tead3" "tead4"
+
+$REACTOME_ENOS_ACTIVATION
+[1] "akt1"  "cav1"  "ddah2" "ddah1"
+
+$REACTOME_MICRORNA_MIRNA_BIOGENESIS
+[1] "ago3"   "ago2"   "tarbp2" "prkra"  "ago1"  
+
+$REACTOME_COPII_MEDIATED_VESICLE_TRANSPORT
+ [1] "sec13"    "sec31a"   "tmed2"    "nsf"      "tmed10"   "tfg"      "sec22b"   "sec23ip" 
+ [9] "uso1"     "trappc6b" "rab1b"    "stx5a"    "lman1"    "trappc1"  "ctsc"     "trappc9" 
+[17] "lman1l"   "ctsz"     "cnih2"    "sec23a"  
+
+$REACTOME_REGULATION_OF_PYRUVATE_DEHYDROGENASE_PDH_COMPLEX
+[1] "pdk2" "dld"  "pdk1" "pdpr" "dlat" "pdhx" "pdk4"
+
+$REACTOME_ALPHA_LINOLENIC_OMEGA3_AND_LINOLEIC_OMEGA6_ACID_METABOLISM
+[1] "acsl1" "acot8"
+
+$REACTOME_LINOLEIC_ACID_LA_METABOLISM
+[1] "acsl1"
+
+$REACTOME_CELL_DEATH_SIGNALLING_VIA_NRAGE_NRIF_AND_NADE
+ [1] "ect2"     "rps27a"   "vav1"     "tiam2"    "arhgef26" "fgd3"     "psenen"   "prex1"   
+ [9] "kalrn"    "uba52"    "arhgef7"  "arhgef10" "mcf2"     "arhgef37" "ywhae"    "casp3"   
+[17] "psen1"    "akap13"  
+
+$REACTOME_NRIF_SIGNALS_CELL_DEATH_FROM_THE_NUCLEUS
+[1] "rps27a" "psenen" "uba52"  "psen1"  "ngfr"   "aph1b"  "ncstn"  "ubb"   
+
+$REACTOME_P75NTR_RECRUITS_SIGNALLING_COMPLEXES
+[1] "rps27a" "myd88"  "uba52"  "prkci"  "ikbkb"  "ripk2"  "ngfr"  
+
+$REACTOME_NF_KB_IS_ACTIVATED_AND_SIGNALS_SURVIVAL
+[1] "rps27a" "nfkb1"  "uba52"  "ikbkb" 
+
+$REACTOME_METABOLISM_OF_AMINE_DERIVED_HORMONES
+[1] "duox1"  "aanat"  "iyd"    "tpo"    "slc5a5" "ddc"    "dio3"   "dio1"  
+
+$REACTOME_GLYCOPROTEIN_HORMONES
+[1] "fshb"  "tshb"  "inhbe" "inhba" "lhb"   "inha"  "inhbb"
+
+$REACTOME_PEPTIDE_HORMONE_BIOSYNTHESIS
+[1] "fshb"  "pomc"  "tshb"  "inhbe" "inhba" "lhb"   "inha"  "inhbb"
+
+$REACTOME_THYROXINE_BIOSYNTHESIS
+[1] "duox1"  "iyd"    "tpo"    "slc5a5" "dio3"   "dio1"  
+
+$REACTOME_GLUTAMATE_NEUROTRANSMITTER_RELEASE_CYCLE
+[1] "slc1a6"  "gls"     "arl6ip5" "stx1a"  
+
+$REACTOME_PECAM1_INTERACTIONS
+[1] "lyn"    "inpp5d" "lck"    "itgb3" 
+
+$REACTOME_TIE2_SIGNALING
+[1] "pik3cb" "angpt2"
+
+$REACTOME_GENE_SILENCING_BY_RNA
+ [1] "nup160" "nup205" "rae1"   "nup85"  "nup98"  "nup214" "nup43"  "nup107" "nup93"  "nupl2" 
+[11] "nup153" "ranbp2" "nup88" 
+
+$REACTOME_BIOLOGICAL_OXIDATIONS
+ [1] "gclc"     "ahcy"     "trmt112"  "hsp90ab1" "rxra"     "cyp11b1"  "mat1a"    "cyp3a59" 
+ [9] "cyp4f40"  "gsta2"    "slc26a2"  "ugp2"     "cyp2j6"   "ptgis"    "gsto2"    "mtr"     
+[17] "paox"     "mtrr"     "mat2b"    "gss"      "maoa"     "dpep1"    "ptges3"   "ggt1"    
+[25] "gclm"     "mgst1"    "abhd10"   "mat2a"    "papss1"   "aldh3a1"  "arnt"     "aoc1"    
+[33] "papss2"   "mgst2"    "gstm2"    "cyp26a1" 
+
+$REACTOME_CYTOCHROME_P450_ARRANGED_BY_SUBSTRATE_TYPE
+[1] "rxra"    "cyp11b1" "cyp3a59" "cyp4f40" "cyp2j6"  "ptgis"  
+
+$REACTOME_VITAMINS
+[1] "cyp24a1" "cyp26c1" "cyp27b1" "cyp2r1" 
+
+$REACTOME_FATTY_ACIDS
+[1] "cyp2j6"  "cyp2b10" "cyp2a5"  "cyp2a12" "cyp4f18" "cyp2f2"  "cyp4f39"
+
+$REACTOME_PHASE_I_FUNCTIONALIZATION_OF_COMPOUNDS
+ [1] "arnt2"    "fmo1"     "cbr3"     "cyp2c29"  "nr1h4"    "cyp3a41b" "adh5"     "aoc3"    
+ [9] "adh1"     "cyp2c66"  "aoc2"     "cyp3a13"  "pomc"     "cyp39a1"  "cyp2c65"  "cyp2d22" 
+[17] "cyp7b1"   "cyp3a57"  "cyp1a2"   "cyp24a1"  "ncoa2"    "cyb5r3"  
+
+$REACTOME_MISCELLANEOUS_SUBSTRATES
+[1] "cyp3a13" "cyp2d22" "cyp3a57"
+
+$REACTOME_ENDOGENOUS_STEROLS
+[1] "rxra"    "cyp11b1" "ptgis"   "arnt"   
+
+$REACTOME_EICOSANOIDS
+[1] "cyp4f40" "ptgis"   "tbxas1" 
+
+$REACTOME_XENOBIOTICS
+[1] "arnt2"    "cyp2c29"  "cyp3a41b" "cyp2c66"  "cyp3a13"  "cyp2c65"  "cyp2d22"  "cyp3a57" 
+[9] "cyp1a2"  
+
+$REACTOME_CYP2E1_REACTIONS
+[1] "cyp2c66" "cyp2c65" "cyp2d22"
+
+$REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION
+ [1] "dnmt1"   "smarca5" "mybbp1a" "cd3eap"  "ddx21"   "polr1b"  "taf1b"   "gsk3b"   "h3f3a"  
+[10] "polr2e"  "taf1d"   "taf1c"   "myo1c"   "polr2f" 
+
+$REACTOME_ACTIVATED_NOTCH1_TRANSMITS_SIGNAL_TO_THE_NUCLEUS
+[1] "rps27a" "jag2"   "uba52" 
+
+$REACTOME_PRC2_METHYLATES_HISTONES_AND_DNA
+[1] "dnmt1" "h3f3a"
+
+$REACTOME_GENERIC_TRANSCRIPTION_PATHWAY
+  [1] "tsc1"     "tsc2"     "prmt1"    "lamtor2"  "rragc"    "rraga"    "lamtor3"  "lamtor1" 
+  [9] "lamtor4"  "aurkb"    "cnot1"    "dna2"     "cbfb"     "txn1"     "rpa3"     "chek1"   
+ [17] "ccna2"    "rfc5"     "psmd14"   "rad9a"    "psmb1"    "pcna"     "csnk2b"   "ercc3"   
+ [25] "setd1a"   "tfdp1"    "cdk1"     "wdr5"     "psma4"    "bard1"    "rfc2"     "ash2l"   
+ [33] "hdac1"    "top3a"    "mre11a"   "ssrp1"    "rad1"     "daxx"     "rps27a"   "nelfcd"  
+ [41] "rbm14"    "ppm1d"    "rad50"    "psmd2"    "txnrd1"   "cnot8"    "aurka"    "topbp1"  
+ [49] "rbx1"     "mdm4"     "cnot2"    "prelid1"  "hdac3"    "cnot3"    "rfc3"     "psmd12"  
+ [57] "trim28"   "skp2"     "hus1"     "psma6"    "ube2i"    "polr2i"   "psmd3"    "cnot4"   
+ [65] "cycs"     "triap1"   "psmc6"    "ccnd1"    "prmt5"    "nrbf2"    "supt16"   "psmd4"   
+ [73] "h3f3a"    "cdk4"     "zfp943"   "rxra"     "brd7"     "meaf6"    "polr2b"   "cox14"   
+ [81] "rfc4"     "ccnh"     "nelfb"    "nbn"      "nelfa"    "zfp534"   "actl6a"   "smarcd3" 
+ [89] "tpx2"     "rpa1"     "polr2e"   "psmb7"    "npm1"     "psmb2"    "zfp420"   "psmb5"   
+ [97] "zfp772"   "cdk12"    "cox7c"    "atrip"    "ywhab"    "rbbp5"    "sin3a"    "psma5"   
+[105] "cnot6l"   "plk2"     "polr2g"   "bmi1"     "usp7"     "zfp612"   "zfp84"    "psma7"   
+[113] "cox6a1"   "csnk2a1"  "cnot11"   "cnot10"   "polr2f"   "cox4i1"   "atm"      "rad17"   
+[121] "ptpn11"   "epc1"     "taf5"     "uba52"    "rbbp8"    "cbx8"     "nr1h2"    "psma3"   
+[129] "chd4"     "tgfb1"    "gtf2h1"   "atp1b4"   "rora"     "gtf2h4"   "zfpm1"    "psmd6"   
+[137] "ccne1"    "psma2"    "ccne2"    "mta2"     "zfp606"   "zfp664"   "cdk6"     "zfp28"   
+[145] "zfp709"   "psmd10"   "ppp2r5c"  "cox5a"    "rex2"     "smarcd1"  "psmc4"    "psmc5"   
+[153] "zfp955b"  "tcf7l2"   "zfp764"   "usp9x"    "zfp429"   "rabggtb"  "hdac8"    "sesn1"   
+[161] "cox7b"    "ep300"    "zfp426"   "parp1"    "krba1"    "cul1"     "obox1"    "zfp775"  
+[169] "zfhx3"    "rorc"     "ppp2ca"   "zfp748"   "zfp712"   "trp53bp2" "zfp558"   "tcf7l1"  
+[177] "kat2a"    "taf3"     "zfp473"  
+
+$REACTOME_DOPAMINE_NEUROTRANSMITTER_RELEASE_CYCLE
+[1] "lin7c" "cask"  "stx1a"
+
+$REACTOME_EGFR_INTERACTS_WITH_PHOSPHOLIPASE_C_GAMMA
+[1] "btc"   "areg"  "tgfa"  "epgn"  "hbegf" "egfr"  "ereg"  "egf"  
+
+$REACTOME_MOLECULES_ASSOCIATED_WITH_ELASTIC_FIBRES
+[1] "emilin2" "tgfb2"   "itgb3"   "fbn2"    "fbn1"    "itgav"   "ltbp4"  
+
+$REACTOME_MHC_CLASS_II_ANTIGEN_PRESENTATION
+ [1] "tuba1c"  "tuba1b"  "kif20a"  "dnm2"    "kif11"   "racgap1" "ap2s1"   "dctn4"   "dynll1" 
+[10] "cltc"    "dctn6"   "kif4"    "capzb"   "kif23"   "ap2m1"   "dctn5"   "dync1i2" "cenpe"  
+[19] "tuba1a"  "tubal3"  "dctn3"   "clta"   
+
+$REACTOME_SYNTHESIS_OF_EPOXY_EET_AND_DIHYDROXYEICOSATRIENOIC_ACIDS_DHET
+[1] "cyp2c66" "cyp2c65" "cyp1a2" 
+
+$REACTOME_SYNTHESIS_OF_5_EICOSATETRAENOIC_ACIDS
+[1] "alox5ap" "pon2"    "ltc4s"   "pon3"    "alox5"  
+
+$REACTOME_SYNTHESIS_OF_LEUKOTRIENES_LT_AND_EOXINS_EX
+[1] "cyp4f40"  "dpep1"    "ggt1"     "mapkapk2" "abcc1"    "alox5ap"  "ltc4s"    "dpep3"   
+[9] "alox5"   
+
+$REACTOME_SYNTHESIS_OF_LIPOXINS_LX
+[1] "alox5ap" "hpgd"    "ltc4s"   "alox12"  "alox5"  
+
+$REACTOME_SYNTHESIS_OF_12_EICOSATETRAENOIC_ACID_DERIVATIVES
+[1] "gpx4"   "gpx1"   "aloxe3" "alox12" "gpx2"  
+
+$REACTOME_ARACHIDONIC_ACID_METABOLISM
+ [1] "gpx4"     "cyp4f40"  "cyp2j6"   "ptgis"    "gpx1"     "dpep1"    "ptges3"   "ggt1"    
+ [9] "mapkapk2" "abcc1"    "akr1c6"   "alox5ap"  "tbxas1"   "pon2"     "ltc4s"    "pon3"    
+[17] "cbr1"     "aloxe3"   "alox12"   "gpx2"    
+
+$REACTOME_SYNTHESIS_OF_15_EICOSATETRAENOIC_ACID_DERIVATIVES
+[1] "gpx4" "gpx1" "gpx2"
+
+$REACTOME_SYNTHESIS_OF_16_20_HYDROXYEICOSATETRAENOIC_ACIDS_HETE
+[1] "cyp2c66" "cyp2c65" "cyp1a2"  "cyp4f15" "cyp4a10"
+
+$REACTOME_HYALURONAN_METABOLISM
+ [1] "chp1"   "has2"   "has1"   "hyal2"  "hyal3"  "hexa"   "slc9a1" "has3"   "hexb"   "lyve1" 
+
+$REACTOME_HYALURONAN_BIOSYNTHESIS_AND_EXPORT
+[1] "has2" "has1" "has3"
+
+$REACTOME_TRANSCRIPTIONAL_ACTIVATION_OF_MITOCHONDRIAL_BIOGENESIS
+[1] "cycs" "sod2"
+
+$REACTOME_INTEGRIN_CELL_SURFACE_INTERACTIONS
+ [1] "itgb2"  "vcam1"  "itgam"  "itga8"  "comp"   "col7a1" "col3a1" "jam3"   "f11r"   "cd47"  
+[11] "col5a2" "col6a3" "col5a1"
+
+$REACTOME_HYALURONAN_UPTAKE_AND_DEGRADATION
+[1] "chp1"   "hyal2"  "hyal3"  "hexa"   "slc9a1" "hexb"   "lyve1" 
+
+$REACTOME_ABACAVIR_ADME
+[1] "slc22a2" "adh1"   
+
+$REACTOME_SYNTHESIS_OF_PROSTAGLANDINS_PG_AND_THROMBOXANES_TX
+[1] "ptges2" "ptges"  "hpgds" 
+
+$REACTOME_DAP12_INTERACTIONS
+ [1] "syk"     "tyrobp"  "trem2"   "btk"     "cd300e"  "sirpb1a" "hras"    "sirpb1b" "klrd1"  
+[10] "klrk1"   "shc1"    "sirpa"  
+
+$REACTOME_BINDING_AND_UPTAKE_OF_LIGANDS_BY_SCAVENGER_RECEPTORS
+[1] "apol10b" "msr1"    "stab1"   "colec11" "igll1"   "masp1"   "apob"   
+
+$REACTOME_DOWNREGULATION_OF_TGF_BETA_RECEPTOR_SIGNALING
+[1] "tgfbr2" "strap"  "rps27a" "tgfbr1" "uba52"  "tgfb1" 
+
+$REACTOME_TGF_BETA_RECEPTOR_SIGNALING_ACTIVATES_SMADS
+[1] "ube2m"  "nedd8"  "tgfbr2" "strap"  "rps27a" "tgfbr1" "itga8"  "uba52"  "tgfb1" 
+
+$REACTOME_TGF_BETA_RECEPTOR_SIGNALING_IN_EMT_EPITHELIAL_TO_MESENCHYMAL_TRANSITION
+[1] "tgfbr2" "rps27a" "tgfbr1" "uba52"  "tgfb1"  "pard6a" "f11r"   "prkcz" 
+
+$REACTOME_TRANSCRIPTIONAL_ACTIVITY_OF_SMAD2_SMAD3_SMAD4_HETEROTRIMER
+ [1] "ccnc"   "ccnt1"  "ski"    "smad4"  "sp1"    "cdk9"   "furin"  "men1"   "ube2d1" "ncor2" 
+
+$REACTOME_DOWNREGULATION_OF_SMAD2_3_SMAD4_TRANSCRIPTIONAL_ACTIVITY
+[1] "hdac1"  "rps27a" "uba52"  "atp1b4" "usp9x"  "parp1" 
+
+$REACTOME_SMAD2_SMAD3_SMAD4_HETEROTRIMER_REGULATES_TRANSCRIPTION
+[1] "ccnc"  "ccnt1" "smad4" "sp1"   "cdk9"  "furin" "men1" 
+
+$REACTOME_EGFR_TRANSACTIVATION_BY_GASTRIN
+[1] "hras" "grb2" "egfr" "sos1"
+
+$REACTOME_THE_RETINOID_CYCLE_IN_CONES_DAYLIGHT_VISION
+[1] "rlbp1" "rbp3" 
+
+$REACTOME_VISUAL_PHOTOTRANSDUCTION
+ [1] "metap2"  "metap1"  "nmt1"    "stra6"   "sdc4"    "nmt2"    "rdh10"   "fnta"    "dhrs9"  
+[10] "gnb5"    "hsd17b6" "abca4"   "akr1c6"  "apom"    "pde6b"   "lrp10"   "calm3"   "plb1"   
+[19] "cngb1"  
+
+$REACTOME_CROSSLINKING_OF_COLLAGEN_FIBRILS
+[1] "loxl2"  "col4a6" "loxl3"  "tll2"   "col4a5"
+
+$REACTOME_CONDENSATION_OF_PROPHASE_CHROMOSOMES
+[1] "smc4"   "plk1"   "smc2"   "cdk1"   "ncapg2"
+
+$REACTOME_PHOSPHATE_BOND_HYDROLYSIS_BY_NUDT_PROTEINS
+[1] "nudt5"  "nudt9"  "nudt16"
+
+$REACTOME_SIGNALING_BY_TYPE_1_INSULIN_LIKE_GROWTH_FACTOR_1_RECEPTOR_IGF1R
+ [1] "kl"     "fgf23"  "igf2"   "pik3cb" "fgf18"  "klb"    "trib3"  "igf1r"  "fgf4"   "fgf15" 
+[11] "fgf17"  "fgfr1"  "flt3l" 
+
+$REACTOME_DAP12_SIGNALING
+[1] "syk"    "tyrobp" "trem2"  "btk"    "hras"   "klrd1"  "klrk1"  "shc1"  
+
+$REACTOME_SHC_RELATED_EVENTS_TRIGGERED_BY_IGF1R
+[1] "igf2"  "igf1r"
+
+$REACTOME_THE_CANONICAL_RETINOID_CYCLE_IN_RODS_TWILIGHT_VISION
+[1] "stra6"   "rdh10"   "dhrs9"   "hsd17b6" "abca4"  
+
+$REACTOME_FC_EPSILON_RECEPTOR_FCERI_SIGNALING
+ [1] "pak2"   "psmd14" "fbxw11" "psmb1"  "psma4"  "syk"    "rps27a" "psmd2"  "map2k7" "psmd12"
+[11] "psma6"  "psmd3"  "psmc6"  "psmd4"  "vav1"   "psmb7"  "nfkb1"  "psmb2"  "btk"    "psmb5" 
+[21] "map2k4" "psma5"  "jun"    "psma7"  "uba52"  "psma3"  "lat2"   "psmd6"  "psma2"  "psmd10"
+[31] "psmc4"  "psmc5"  "ikbkb"  "ppp3cb" "cul1"   "hras"   "itk"    "psmd8"  "psmd11"
+
+$REACTOME_SEPARATION_OF_SISTER_CHROMATIDS
+ [1] "aurkb"   "tuba1c"  "tuba1b"  "espl1"   "rangap1" "psmd14"  "plk1"    "incenp"  "psmb1"  
+[10] "cdca8"   "nup160"  "zwint"   "psma4"   "spc24"   "mis12"   "ndc80"   "spdl1"   "cdc23"  
+[19] "cenpc1"  "nuf2"    "rps27a"  "anapc10" "cdc20"   "nudc"    "smc1a"   "psmd2"   "smc3"   
+[28] "rps27rt" "nup85"   "mad2l1"  "bub3"    "rps27"   "psmd12"  "pds5a"   "nsl1"    "rad21"  
+[37] "psma6"   "psmd3"   "pmf1"    "dynll1"  "psmc6"   "nup98"   "psmd4"   "nup43"   "cdc16"  
+[46] "nup107"  "anapc11" "cenpk"   "psmb7"   "psmb2"   "psmb5"   "anapc5"  "mapre1"  "zwilch" 
+[55] "cenpq"   "anapc1"  "psma5"   "cenpn"   "cdc27"   "ckap5"   "cdc26"   "psma7"   "dync1i2"
+[64] "cenpe"   "uba52"   "tuba1a"  "tubal3"  "xpo1"    "psma3"   "stag1"   "ranbp2"  "bub1b"  
+[73] "stag2"   "psmd6"   "psma2"   "pds5b"   "psmd10"  "ppp2r5c" "bub1"    "anapc2"  "psmc4"  
+[82] "psmc5"  
+
+$REACTOME_ESTABLISHMENT_OF_SISTER_CHROMATID_COHESION
+[1] "smc1a" "smc3"  "esco2" "pds5a" "rad21" "stag1" "stag2" "pds5b"
+
+$REACTOME_COHESIN_LOADING_ONTO_CHROMATIN
+[1] "mau2"  "nipbl" "smc1a" "smc3"  "pds5a" "rad21" "stag1" "stag2" "pds5b"
+
+$REACTOME_ACTIVATION_OF_THE_PHOTOTRANSDUCTION_CASCADE
+[1] "gngt1" "cnga1" "gnat1"
+
+$REACTOME_RESOLUTION_OF_SISTER_CHROMATID_COHESION
+ [1] "aurkb"   "tuba1c"  "tuba1b"  "rangap1" "plk1"    "incenp"  "cdca8"   "nup160"  "cdk1"   
+[10] "zwint"   "spc24"   "mis12"   "ndc80"   "spdl1"   "cenpc1"  "nuf2"    "cdc20"   "nudc"   
+[19] "smc1a"   "smc3"    "rps27rt" "nup85"   "mad2l1"  "bub3"    "rps27"   "pds5a"   "nsl1"   
+[28] "rad21"   "pmf1"    "dynll1"  "nup98"   "nup43"   "nup107"  "cenpk"   "mapre1"  "zwilch" 
+[37] "cenpq"   "cenpn"   "ckap5"   "dync1i2" "cenpe"   "tuba1a"  "tubal3"  "xpo1"    "stag1"  
+[46] "ranbp2"  "bub1b"   "stag2"   "pds5b"   "ppp2r5c" "bub1"   
+
+$REACTOME_CONDENSATION_OF_PROMETAPHASE_CHROMOSOMES
+[1] "smc4"    "csnk2b"  "ncaph"   "smc2"    "ncapd2"  "ncapg"   "csnk2a1"
+
+$REACTOME_THE_PHOTOTRANSDUCTION_CASCADE
+[1] "metap2" "metap1" "nmt1"   "nmt2"   "fnta"   "gnb5"   "pde6b"  "calm3"  "cngb1" 
+
+$REACTOME_INTERACTION_WITH_CUMULUS_CELLS_AND_THE_ZONA_PELLUCIDA
+[1] "b4galt1" "adam30"  "zp1"     "adam21" 
+
+$REACTOME_MITOTIC_METAPHASE_AND_ANAPHASE
+ [1] "aurkb"   "tuba1c"  "tuba1b"  "espl1"   "rangap1" "psmd14"  "plk1"    "incenp"  "psmb1"  
+[10] "cdca8"   "kpnb1"   "nup160"  "cdk1"    "zwint"   "psma4"   "spc24"   "chmp6"   "mis12"  
+[19] "ndc80"   "spdl1"   "cdc23"   "cenpc1"  "nuf2"    "rps27a"  "nup205"  "anapc10" "cdc20"  
+[28] "nudc"    "smc1a"   "psmd2"   "smc3"    "rps27rt" "fbxo5"   "banf1"   "nup85"   "mad2l1" 
+[37] "bub3"    "rps27"   "psmd12"  "pds5a"   "nsl1"    "rad21"   "psma6"   "ube2i"   "psmd3"  
+[46] "pmf1"    "dynll1"  "psmc6"   "nup98"   "chmp7"   "psmd4"   "nup43"   "rcc1"    "cdc16"  
+[55] "nup107"  "nup93"   "anapc11" "cenpk"   "psmb7"   "psmb2"   "psmb5"   "anapc5"  "mapre1" 
+[64] "zwilch"  "cenpq"   "anapc1"  "psma5"   "cenpn"   "cdc27"   "ckap5"   "cdc26"   "psma7"  
+[73] "dync1i2" "cenpe"   "uba52"   "tuba1a"  "tubal3"  "xpo1"    "psma3"   "stag1"   "ankle2" 
+[82] "ranbp2"  "bub1b"   "stag2"   "chmp4c"  "psmd6"   "psma2"   "pds5b"   "psmd10"  "ppp2r5c"
+[91] "bub1"    "anapc2"  "psmc4"   "psmc5"  
+
+$REACTOME_OXIDATIVE_STRESS_INDUCED_SENESCENCE
+ [1] "txn1"     "rps27a"   "map2k7"   "mdm4"     "cdk4"     "map2k4"   "jun"      "uba52"   
+ [9] "mapkapk2" "cdk6"    
+
+$REACTOME_SENESCENCE_ASSOCIATED_SECRETORY_PHENOTYPE_SASP
+ [1] "ccna2"   "cdc23"   "rps27a"  "anapc10" "cdk4"    "cdc16"   "anapc11" "rps6ka1" "anapc5" 
+[10] "anapc1"  "cdc27"   "cdc26"   "uba52"   "cdk6"    "rps6ka3" "anapc2" 
+
+$REACTOME_CELLULAR_SENESCENCE
+ [1] "txn1"     "ccna2"    "mre11a"   "cdc23"    "rps27a"   "anapc10"  "rad50"    "map2k7"  
+ [9] "mdm4"     "cdk4"     "cdc16"    "nbn"      "anapc11"  "rps6ka1"  "map2k4"   "anapc5"  
+[17] "anapc1"   "cdc27"    "jun"      "cdc26"    "atm"      "uba52"    "ets2"     "ubn1"    
+[25] "ccne1"    "ccne2"    "mapkapk2" "cdk6"     "rps6ka3"  "anapc2"  
+
+$REACTOME_FORMATION_OF_SENESCENCE_ASSOCIATED_HETEROCHROMATIN_FOCI_SAHF
+[1] "trp53" "h1f0" 
+
+$REACTOME_ONCOGENE_INDUCED_SENESCENCE
+[1] "rps27a" "mdm4"   "cdk4"   "uba52"  "ets2"   "cdk6"  
+
+$REACTOME_DNA_DAMAGE_TELOMERE_STRESS_INDUCED_SENESCENCE
+[1] "ccna2"  "mre11a" "rad50"  "nbn"    "atm"    "ubn1"   "ccne1"  "ccne2" 
+
+$REACTOME_TRIF_MEDIATED_PROGRAMMED_CELL_DEATH
+[1] "fadd"   "ticam2"
+
+$REACTOME_REGULATION_OF_PLK1_ACTIVITY_AT_G2_M_TRANSITION
+ [1] "tubg1"    "plk1"     "fbxw11"   "haus3"    "cdk1"     "cep192"   "rps27a"   "bora"    
+ [9] "aurka"    "haus1"    "nedd1"    "dynll1"   "haus8"    "haus4"    "sfi1"     "mapre1"  
+[17] "haus6"    "ckap5"    "haus2"    "dync1i2"  "cep76"    "uba52"    "tuba1a"   "haus5"   
+[25] "hsp90aa1" "ppp1r12a" "dctn3"   
+
+$REACTOME_ACETYLCHOLINE_NEUROTRANSMITTER_RELEASE_CYCLE
+[1] "ppfia1" "unc13b" "chat"   "slc5a7" "ppfia2" "ppfia4" "stxbp1" "snap25"
+
+$REACTOME_CASPASE_MEDIATED_CLEAVAGE_OF_CYTOSKELETAL_PROTEINS
+[1] "vim"    "gas2"   "sptan1" "gsn"    "casp7" 
+
+$REACTOME_INSULIN_PROCESSING
+[1] "exoc4"   "slc30a6" "exoc5"   "exoc1"   "exoc2"   "exoc7"   "slc30a5"
+
+$REACTOME_STIMULI_SENSING_CHANNELS
+ [1] "clcn5"  "trpm5"  "casq1"  "ttyh2"  "trpm6"  "trpv5"  "asic2"  "ripk3"  "unc80"  "best3" 
+[11] "trpm8"  "trpm3"  "trpc5"  "slc9b2" "clcnkb" "sgk1"   "trpm7"  "trpa1"  "mcoln3" "unc79" 
+[21] "clcn7"  "asph"   "trpm1" 
+
+$REACTOME_EPH_EPHRIN_SIGNALING
+[1] "pak2"    "rasa1"   "cdc42"   "actb"    "ephb3"   "psenen"  "kalrn"   "efna2"   "arhgef7"
+
+$REACTOME_ROLE_OF_LAT2_NTAL_LAB_ON_CALCIUM_MOBILIZATION
+[1] "lyn"    "pik3cb" "fcer1a" "igll1" 
+
+$REACTOME_FCERI_MEDIATED_MAPK_ACTIVATION
+[1] "pak2"   "syk"    "map2k7" "vav1"   "map2k4" "jun"   
+
+$REACTOME_FCERI_MEDIATED_CA_2_MOBILIZATION
+ [1] "syk"    "vav1"   "btk"    "ppp3cb" "itk"    "calm3"  "shc1"   "nfatc3" "txk"    "fcer1g"
+[11] "lcp2"  
+
+$REACTOME_FCERI_MEDIATED_NF_KB_ACTIVATION
+ [1] "psmd14" "fbxw11" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6" 
+[11] "psmd4"  "psmb7"  "nfkb1"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3"  "psmd6" 
+[21] "psma2"  "psmd10" "psmc4"  "psmc5"  "ikbkb"  "cul1"   "psmd8"  "psmd11"
+
+$REACTOME_PEPTIDE_HORMONE_METABOLISM
+ [1] "exoc4"   "gng13"   "slc30a6" "atp6ap2" "exoc5"   "cpb1"    "bche"    "exoc1"   "fshb"   
+[10] "gip"     "ctsz"    "exoc2"   "pomc"    "exoc7"   "tshb"    "dpp4"    "sec11a"  "ffar1"  
+[19] "slc30a5" "gpr119" 
+
+$REACTOME_NUCLEAR_ENVELOPE_BREAKDOWN
+ [1] "plk1"    "nup160"  "cdk1"    "ctdnep1" "nup205"  "rae1"    "banf1"   "nup85"   "nup98"  
+[10] "nup214"  "nup43"   "nup107"  "nup93"   "lpin2"   "cnep1r1" "nupl2"   "nup153"  "ranbp2" 
+
+$REACTOME_ACTIVATION_OF_NIMA_KINASES_NEK9_NEK6_NEK7
+[1] "plk1"  "cdk1"  "ccnb2" "ccnb1"
+
+$REACTOME_SUMOYLATION
+ [1] "aurkb"    "dnmt1"    "uba2"     "rangap1"  "incenp"   "pcna"     "ddx5"     "cdca8"   
+ [9] "nup160"   "hdac1"    "top2a"    "daxx"     "hnrnpc"   "nup205"   "smc1a"    "rae1"    
+[17] "sumo2"    "smc3"     "nup85"    "rad21"    "ube2i"    "nup98"    "top2b"    "nup214"  
+[25] "mdc1"     "nup43"    "rxra"     "nsmce4a"  "nup107"   "hnrnpk"   "nup93"    "sae1"    
+[33] "ddx17"    "smc6"     "nop58"    "rpa1"     "npm1"     "nsmce2"   "sin3a"    "nupl2"   
+[41] "bmi1"     "xrcc4"    "cbx8"     "nr1h2"    "stag1"    "nup153"   "casp8ap2" "ranbp2"  
+[49] "rora"     "smc5"     "stag2"    "zfp131"   "safb"    
+
+$REACTOME_INITIATION_OF_NUCLEAR_ENVELOPE_NE_REFORMATION
+[1] "kpnb1"  "cdk1"   "banf1"  "ankle2" "ppp2ca"
+
+$REACTOME_NUCLEAR_ENVELOPE_NE_REASSEMBLY
+ [1] "tuba1c"  "tuba1b"  "rangap1" "kpnb1"   "nup160"  "cdk1"    "chmp6"   "nup205"  "banf1"  
+[10] "nup85"   "ube2i"   "nup98"   "chmp7"   "nup43"   "rcc1"    "nup107"  "nup93"   "tuba1a" 
+[19] "tubal3"  "ankle2"  "chmp4c" 
+
+$REACTOME_LAMININ_INTERACTIONS
+[1] "col4a6" "itga6"  "col4a5"
+
+$REACTOME_SYNDECAN_INTERACTIONS
+[1] "itga6" "sdc2"  "itgb3"
+
+$REACTOME_NON_INTEGRIN_MEMBRANE_ECM_INTERACTIONS
+[1] "col4a6" "itga6"  "sdc2"   "itgb3" 
+
+$REACTOME_ECM_PROTEOGLYCANS
+ [1] "itga8"  "comp"   "app"    "col3a1" "bcan"   "bgn"    "col5a2" "col6a3" "col5a1" "matn3" 
+
+$REACTOME_SCAVENGING_BY_CLASS_A_RECEPTORS
+[1] "msr1"    "colec11" "masp1"   "apob"   
+
+$REACTOME_SUMO_IS_TRANSFERRED_FROM_E1_TO_E2_UBE2I_UBC9
+[1] "uba2"  "ube2i" "sae1" 
+
+$REACTOME_SUMO_IS_PROTEOLYTICALLY_PROCESSED
+[1] "sumo2" "senp5"
+
+$REACTOME_SUMOYLATION_OF_DNA_DAMAGE_RESPONSE_AND_REPAIR_PROTEINS
+ [1] "nup160"  "nup205"  "smc1a"   "rae1"    "sumo2"   "smc3"    "nup85"   "rad21"   "ube2i"  
+[10] "nup98"   "nup214"  "mdc1"    "nup43"   "nsmce4a" "nup107"  "nup93"   "smc6"    "rpa1"   
+[19] "nsmce2"  "nupl2"   "bmi1"    "xrcc4"   "cbx8"    "stag1"   "nup153"  "ranbp2"  "smc5"   
+[28] "stag2"  
+
+$REACTOME_DEX_H_BOX_HELICASES_ACTIVATE_TYPE_I_IFN_AND_INFLAMMATORY_CYTOKINES_PRODUCTION
+[1] "dhx36" "nfkb2" "rela" 
+
+$REACTOME_REGULATION_OF_INNATE_IMMUNE_RESPONSES_TO_CYTOSOLIC_DNA
+[1] "rps27a" "ddx41"  "trim21" "uba52"  "trim32"
+
+$REACTOME_HDACS_DEACETYLATE_HISTONES
+[1] "rcor1"  "rbbp4"  "kdm1a"  "phf21a" "hmg20b"
+
+$REACTOME_PKMTS_METHYLATE_HISTONE_LYSINES
+[1] "setd2"  "setd1a" "wdr5"   "ash2l"  "setdb1" "nfkb1"  "rbbp5" 
+
+$REACTOME_HDMS_DEMETHYLATE_HISTONES
+[1] "kdm1a" "phf8"  "kdm4b" "kdm6b" "kdm5b"
+
+$REACTOME_HATS_ACETYLATE_HISTONES
+[1] "ogt"   "kat8"  "wdr5"  "hcfc1" "meaf6" "mcrs1"
+
+$REACTOME_RMTS_METHYLATE_HISTONE_ARGININES
+[1] "prmt1"   "wdr5"    "ccnd1"   "prmt5"   "rps2"    "cdk4"    "actl6a"  "smarcd3"
+
+$REACTOME_PROCESSING_AND_ACTIVATION_OF_SUMO
+[1] "uba2"  "sumo2" "ube2i" "sae1" 
+
+$REACTOME_SUMOYLATION_OF_TRANSCRIPTION_FACTORS
+[1] "sumo2"    "ube2i"    "trp53bp1" "tfap2c"   "sp3"     
+
+$REACTOME_SUMOYLATION_OF_UBIQUITINYLATION_PROTEINS
+ [1] "nup160" "nup205" "rae1"   "nup85"  "ube2i"  "nup98"  "nup214" "nup43"  "nup107" "nup93" 
+[11] "nupl2"  "nup153" "ranbp2"
+
+$REACTOME_WNT_LIGAND_BIOGENESIS_AND_TRAFFICKING
+[1] "tmed5"  "wnt8b"  "wnt10a"
+
+$REACTOME_CHROMATIN_MODIFYING_ENZYMES
+ [1] "prmt1"   "ogt"     "setd2"   "setd1a"  "kat8"    "wdr5"    "ash2l"   "hdac1"   "hcfc1"  
+[10] "ccnd1"   "prmt5"   "rps2"    "cdk4"    "meaf6"   "kdm5a"   "actl6a"  "smarcd3" "setdb1" 
+[19] "arid4a"  "mcrs1"   "nfkb1"   "jmjd6"   "rbbp5"   "padi2"   "padi6"   "suds3"   "kdm2a"  
+[28] "chd4"   
+
+$REACTOME_TRP_CHANNELS
+ [1] "trpm5"  "trpm6"  "trpv5"  "ripk3"  "trpm8"  "trpm3"  "trpc5"  "trpm7"  "trpa1"  "mcoln3"
+[11] "trpm1"  "mlkl"  
+
+$REACTOME_DETOXIFICATION_OF_REACTIVE_OXYGEN_SPECIES
+[1] "sod1"   "txn1"   "txnrd1" "cycs"   "ccs"   
+
+$REACTOME_NUCLEAR_PORE_COMPLEX_NPC_DISASSEMBLY
+ [1] "nup160" "cdk1"   "nup205" "rae1"   "nup85"  "nup98"  "nup214" "nup43"  "nup107" "nup93" 
+[11] "nupl2"  "nup153" "ranbp2" "nup88" 
+
+$REACTOME_GLYCOGEN_SYNTHESIS
+[1] "ugp2"    "gys1"    "ppp1r3c" "gyg"    
+
+$REACTOME_REGULATION_BY_C_FLIP
+[1] "traf2" "tradd" "fasl" 
+
+$REACTOME_REGULATION_OF_HSF1_MEDIATED_HEAT_SHOCK_RESPONSE
+ [1] "rpa3"     "nup160"   "nup205"   "dnajb6"   "rae1"     "nup85"    "hspa14"   "nup98"   
+ [9] "nup214"   "rps19bp1" "gsk3b"    "nup43"    "nup107"   "hspa13"   "nup93"    "hspa4"   
+[17] "dnajc2"   "rpa1"     "nupl2"    "hspa8"    "nup153"   "ranbp2"   "mapkapk2" "nup88"   
+
+$REACTOME_HSP90_CHAPERONE_CYCLE_FOR_STEROID_HORMONE_RECEPTORS_SHR_IN_THE_PRESENCE_OF_LIGAND
+ [1] "tuba1c"   "tuba1b"   "dctn4"    "hsp90ab1" "dynll1"   "dctn6"    "stip1"    "capzb"   
+ [9] "dctn5"    "dync1i2"  "hspa8"    "tuba1a"   "tubal3"   "hsp90aa1" "ptges3"   "dctn3"   
+
+$REACTOME_HSF1_ACTIVATION
+[1] "vcp"      "hsp90ab1" "eef1a1"   "hsp90aa1" "ptges3"   "hdac6"    "ywhae"   
+
+$REACTOME_CELLULAR_RESPONSE_TO_HEAT_STRESS
+ [1] "rpa3"     "vcp"      "nup160"   "nup205"   "dnajb6"   "rae1"     "nup85"    "hspa14"  
+ [9] "hsp90ab1" "nup98"    "nup214"   "rps19bp1" "gsk3b"    "nup43"    "nup107"   "hsbp1"   
+[17] "hspa13"   "nup93"    "hspa4"    "dnajc2"   "rpa1"     "eef1a1"   "nupl2"    "hspa8"   
+[25] "hsp90aa1" "nup153"   "ranbp2"   "ptges3"   "mapkapk2" "nup88"    "ep300"    "cryab"   
+[33] "hdac6"    "ywhae"    "hspa12a"  "seh1l"    "dnajb1"  
+
+$REACTOME_ATTENUATION_PHASE
+ [1] "hsp90ab1" "hsbp1"    "hspa8"    "hsp90aa1" "ptges3"   "ep300"    "dnajb1"   "hspa2"   
+ [9] "hspa1b"   "hspa1l"  
+
+$REACTOME_HSF1_DEPENDENT_TRANSACTIVATION
+[1] "mtor"  "rptor" "mlst8"
+
+$REACTOME_NOTCH_HLH_TRANSCRIPTION_PATHWAY
+[1] "hdac1" "hdac3" "hdac8" "kat2a" "hdac6"
+
+$REACTOME_METABOLISM_OF_POLYAMINES
+ [1] "psmd14" "psmb1"  "psma4"  "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6"  "psmd4"  "psmb7" 
+[11] "psmb2"  "psmb5"  "psma5"  "psma7"  "paox"   "psma3"  "psmd6"  "psma2"  "psmd10" "psmc4" 
+[21] "psmc5"  "sat1"  
+
+$REACTOME_APOPTOTIC_CLEAVAGE_OF_CELL_ADHESION_PROTEINS
+[1] "dsg2" "dsp" 
+
+$REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE
+ [1] "slc7a6"   "slc3a2"   "slc7a10"  "slc16a10" "slc7a1"   "slc6a6"   "slc38a1"  "slc6a12" 
+ [9] "slc43a2"  "slc1a5"   "slc7a3"   "slc38a3"  "slc3a1"   "slc1a4"   "slc7a8"  
+
+$REACTOME_INTEGRIN_SIGNALING
+[1] "apbb1ip" "syk"     "rap1b"   "tln1"   
+
+$REACTOME_GRB2_SOS_PROVIDES_LINKAGE_TO_MAPK_SIGNALING_FOR_INTEGRINS
+[1] "apbb1ip" "rap1b"   "tln1"   
+
+$REACTOME_TRANSCRIPTIONAL_REGULATION_BY_TP53
+ [1] "tsc1"    "tsc2"    "lamtor2" "rragc"   "rraga"   "lamtor3" "lamtor1" "lamtor4" "aurkb"  
+[10] "cnot1"   "dna2"    "txn1"    "rpa3"    "chek1"   "ccna2"   "rfc5"    "rad9a"   "pcna"   
+[19] "csnk2b"  "ercc3"   "cdk1"    "bard1"   "rfc2"    "hdac1"   "top3a"   "mre11a"  "ssrp1"  
+[28] "rad1"    "daxx"    "rps27a"  "nelfcd"  "rad50"   "txnrd1"  "cnot8"   "aurka"   "topbp1" 
+[37] "mdm4"    "cnot2"   "prelid1" "cnot3"   "rfc3"    "hus1"    "polr2i"  "cnot4"   "cycs"   
+[46] "triap1"  "prmt5"   "supt16"  "brd7"    "meaf6"   "polr2b"  "cox14"   "rfc4"    "ccnh"   
+[55] "nelfb"   "nbn"     "nelfa"   "tpx2"    "rpa1"    "polr2e"  "npm1"    "zfp420"  "cdk12"  
+[64] "cox7c"   "atrip"   "ywhab"   "cnot6l"  "plk2"    "polr2g"  "usp7"    "cox6a1"  "csnk2a1"
+[73] "cnot11"  "cnot10"  "polr2f"  "cox4i1"  "atm"     "rad17"   "taf5"    "uba52"  
+
+$REACTOME_P130CAS_LINKAGE_TO_MAPK_SIGNALING_FOR_INTEGRINS
+[1] "apbb1ip" "rap1b"   "tln1"   
+
+$REACTOME_SIGNALING_BY_GPCR
+  [1] "gnas"     "gpr18"    "akt1"     "sos2"     "rock1"    "adcy3"    "hrh4"     "lpar4"   
+  [9] "arhgef19" "gng13"    "tacr1"    "ppp2r1b"  "npy1r"    "dgki"     "ccl4"     "ccr5"    
+ [17] "rgs1"     "sst"      "net1"     "tas2r138" "xcl1"     "rgs8"     "plxnb1"   "plcb4"   
+ [25] "ppp1r1b"  "vipr1"    "nms"      "gpr17"    "gpsm3"    "gngt1"    "rgs9"     "f2rl1"   
+ [33] "rrh"      "s1pr3"    "crh"      "pth2"     "grm2"     "itsn1"    "tac1"     "gpr83"   
+ [41] "ece1"     "chrm5"    "s1pr5"    "pde4b"    "arhgef2"  "arhgef25" "arhgef12" "drd5"    
+ [49] "gpr84"    "prokr1"   "gabbr2"   "tshr"     "gna12"    "gpr143"   "ccl27b"   "rgs17"   
+ [57] "pde10a"   "uts2"     "ppp1ca"   "rhob"     "npffr2"   "lpar1"    "pde11a"   "drd3"    
+ [65] "gpr132"   "fshb"     "arhgef9"  "glp2r"    "rxfp1"    "pde7b"    "vipr2"    "pde2a"   
+ [73] "adcy5"    "arhgef1"  "gpr35"    "lpar5"    "adora2a"  "mapk7"    "grpr"     "gip"     
+ [81] "insl5"    "ccrl2"    "tas1r1"   "gpr55"    "rgs11"    "cxcr5"    "gnai1"    "cxcr3"   
+ [89] "glp1r"    "ccl9"     "pomc"     "ppp2r5d"  "gpr68"    "sct"      "htr4"     "htr5a"   
+ [97] "mcf2l"    "gnrhr"    "anxa1"    "s1pr4"    "fpr-rs4"  "taar2"    "ccl7"     "ptgfr"   
+[105] "drd2"     "rgs5"     "arhgef5"  "ptgir"    "dgkh"     "ptger4"   "pcp2"     "p2ry1"   
+[113] "gnat1"    "cysltr2"  "gng8"     "kras"     "cx3cr1"   "p2ry14"   "ngef"     "grk6"    
+[121] "ppbp"     "tshb"     "rgr"      "gna15"    "adora1"   "c5ar2"    "adcy9"    "npb"     
+[129] "fgd1"     "qrfp"     "plcb3"    "ccl11"    "mgll"     "plcb2"    "uts2b"    "c5ar1"   
+[137] "gna13"    "ffar1"    "pde1c"    "edn2"     "grk5"     "sctr"     "cxcl3"    "npy5r"   
+[145] "arhgef6"  "ltb4r2"   "trhr"     "edn3"     "pik3r5"   "pnoc"     "avpr2"    "adm"     
+[153] "lpar2"    "arhgef16" "tas2r136" "cxcr1"    "itpr2"    "gabbr1"   "bdkrb2"   "rgs21"   
+[161] "f2r"      "ccl28"   
+
+$REACTOME_CLASS_A_1_RHODOPSIN_LIKE_RECEPTORS
+ [1] "gpr18"   "hrh4"    "lpar4"   "tacr1"   "npy1r"   "ccl4"    "ccr5"    "sst"     "xcl1"   
+[10] "nms"     "gpr17"   "f2rl1"   "rrh"     "s1pr3"   "tac1"    "ece1"    "chrm5"   "s1pr5"  
+[19] "drd5"    "prokr1"  "tshr"    "gpr143"  "ccl27b"  "uts2"    "npffr2"  "lpar1"   "drd3"   
+[28] "gpr132"  "fshb"    "rxfp1"   "gpr35"   "lpar5"   "adora2a" "grpr"    "insl5"   "ccrl2"  
+[37] "gpr55"   "cxcr5"   "cxcr3"   "ccl9"    "pomc"    "gpr68"   "htr4"    "htr5a"   "gnrhr"  
+[46] "anxa1"   "s1pr4"   "fpr-rs4" "taar2"   "ccl7"    "ptgfr"   "drd2"    "ptgir"   "ptger4" 
+[55] "p2ry1"   "cysltr2" "cx3cr1"  "p2ry14"  "ppbp"    "tshb"    "rgr"     "adora1"  "c5ar2"  
+[64] "npb"     "qrfp"    "ccl11"   "uts2b"   "c5ar1"   "ffar1"   "edn2"    "cxcl3"   "npy5r"  
+[73] "ltb4r2"  "trhr"    "edn3"    "pnoc"    "avpr2"   "lpar2"   "cxcr1"   "bdkrb2"  "f2r"    
+[82] "ccl28"   "ackr3"   "fpr-rs6" "drd1"    "gphb5"   "gpr37"   "c3ar1"  
+
+$REACTOME_CLASS_B_2_SECRETIN_FAMILY_RECEPTORS
+ [1] "gnas"    "gng13"   "vipr1"   "gngt1"   "crh"     "pth2"    "glp2r"   "vipr2"   "gip"    
+[10] "glp1r"   "sct"     "cysltr2" "gng8"   
+
+$REACTOME_NETRIN_1_SIGNALING
+[1] "mapk14"
+
+$REACTOME_NEPHRIN_FAMILY_INTERACTIONS
+[1] "nphs2"  "iqgap1"
+
+$REACTOME_SEMAPHORIN_INTERACTIONS
+[1] "pak2"     "tln1"     "tyrobp"   "hsp90ab1" "gsk3b"    "trem2"   
+
+$REACTOME_L1CAM_INTERACTIONS
+ [1] "tuba1c"  "tuba1b"  "dnm2"    "csnk2b"  "ap2s1"   "actb"    "cltc"    "kif4"    "ap2m1"  
+[10] "csnk2a1" "tuba1a"  "tubal3"  "clta"    "sptbn4" 
+
+$REACTOME_NCAM_SIGNALING_FOR_NEURITE_OUT_GROWTH
+[1] "ptpra"   "sptan1"  "rps6ka5" "col6a1"  "kras"    "st8sia2" "col9a2" 
+
+$REACTOME_PEPTIDE_LIGAND_BINDING_RECEPTORS
+ [1] "tacr1"   "npy1r"   "ccl4"    "ccr5"    "sst"     "xcl1"    "nms"     "f2rl1"   "tac1"   
+[10] "ece1"    "prokr1"  "ccl27b"  "uts2"    "npffr2"  "rxfp1"   "grpr"    "insl5"   "ccrl2"  
+[19] "cxcr5"   "cxcr3"   "ccl9"    "pomc"    "anxa1"   "fpr-rs4" "ccl7"    "cx3cr1"  "ppbp"   
+[28] "c5ar2"   "npb"     "qrfp"    "ccl11"   "uts2b"   "c5ar1"   "edn2"    "cxcl3"   "npy5r"  
+[37] "trhr"    "edn3"    "pnoc"    "avpr2"   "cxcr1"   "bdkrb2"  "f2r"     "ccl28"   "ackr3"  
+[46] "fpr-rs6" "gpr37"   "c3ar1"   "avpr1b"  "oxtr"    "npffr1"  "ntsr2"   "ccr6"    "rxfp4"  
+[55] "npy"    
+
+$REACTOME_AMINE_LIGAND_BINDING_RECEPTORS
+[1] "hrh4"   "chrm5"  "drd5"   "gpr143" "drd3"   "htr4"   "htr5a"  "taar2"  "drd2"  
+
+$REACTOME_HORMONE_LIGAND_BINDING_RECEPTORS
+[1] "tshr"  "fshb"  "gnrhr" "tshb"  "gphb5" "lhcgr"
+
+$REACTOME_DSCAM_INTERACTIONS
+[1] "mapk14"
+
+$REACTOME_SIGNALING_BY_ROBO_RECEPTORS
+ [1] "pfn1"   "rps27a" "uba52"  "evl"    "usp33"  "enah"   "dag1"   "pfn2"   "ubb"    "abl1"  
+
+$REACTOME_DEACTIVATION_OF_THE_BETA_CATENIN_TRANSACTIVATING_COMPLEX
+ [1] "chd8"   "hdac1"  "rps27a" "uba52"  "xpo1"   "tcf7l2" "tcf7l1" "sox17"  "ctnnb1" "tcf7"  
+
+$REACTOME_NEGATIVE_REGULATION_OF_TCF_DEPENDENT_SIGNALING_BY_WNT_LIGAND_ANTAGONISTS
+[1] "dkk4"
+
+$REACTOME_TACHYKININ_RECEPTORS_BIND_TACHYKININS
+[1] "tacr1" "tac1" 
+
+$REACTOME_CHEMOKINE_RECEPTORS_BIND_CHEMOKINES
+ [1] "ccl4"   "ccr5"   "xcl1"   "ccl27b" "ccrl2"  "cxcr5"  "cxcr3"  "ccl7"   "cx3cr1" "ppbp"  
+[11] "ccl11"  "cxcl3"  "cxcr1"  "ccl28"  "ackr3" 
+
+$REACTOME_RECRUITMENT_OF_NUMA_TO_MITOTIC_CENTROSOMES
+ [1] "tuba1c"   "tubg1"    "tuba1b"   "plk1"     "haus3"    "cdk1"     "cep192"   "mzt1"    
+ [9] "tubgcp3"  "haus1"    "nedd1"    "dynll1"   "tubgcp6"  "haus8"    "haus4"    "tubgcp4" 
+[17] "tubgcp2"  "sfi1"     "mapre1"   "haus6"    "numa1"    "ckap5"    "haus2"    "dync1i2" 
+[25] "cep76"    "tuba1a"   "tubal3"   "haus5"    "hsp90aa1"
+
+$REACTOME_ENERGY_DEPENDENT_REGULATION_OF_MTOR_BY_LKB1_AMPK
+[1] "tsc1"    "tsc2"    "lamtor2" "rragc"   "rraga"   "lamtor3" "lamtor1" "lamtor4"
+
+$REACTOME_UNFOLDED_PROTEIN_RESPONSE_UPR
+[1] "eif2s3x" "eif2s1"  "eif2ak3" "mbtps1"  "atf6"    "eif2s2" 
+
+$REACTOME_REGULATION_OF_INSULIN_LIKE_GROWTH_FACTOR_IGF_TRANSPORT_AND_UPTAKE_BY_INSULIN_LIKE_GROWTH_FACTOR_BINDING_PROTEINS_IGFBPS
+ [1] "apol10b"  "ktn1"     "lgals1"   "prkcsh"   "il6"      "igfbp6"   "fgf23"    "igf2"    
+ [9] "c4b"      "fam20c"   "sdc2"     "pcsk9"    "men1"     "enam"     "pappa2"   "fbn1"    
+[17] "tmem132a" "igfbp5"   "apob"     "pdia6"    "dnajc3"   "nucb1"    "afp"      "aplp2"   
+[25] "serpinc1" "spp2"     "scg2"    
+
+$REACTOME_GLUCAGON_LIKE_PEPTIDE_1_GLP1_REGULATES_INSULIN_SECRETION
+[1] "gnas"    "gng13"   "gngt1"   "rapgef3" "kcns3"   "glp1r"  
+
+$REACTOME_OLFACTORY_SIGNALING_PATHWAY
+ [1] "olfr16"   "olfr224"  "olfr20"   "olfr31"   "olfr125"  "olfr923"  "olfr380"  "olfr381" 
+ [9] "olfr412"  "olfr23"   "olfr273"  "olfr557"  "olfr414"  "olfr376"  "olfr328"  "olfr384" 
+[17] "olfr1259" "olfr520"  "olfr39"   "olfr1044" "olfr411"  "olfr453"  "olfr166" 
+
+$REACTOME_TRANSPORT_OF_SMALL_MOLECULES
+  [1] "nedd8"    "abca1"    "phb2"     "psmd14"   "vcp"      "psmb1"    "nceh1"    "cand1"   
+  [9] "psma4"    "slc17a5"  "atp1b3"   "rps27a"   "atp6v1a"  "psmd2"    "slc31a1"  "cyb5r4"  
+ [17] "atp2a2"   "ap2s1"    "psmd12"   "psma6"    "hmox1"    "psmd3"    "psmc6"    "cltc"    
+ [25] "slc7a6"   "psmd4"    "nalcn"    "slc35a2"  "slc3a2"   "sel1l"    "pmpca"    "a2m"     
+ [33] "slc41a2"  "atp6v1b2" "atp6v1g1" "psmb7"    "phb"      "psmb2"    "psmb5"    "slc14a1" 
+ [41] "eif2s3x"  "fbxl5"    "ap2m1"    "atp13a5"  "psma5"    "atp2b1"   "add3"     "slc26a2" 
+ [49] "sgk3"     "lrrc8c"   "pmpcb"    "eif2s1"   "slc33a1"  "apoc1"    "slc25a4"  "psma7"   
+ [57] "slc6a5"   "abca6"    "atp6v1e1" "wwp1"     "pex3"     "uba52"    "slc2a6"   "bmp1"    
+ [65] "pex19"    "abca8b"   "nr1h2"    "psma3"    "alb"      "clca4b"   "yme1l1"   "slc6a11" 
+ [73] "trpc1"    "slco3a1"  "psmd6"    "mrs2"     "psma2"    "gnb5"     "clta"     "psmd10"  
+ [81] "slc13a3"  "abcb7"    "ank"      "cybrd1"   "psmc4"    "psmc5"    "slc4a5"   "abcg1"   
+ [89] "abca4"    "slc5a11"  "car1"     "tsc22d3"  "cul1"     "derl1"    "abcc1"    "atp2a1"  
+ [97] "gng12"    "apoc4"    "abcd3"    "plg"      "apoa5"    "lrrc8e"   "slc12a3"  "ryr1"    
+[105] "spg7"     "psmd8"    "slc7a10"  "add2"     "slc9a3"   "psmd11"   "prkar2b"  "slc34a1" 
+[113] "atp9b"    "slc25a26" "clcn1"    "slc22a1"  "trpc7"    "prkacb"   "tpcn1"    "slc30a8" 
+[121] "slc16a10" "slc7a1"   "npc1"     "atp1a2"  
+
+$REACTOME_ABC_FAMILY_PROTEINS_MEDIATED_TRANSPORT
+ [1] "psmd14"  "vcp"     "psmb1"   "psma4"   "rps27a"  "psmd2"   "psmd12"  "psma6"   "psmd3"  
+[10] "psmc6"   "psmd4"   "sel1l"   "psmb7"   "psmb2"   "psmb5"   "eif2s3x" "psma5"   "eif2s1" 
+[19] "psma7"   "abca6"   "pex3"    "uba52"   "pex19"   "abca8b"  "psma3"   "psmd6"   "psma2"  
+[28] "psmd10"  "abcb7"   "psmc4"   "psmc5"   "abcg1"   "abca4"   "derl1"   "abcc1"   "abcd3"  
+[37] "psmd8"   "psmd11" 
+
+$REACTOME_NUCLEAR_RECEPTOR_TRANSCRIPTION_PATHWAY
+ [1] "nr2c1" "nr2c2" "nr1h4" "nr2e1" "ncor2" "nr1i3" "nr3c2" "thra"  "nr2f1" "nr5a1" "nr1i2"
+[12] "nr1h3" "med1"  "nr1d2" "nr2f6" "rorb"  "esrra" "nr3c1"
+
+$REACTOME_BETA_CATENIN_INDEPENDENT_WNT_SIGNALING
+ [1] "pfn1"   "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "ap2s1"  "psmd12" "arrb2"  "psma6" 
+[11] "psmd3"  "psmc6"  "cltc"   "psmd4"  "psmb7"  "psmb2"  "psmb5"  "rac2"   "ap2m1"  "psma5" 
+[21] "psma7"  "uba52"  "psma3"  "psmd6"  "psma2"  "gnb5"   "clta"   "psmd10" "psmc4"  "psmc5" 
+[31] "tcf7l2" "ppp3cb" "fzd1"   "gng12"  "pard6a" "gnat2"  "psmd8"  "psmd11" "ctnnb1" "wnt4"  
+
+$REACTOME_VASOPRESSIN_LIKE_RECEPTORS
+[1] "oxt"    "avpr1a"
+
+$REACTOME_COSTIMULATION_BY_THE_CD28_FAMILY
+ [1] "mtor"     "akt1"     "mlst8"    "h2-eb1"   "ppp2r1b"  "lyn"      "pdcd1lg2" "rictor"  
+ [9] "prr5"     "lck"      "mapkap1"  "pak3"     "trib3"    "ppp2r5b" 
+
+$REACTOME_RECEPTOR_TYPE_TYROSINE_PROTEIN_PHOSPHATASES
+[1] "ppfia1"  "lrrc4b"  "slitrk4" "ppfia2"  "ppfia4" 
+
+$REACTOME_CD28_CO_STIMULATION
+ [1] "mtor"    "akt1"    "mlst8"   "lyn"     "rictor"  "prr5"    "lck"     "mapkap1" "pak3"   
+[10] "trib3"  
+
+$REACTOME_CD28_DEPENDENT_PI3K_AKT_SIGNALING
+[1] "mtor"    "akt1"    "mlst8"   "rictor"  "prr5"    "lck"     "mapkap1" "trib3"  
+
+$REACTOME_CD28_DEPENDENT_VAV1_PATHWAY
+[1] "pak2"  "cdc42" "vav1"  "cd86" 
+
+$REACTOME_OREXIN_AND_NEUROPEPTIDES_FF_AND_QRFP_BIND_TO_THEIR_RESPECTIVE_RECEPTORS
+[1] "npffr2" "qrfp"   "npffr1" "qrfpr" 
+
+$REACTOME_CTLA4_INHIBITORY_SIGNALING
+[1] "akt1"    "ppp2r1b" "lyn"     "lck"     "ppp2r5b" "ppp2r5d"
+
+$REACTOME_ALPHA_OXIDATION_OF_PHYTANATE
+[1] "slc27a2" "phyh"   
+
+$REACTOME_GLYOXYLATE_METABOLISM_AND_GLYCINE_DEGRADATION
+[1] "dao"     "dbt"     "ndufab1" "ogdh"    "amt"     "lipt2"   "pdhb"    "gldc"   
+
+$REACTOME_BETA_OXIDATION_OF_PRISTANOYL_COA
+[1] "acot8" "crat"  "acox2"
+
+$REACTOME_SUMOYLATION_OF_TRANSCRIPTION_COFACTORS
+ [1] "ddx5"     "daxx"     "sumo2"    "ube2i"    "ddx17"    "npm1"     "sin3a"    "bmi1"    
+ [9] "cbx8"     "casp8ap2" "zfp131"   "safb"     "mbd1"     "ep300"   
+
+$REACTOME_PD_1_SIGNALING
+[1] "ptpn6"  "ptpn11" "cd247" 
+
+$REACTOME_BETA_OXIDATION_OF_VERY_LONG_CHAIN_FATTY_ACIDS
+[1] "mlycd" "acot6"
+
+$REACTOME_CHAPERONIN_MEDIATED_PROTEIN_FOLDING
+ [1] "tcp1"    "cct5"    "cct2"    "gng13"   "cct4"    "gngt1"   "rgs9"    "csnk2a2" "cct7"   
+[10] "cct3"    "rgs11"  
+
+$REACTOME_ASSOCIATION_OF_TRIC_CCT_WITH_TARGET_PROTEINS_DURING_BIOSYNTHESIS
+[1] "tcp1" "cct5" "cct2" "cct4" "cct7" "cct3"
+
+$REACTOME_STRIATED_MUSCLE_CONTRACTION
+ [1] "dmd"   "vim"   "myl4"  "myh6"  "myh3"  "tpm1"  "des"   "actn2" "tpm3"  "acta1" "myh8" 
+[12] "tnni2" "actn3" "tnni3"
+
+$REACTOME_MUSCARINIC_ACETYLCHOLINE_RECEPTORS
+[1] "chrm5"
+
+$REACTOME_DOPAMINE_RECEPTORS
+[1] "drd5" "drd3" "drd2" "drd1"
+
+$REACTOME_SEROTONIN_RECEPTORS
+[1] "htr4"  "htr5a" "htr6"  "htr2c" "htr1a"
+
+$REACTOME_ADRENOCEPTORS
+[1] "adrb1"  "adra1d" "adra2c" "adrb3"  "adra1b"
+
+$REACTOME_PEROXISOMAL_LIPID_METABOLISM
+[1] "acot8"   "crat"    "slc27a2" "acox2"   "acot4"   "phyh"    "acbd4"  
+
+$REACTOME_SIGNAL_REGULATORY_PROTEIN_FAMILY_INTERACTIONS
+[1] "tyrobp"  "sirpb1a" "sirpb1b" "ptk2b"   "cd47"    "sirpa"   "fyb"     "gm5150" 
+
+$REACTOME_EICOSANOID_LIGAND_BINDING_RECEPTORS
+[1] "gpr17"   "ptgfr"   "ptgir"   "ptger4"  "cysltr2" "ltb4r2" 
+
+$REACTOME_LEUKOTRIENE_RECEPTORS
+[1] "gpr17"   "cysltr2" "ltb4r2" 
+
+$REACTOME_PROSTANOID_LIGAND_RECEPTORS
+[1] "ptgfr"  "ptgir"  "ptger4" "ptger2" "ptger1" "ptger3" "ptgdr2"
+
+$REACTOME_NITRIC_OXIDE_STIMULATES_GUANYLATE_CYCLASE
+[1] "pde9a"  "pde10a" "nos1"   "pde11a" "pde2a"  "prkg1" 
+
+$REACTOME_ADP_SIGNALLING_THROUGH_P2Y_PURINOCEPTOR_12
+[1] "gnai2" "gnb5"  "gng12" "gnb3"  "gnb4"  "gnai3" "gngt2" "gng3"  "gng7" 
+
+$REACTOME_G_BETA_GAMMA_SIGNALLING_THROUGH_PI3KGAMMA
+[1] "akt1"  "gng13" "gngt1"
+
+$REACTOME_METABOLISM_OF_PROTEINS
+  [1] "keap1"      "ogt"        "ube2m"      "rraga"      "nedd8"      "rps25"     
+  [7] "rps7"       "aurkb"      "cdc73"      "dnmt1"      "tuba1c"     "eif5a"     
+ [13] "cul3"       "rps3"       "txn1"       "pnpla2"     "rps4x"      "uba2"      
+ [19] "tuba1b"     "rps15a"     "rpl4"       "ccna2"      "nae1"       "uba3"      
+ [25] "rpl18"      "rangap1"    "psmd14"     "mgat1"      "incenp"     "vcp"       
+ [31] "fbxw11"     "pten"       "psmb1"      "rpsa"       "pcna"       "csnk2b"    
+ [37] "ddx5"       "cdca8"      "lrr1"       "cand1"      "alg2"       "nup160"    
+ [43] "dcaf13"     "wdr48"      "cdk1"       "alg1"       "cops4"      "wdr5"      
+ [49] "rps26"      "psma4"      "bard1"      "gps1"       "hdac1"      "bap1"      
+ [55] "slc17a5"    "alg13"      "hcfc1"      "dpm1"       "ino80b"     "napa"      
+ [61] "top2a"      "daxx"       "hnrnpc"     "rpl7"       "rps27a"     "rpl6"      
+ [67] "nup205"     "cops6"      "cdc20"      "smc1a"      "eif2b5"     "psmd2"     
+ [73] "rpl37"      "rps6"       "rae1"       "rps14"      "usp37"      "tgfbr1"    
+ [79] "sumo2"      "rab8b"      "rbx1"       "mdm4"       "eef2"       "smc3"      
+ [85] "rps27rt"    "clspn"      "nup85"      "nus1"       "oxa1l"      "alg3"      
+ [91] "eif3d"      "rps21"      "rps27"      "psmd12"     "dph1"       "rpl36a"    
+ [97] "rpl18a"     "alg8"       "trmt112"    "skp2"       "ccdc22"     "arrb2"     
+[103] "eif3m"      "rpl10"      "dpm2"       "rad21"      "psma6"      "rps9"      
+[109] "dctn4"      "ube2i"      "b4galt1"    "psmd3"      "mrpl34"     "rpl38"     
+[115] "actr8"      "rab6a"      "gosr2"      "nfrkb"      "dynll1"     "psmc6"     
+[121] "nup98"      "tomm20"     "dhps"       "dpm3"       "wsb2"       "spcs3"     
+[127] "nploc4"     "top2b"      "dctn6"      "leo1"       "dpagt1"     "fem1c"     
+[133] "nup214"     "rpl13"      "foxk1"      "pex13"      "mrpl27"     "rpl27"     
+[139] "rpl39"      "psmd4"      "mdc1"       "mrpl17"     "sec16a"     "rps19"     
+[145] "nup43"      "rps2"       "ppp6c"      "ube2t"      "fbxw7"      "rxra"      
+[151] "uba1"       "nsmce4a"    "apol7c"     "rps27l"     "rps13"      "mgat5"     
+[157] "ppa2"       "kin"        "rps23"      "nup107"     "mrps36"     "hnrnpk"    
+[163] "nup93"      "alg14"      "mrps18b"    "rps16"      "rpl5"       "cul2"      
+[169] "paf1"       "srp19"      "sae1"       "rps28"      "actl6a"     "usp17lc"   
+[175] "nans"       "srp72"      "ddx17"      "fbxo7"      "eif3f"      "usp24"     
+[181] "smc6"       "nop58"      "mrpl57"     "rps18"      "mcrs1"      "rpa1"      
+[187] "rps20"      "dolk"       "muc5b"      "psmb7"      "rpl19"      "npm1"      
+[193] "rpl23"      "psmb2"      "rps15"      "cops5"      "psmb5"      "cops8"     
+[199] "trappc2"    "nsmce2"     "capzb"      "mrps21"     "rpl35"      "commd1"    
+[205] "fbxl14"     "eif2s3x"    "preb"       "rbbp5"      "sin3a"      "dhdds"     
+[211] "pdia3"      "fbxl5"      "alpl"       "muc13"      "eef1a1"     "dctn5"     
+[217] "mrpl38"     "trappc4"    "psma5"      "fbxw2"      "alg9"       "nupl2"     
+[223] "copz1"      "eif5b"      "hsp90b1"    "alg12"      "mrps30"     "dda1"      
+[229] "folr1"      "rplp0"      "ttf1"       "rab10"      "bmi1"       "ddb1"      
+[235] "usp19"      "calr"       "eral1"      "eif2s1"     "usp7"       "ttll5"     
+[241] "axin2"      "psma7"      "xrcc4"      "rab38"      "mrpl28"     "amtn"      
+[247] "fbxo2"      "hif1a"      "rpl36al"    "rps10"      "ube2g1"     "srd5a3"    
+[253] "csnk2a1"    "tmed3"      "gfm1"       "rpl35a"     "rpl9"       "uba6"      
+[259] "dync1i2"    "srp54b"     "mrps6"      "brcc3"      "mrps10"     "cops7a"    
+[265] "mrpl16"     "mrpl39"     "rab29"      "mrps22"     "wdr61"      "usp17ld"   
+[271] "rpl29"      "mrpl49"     "mrps18a"    "tnip3"      "eif3i"      "mrps24"    
+[277] "uba52"      "mrpl4"      "rnf40"      "hspa8"      "tuba1a"     "pex12"     
+[283] "nrn1l"      "suds3"      "mrpl3"      "cbx8"       "ceacam1"    "gadd45gip1"
+[289] "st3gal2"    "tubal3"     "nr1h2"      "psma3"      "stag1"      "mrpl54"    
+[295] "gbf1"       "mat2b"      "mdga2"      "mgat3"      "nup153"     "alb"       
+[301] "casp8ap2"   "ranbp2"     "rps24"      "reck"       "actr5"      "b3gnt4"    
+[307] "amdhd2"     "rora"       "mrpl36"     "smc5"       "col7a1"     "stag2"     
+[313] "mgat2"      "rpl14"      "st6galnac5" "mrpl2"      "app"        "psmd6"     
+[319] "alg5"       "asb4"       "mrpl32"     "psma2"      "mrrf"       "zfp131"    
+[325] "mrps12"     "gnb5"       "mrps14"     "safb"       "mgat4a"     "mrpl33"    
+[331] "dctn3"      "cops2"      "exoc8"      "psmd10"     "gpaa1"      "pex14"     
+[337] "fem1a"      "bmp4"       "galntl5"    "commd3"     "sptbn4"     "ube2l3"    
+[343] "pex2"       "ttll8"      "mrpl10"     "sema5b"     "itih2"      "gfpt2"     
+[349] "b3galnt2"   "senp8"      "nup88"      "usp18"      "psmc4"      "psmc5"     
+[355] "dnajc24"    "adamts10"   "rab8a"      "pex10"      "bet1"       "usp9x"     
+[361] "gfm2"       "eif3c"      "adamts8"    "babam1"     "rabggtb"    "lep"       
+
+$REACTOME_RAP1_SIGNALLING
+[1] "rap1b"   "ywhab"   "prkacb"  "rap1gap" "raf1"   
+
+$REACTOME_SIGNAL_AMPLIFICATION
+[1] "mapk14" "gng13"  "gngt1" 
+
+$REACTOME_PROSTACYCLIN_SIGNALLING_THROUGH_PROSTACYCLIN_RECEPTOR
+[1] "gnas"  "gng13" "gngt1"
+
+$REACTOME_EPHB_MEDIATED_FORWARD_SIGNALING
+[1] "rasa1" "cdc42" "actb"  "ephb3" "kalrn"
+
+$REACTOME_EPHA_MEDIATED_GROWTH_CONE_COLLAPSE
+[1] "lyn"   "epha2" "epha7" "ngef"  "epha8" "efna5" "rhoa"  "efna1"
+
+$REACTOME_EPHRIN_SIGNALING
+[1] "pak2"    "ephb3"   "arhgef7"
+
+$REACTOME_EPH_EPHRIN_MEDIATED_REPULSION_OF_CELLS
+[1] "lyn"   "mmp9"  "epha2" "mmp2"  "epha7" "rac1"  "aph1a" "epha8"
+
+$REACTOME_MUSCLE_CONTRACTION
+ [1] "vcl"     "myl6"    "kcnip2"  "dmd"     "vim"     "myl4"    "kcnj11"  "casq1"   "myl6b"  
+[10] "acta2"   "cacna1c" "sorbs1"  "myh6"    "gucy1a2" "kcnip4"  "fxyd6"   "nos1"    "gucy1b2"
+[19] "atp1b1"  "atp1a1"  "camk2a"  "slc8a1"  "myh11"   "myh3"    "pxn"     "kcnip3"  "tpm1"   
+[28] "abcc9"  
+
+$REACTOME_G_PROTEIN_BETA_GAMMA_SIGNALLING
+[1] "akt1"  "gng13" "gngt1"
+
+$REACTOME_TRAFFICKING_OF_AMPA_RECEPTORS
+[1] "ap2s1" "ap2m1"
+
+$REACTOME_SEMA3A_PAK_DEPENDENT_AXON_REPULSION
+[1] "pak2"     "hsp90ab1" "hsp90aa1"
+
+$REACTOME_SEMA3A_PLEXIN_REPULSION_SIGNALING_BY_INHIBITING_INTEGRIN_ADHESION
+[1] "tln1"   "plxna4" "nrp1"   "plxna1"
+
+$REACTOME_CRMPS_IN_SEMA3A_SIGNALING
+[1] "dpysl4" "plxna2" "crmp1"  "dpysl3"
+
+$REACTOME_ACETYLCHOLINE_REGULATES_INSULIN_SECRETION
+[1] "gna15" "plcb3" "plcb2"
+
+$REACTOME_ADRENALINE_NORADRENALINE_INHIBITS_INSULIN_SECRETION
+[1] "gng13" "gngt1" "adcy5" "gnai1" "gng8" 
+
+$REACTOME_REGULATION_OF_LIPID_METABOLISM_BY_PPARALPHA
+[1] "hdac3"   "tgs1"    "rxra"    "smarcd3" "sin3a"  
+
+$REACTOME_FREE_FATTY_ACIDS_REGULATE_INSULIN_SECRETION
+[1] "acsl4" "gna14"
+
+$REACTOME_INCRETIN_SYNTHESIS_SECRETION_AND_INACTIVATION
+[1] "gng13"  "gip"    "dpp4"   "ffar1"  "gpr119" "ffar4" 
+
+$REACTOME_SEMA4D_IN_SEMAPHORIN_SIGNALING
+[1] "rock1"    "rras"     "plxnb1"   "sema4d"   "arhgef12" "rhob"     "arhgap35" "rac1"    
+
+$REACTOME_SIALIC_ACID_METABOLISM
+[1] "slc17a5"    "nans"       "st3gal2"    "st6galnac5" "glb1"       "st3gal3"    "neu3"      
+[8] "st8sia4"    "st8sia1"   
+
+$REACTOME_SUMOYLATION_OF_SUMOYLATION_PROTEINS
+ [1] "nup160" "nup205" "rae1"   "sumo2"  "nup85"  "ube2i"  "nup98"  "nup214" "nup43"  "nup107"
+[11] "nup93"  "nupl2"  "nup153" "ranbp2"
+
+$REACTOME_CA2_PATHWAY
+ [1] "gnb5"   "tcf7l2" "ppp3cb" "gng12"  "gnat2"  "ctnnb1" "pde6b"  "calm3"  "fzd3"   "gnb3"  
+[11] "gnb4"  
+
+$REACTOME_PCP_CE_PATHWAY
+ [1] "pfn1"   "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "ap2s1"  "psmd12" "arrb2"  "psma6" 
+[11] "psmd3"  "psmc6"  "cltc"   "psmd4"  "psmb7"  "psmb2"  "psmb5"  "rac2"   "ap2m1"  "psma5" 
+[21] "psma7"  "uba52"  "psma3"  "psmd6"  "psma2"  "clta"   "psmd10" "psmc4"  "psmc5"  "fzd1"  
+[31] "pard6a" "psmd8"  "psmd11" "wnt4"  
+
+$REACTOME_SUMOYLATION_OF_INTRACELLULAR_RECEPTORS
+[1] "sumo2" "ube2i" "rxra"  "nr1h2" "rora" 
+
+$REACTOME_G_ALPHA_Q_SIGNALLING_EVENTS
+ [1] "lpar4"    "gng13"    "tacr1"    "dgki"     "rgs1"     "xcl1"     "plcb4"    "nms"     
+ [9] "gpr17"    "gngt1"    "f2rl1"    "tac1"     "chrm5"    "arhgef25" "prokr1"   "gpr143"  
+[17] "rgs17"    "uts2"     "npffr2"   "lpar1"    "gpr132"   "lpar5"    "mapk7"    "grpr"    
+[25] "ccl9"     "gpr68"    "gnrhr"    "anxa1"    "ptgfr"    "rgs5"     "dgkh"     "p2ry1"   
+[33] "cysltr2"  "gng8"     "kras"     "gna15"    "qrfp"     "plcb3"    "mgll"     "plcb2"   
+[41] "uts2b"    "ffar1"    "edn2"     "ltb4r2"   "trhr"     "edn3"     "lpar2"    "itpr2"   
+[49] "bdkrb2"   "rgs21"    "f2r"     
+
+$REACTOME_G_ALPHA_12_13_SIGNALLING_EVENTS
+ [1] "sos2"     "rock1"    "arhgef19" "gng13"    "net1"     "plxnb1"   "gngt1"    "itsn1"   
+ [9] "arhgef2"  "arhgef25" "arhgef12" "gna12"    "rhob"     "arhgef9"  "arhgef1" 
+
+$REACTOME_SEMA4D_MEDIATED_INHIBITION_OF_CELL_ATTACHMENT_AND_MIGRATION
+[1] "rras"     "plxnb1"   "sema4d"   "arhgap35" "rac1"    
+
+$REACTOME_SEMA4D_INDUCED_CELL_MIGRATION_AND_GROWTH_CONE_COLLAPSE
+[1] "rock1"    "plxnb1"   "sema4d"   "arhgef12" "rhob"    
+
+$REACTOME_OTHER_SEMAPHORIN_INTERACTIONS
+[1] "tyrobp" "trem2"  "sema4a" "cd72"   "sema6d" "plxna1"
+
+$REACTOME_TRAFFICKING_OF_GLUR2_CONTAINING_AMPA_RECEPTORS
+[1] "ap2s1" "ap2m1" "pick1"
+
+$REACTOME_P2Y_RECEPTORS
+[1] "lpar4"  "gpr17"  "p2ry1"  "p2ry14"
+
+$REACTOME_NUCLEOTIDE_LIKE_PURINERGIC_RECEPTORS
+[1] "lpar4"   "gpr17"   "adora2a" "p2ry1"   "p2ry14"  "adora1" 
+
+$REACTOME_PLATELET_HOMEOSTASIS
+ [1] "mapk14"  "gnas"    "gng13"   "ppp2r1b" "gngt1"   "fgr"     "pde9a"   "pde10a"  "nos1"   
+[10] "pde11a"  "ppp2r5b" "pde2a"   "slc8a1"  "prkg1"   "ppp2r5d" "p2rx5"   "apob"    "ptgir"  
+[19] "gng8"    "slc8a3" 
+
+$REACTOME_REDUCTION_OF_CYTOSOLIC_CA_LEVELS
+[1] "atp2a2" "atp2b1" "atp2a1" "calm3"  "slc8a2" "atp2b3" "calm2"  "atp2b4"
+
+$REACTOME_PLATELET_CALCIUM_HOMEOSTASIS
+ [1] "atp2a2" "atp2b1" "atp2a1" "p2rx6"  "trpc7"  "p2rx4"  "calm3"  "p2rx7"  "p2rx1"  "slc8a2"
+
+$REACTOME_CGMP_EFFECTS
+[1] "pde9a"  "pde10a" "pde11a" "pde2a"  "prkg1" 
+
+$REACTOME_G_ALPHA_S_SIGNALLING_EVENTS
+ [1] "gnas"    "gng13"   "vipr1"   "gngt1"   "crh"     "pth2"    "gpr83"   "drd5"    "gpr84"  
+[10] "tshr"    "pde10a"  "pde11a"  "fshb"    "glp2r"   "rxfp1"   "pde7b"   "vipr2"   "pde2a"  
+[19] "adora2a" "gip"     "glp1r"   "pomc"    "sct"     "htr4"    "taar2"   "ptgir"   "ptger4" 
+[28] "cysltr2" "gng8"    "grk6"    "tshb"   
+
+$REACTOME_ADP_SIGNALLING_THROUGH_P2Y_PURINOCEPTOR_1
+[1] "mapk14" "gng13"  "gngt1" 
+
+$REACTOME_G_ALPHA_I_SIGNALLING_EVENTS
+ [1] "gpr18"    "adcy3"    "hrh4"     "gng13"    "ppp2r1b"  "npy1r"    "ccl4"     "ccr5"    
+ [9] "rgs1"     "sst"      "tas2r138" "rgs8"     "plcb4"    "ppp1r1b"  "nms"      "gpr17"   
+[17] "gpsm3"    "gngt1"    "rgs9"     "rrh"      "s1pr3"    "grm2"     "s1pr5"    "pde4b"   
+[25] "gabbr2"   "ccl27b"   "rgs17"    "ppp1ca"   "lpar1"    "drd3"     "adcy5"    "lpar5"   
+[33] "insl5"    "tas1r1"   "gpr55"    "rgs11"    "cxcr5"    "gnai1"    "cxcr3"    "ccl9"    
+[41] "pomc"     "ppp2r5d"  "htr5a"    "anxa1"    "s1pr4"    "fpr-rs4"  "rgs5"     "pcp2"    
+[49] "gnat1"    "gng8"     "cx3cr1"   "p2ry14"   "ppbp"     "rgr"      "gna15"    "adora1"  
+[57] "adcy9"    "npb"      "plcb3"    "ccl11"    "plcb2"    "c5ar1"    "pde1c"    "cxcl3"   
+[65] "npy5r"    "pnoc"     "lpar2"    "tas2r136" "cxcr1"    "gabbr1"   "bdkrb2"   "rgs21"   
+[73] "ccl28"    "ackr3"   
+
+$REACTOME_G_ALPHA_Z_SIGNALLING_EVENTS
+[1] "adcy3" "gng13" "gngt1" "rgs17" "adcy5"
+
+$REACTOME_DCC_MEDIATED_ATTRACTIVE_SIGNALING
+[1] "cdc42" "src"   "ptk2"  "nck1" 
+
+$REACTOME_ADHERENS_JUNCTIONS_INTERACTIONS
+ [1] "actb"   "cdh4"   "cdh11"  "ctnnb1" "cdh18"  "actg1"  "cadm2"  "cdh13"  "cdh2"   "cdh3"  
+
+$REACTOME_NCAM1_INTERACTIONS
+[1] "col3a1"  "st8sia4" "col5a2"  "col6a3"  "col5a1"  "col4a2"  "col9a3"  "col6a6" 
+
+$REACTOME_LYSOSPHINGOLIPID_AND_LPA_RECEPTORS
+[1] "s1pr3" "s1pr5" "lpar1" "lpar5" "s1pr4"
+
+$REACTOME_OPSINS
+[1] "opn3"   "opn1sw"
+
+$REACTOME_CALCITONIN_LIKE_LIGAND_RECEPTORS
+[1] "calca" "calcb" "ramp1" "ramp2"
+
+$REACTOME_TIGHT_JUNCTION_INTERACTIONS
+[1] "prkci"  "pard6a" "f11r"   "pard6b"
+
+$REACTOME_GLUCAGON_TYPE_LIGAND_RECEPTORS
+ [1] "gnas"    "gng13"   "vipr1"   "gngt1"   "glp2r"   "vipr2"   "gip"     "glp1r"   "sct"    
+[10] "cysltr2" "gng8"   
+
+$REACTOME_CLASS_C_3_METABOTROPIC_GLUTAMATE_PHEROMONE_RECEPTORS
+[1] "tas2r138" "grm2"     "gabbr2"   "tas1r1"  
+
+$REACTOME_CELL_CELL_JUNCTION_ORGANIZATION
+ [1] "actb"   "cdh4"   "prkci"  "cdh11"  "pard6a" "f11r"   "ctnnb1" "cdh18"  "actg1"  "cadm2" 
+[11] "pard6b" "cdh13"  "cdh2"   "cdh3"  
+
+$REACTOME_SYNTHESIS_SECRETION_AND_DEACYLATION_OF_GHRELIN
+[1] "spcs3" "lep"   "pcsk1" "gh"    "ins2" 
+
+$REACTOME_REGULATION_OF_INSULIN_SECRETION
+ [1] "gnas"    "gng13"   "kcnj11"  "cacna1c" "gngt1"   "rapgef3" "adcy5"   "kcns3"   "gnai1"  
+[10] "glp1r"   "gng8"    "gna15"   "plcb3"   "plcb2"   "ffar1"   "itpr2"   "kcnb1"   "cacna1d"
+[19] "rapgef4"
+
+$REACTOME_TRANSPORT_OF_BILE_SALTS_AND_ORGANIC_ACIDS_METAL_IONS_AND_AMINE_COMPOUNDS
+ [1] "slc6a14"  "slc30a6"  "slc22a2"  "slc6a19"  "slc5a3"   "slc39a7"  "slc40a1"  "slc22a16"
+ [9] "slc22a12" "slc11a2"  "rhag"     "slc22a6"  "slc14a2"  "slc41a1"  "slc44a2"  "rhcg"    
+[17] "slc13a4"  "slc39a1"  "slc22a15" "slc30a5" 
+
+$REACTOME_BICARBONATE_TRANSPORTERS
+[1] "slc4a7" "slc4a1" "slc4a4" "slc4a3"
+
+$REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES
+ [1] "slc20a2" "slc6a14" "slc5a8"  "slc1a6"  "slc17a8" "slc9a7"  "slc36a4" "slc9a4"  "slc4a7" 
+[10] "slc4a1"  "slc15a4" "slc6a19" "slc32a1" "slc4a4"  "slc24a3" "slc4a3"  "slc8a1"  "slc26a4"
+[19] "slc26a1" "slc12a1" "slc9a5"  "slc7a9"  "slc24a4" "slc5a12" "slc8a3"  "slc34a2" "slc24a5"
+
+$REACTOME_TRANSPORT_OF_VITAMINS_NUCLEOSIDES_AND_RELATED_MOLECULES
+[1] "slco1a4" "slc35c1" "slc35b2" "slco2a1" "slc35a3" "slc27a1" "slco2b1" "slc16a2" "arl2bp" 
+
+$REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT
+ [1] "slc20a2"  "slco1a4"  "slc6a14"  "slc30a6"  "slc5a8"   "slc22a2"  "slc1a6"   "slc35c1" 
+ [9] "slc17a8"  "slc9a7"   "slc36a4"  "slc2a3"   "slc9a4"   "slc2a7"   "slc35b2"  "slc4a7"  
+[17] "slc4a1"   "slc15a4"  "slc6a19"  "slc32a1"  "slc5a3"   "slc4a4"   "slco2a1"  "slc24a3" 
+[25] "slc39a7"  "slc35a3"  "slc40a1"  "slc4a3"   "slc8a1"   "slc26a4"  "slc26a1"  "slc12a1" 
+[33] "slc27a1"  "slco2b1"  "slc22a16" "slc22a12" "slc11a2"  "rhag"     "slc9a5"   "slc7a9"  
+[41] "slc16a2"  "slc24a4"  "slc5a10"  "slc22a6"  "arl2bp"   "slc14a2"  "slc41a1"  "slc5a12" 
+[49] "slc8a3"   "slc34a2"  "slc44a2"  "rhcg"    
+
+$REACTOME_METAL_ION_SLC_TRANSPORTERS
+[1] "slc31a1" "slc41a2" "slc30a8" "slc39a4"
+
+$REACTOME_SODIUM_CALCIUM_EXCHANGERS
+[1] "slc24a3" "slc8a1"  "slc24a4" "slc8a3"  "slc24a5"
+
+$REACTOME_SODIUM_PROTON_EXCHANGERS
+[1] "slc9a7" "slc9a4"
+
+$REACTOME_ARACHIDONATE_PRODUCTION_FROM_DAG
+[1] "mgll"   "abhd6"  "abhd12"
+
+$REACTOME_CATION_COUPLED_CHLORIDE_COTRANSPORTERS
+[1] "slc12a1" "slc12a2" "slc12a5" "slc12a4"
+
+$REACTOME_SMALL_INTERFERING_RNA_SIRNA_BIOGENESIS
+[1] "ago3"   "ago2"   "tarbp2" "prkra"  "tsn"    "ago1"  
+
+$REACTOME_POST_TRANSCRIPTIONAL_SILENCING_BY_SMALL_RNAS
+[1] "tnrc6c" "ago4"   "tnrc6a"
+
+$REACTOME_MULTIFUNCTIONAL_ANION_EXCHANGERS
+[1] "slc26a4"  "slc26a1"  "slc5a12"  "slc26a9"  "slc26a11"
+
+$REACTOME_SODIUM_COUPLED_PHOSPHATE_COTRANSPORTERS
+[1] "slc20a2" "slc34a2" "slc20a1"
+
+$REACTOME_SPHINGOLIPID_METABOLISM
+ [1] "sptlc2" "kdsr"   "sptlc1" "sptssa" "neu2"   "smpd4"  "sgms1"  "esyt3"  "esyt1"  "acer3" 
+[11] "sphk2"  "cers5"  "asah1"  "cerk"   "cers3"  "smpd2"  "ormdl2" "arsi"   "arsg"   "ugt8a" 
+[21] "cptp"   "gba2"   "hexa"   "enpp7"  "neu4"   "sumf2"  "asah2" 
+
+$REACTOME_ORGANIC_ANION_TRANSPORTERS
+[1] "slc17a5" "slc5a5"  "slc17a7"
+
+$REACTOME_THROMBOXANE_SIGNALLING_THROUGH_TP_RECEPTOR
+[1] "aamp"   "gnb5"   "gna14"  "gng12"  "gnb3"   "gnb4"   "tbxa2r"
+
+$REACTOME_DEADENYLATION_DEPENDENT_MRNA_DECAY
+ [1] "eif4a3" "cnot1"  "lsm7"   "lsm4"   "lsm2"   "edc4"   "lsm5"   "lsm6"   "exosc9" "cnot8" 
+[11] "cnot2"  "cnot3"  "hbs1l"  "exosc7" "parn"   "cnot4"  "lsm3"   "dis3"   "dcp2"   "cnot6l"
+[21] "cnot11" "cnot10" "wdr61"  "pan2"   "paip1"  "dcps"   "exosc2" "exosc1" "ddx6"   "exosc4"
+[31] "exosc3" "exosc5" "edc3"   "dcp1a"  "eif4a1" "ttc37"  "dcp1b" 
+
+$REACTOME_DEADENYLATION_OF_MRNA
+ [1] "eif4a3" "cnot1"  "cnot8"  "cnot2"  "cnot3"  "parn"   "cnot4"  "cnot6l" "cnot11" "cnot10"
+[11] "pan2"   "paip1" 
+
+$REACTOME_MRNA_DECAY_BY_3_TO_5_EXORIBONUCLEASE
+ [1] "exosc9" "hbs1l"  "exosc7" "dis3"   "wdr61"  "dcps"   "exosc2" "exosc1" "exosc4" "exosc3"
+[11] "exosc5" "ttc37" 
+
+$REACTOME_MRNA_DECAY_BY_5_TO_3_EXORIBONUCLEASE
+[1] "lsm7" "lsm4" "lsm2" "edc4" "lsm5" "lsm6" "lsm3" "dcp2"
+
+$REACTOME_GP1B_IX_V_ACTIVATION_SIGNALLING
+[1] "gp9"    "gp5"    "flna"   "gp1bb"  "ywhaz"  "col1a1" "vwf"   
+
+$REACTOME_VASOPRESSIN_REGULATES_RENAL_WATER_HOMEOSTASIS_VIA_AQUAPORINS
+[1] "gnas"  "gng13" "aqp3"  "gngt1"
+
+$REACTOME_PASSIVE_TRANSPORT_BY_AQUAPORINS
+[1] "aqp8"  "aqp9"  "aqp3"  "aqp2"  "aqp11" "aqp1"  "aqp7" 
+
+$REACTOME_PLATELET_SENSITIZATION_BY_LDL
+[1] "mapk14"  "ppp2r1b" "fgr"     "ppp2r5b" "ppp2r5d" "apob"   
+
+$REACTOME_LYSOSOME_VESICLE_BIOGENESIS
+ [1] "dnm2"  "cltc"  "hspa8" "app"   "clta"  "ap1g2" "clvs2" "ap1s3" "ap4s1" "arrb1" "hgs"  
+
+$REACTOME_GOLGI_ASSOCIATED_VESICLE_BIOGENESIS
+ [1] "dnm2"    "ap3b1"   "bloc1s4" "napa"    "cltc"    "bloc1s3" "dtnbp1"  "picalm"  "bloc1s6"
+[10] "hspa8"   "snx5"    "clta"    "necap1"  "tgoln1"  "snx2"    "snx9"   
+
+$REACTOME_SODIUM_COUPLED_SULPHATE_DI_AND_TRI_CARBOXYLATE_TRANSPORTERS
+[1] "slc13a3" "slc13a1" "slc13a2"
+
+$REACTOME_FATTY_ACIDS_BOUND_TO_GPR40_FFAR1_REGULATE_INSULIN_SECRETION
+[1] "gna15" "plcb3" "plcb2" "ffar1"
+
+$REACTOME_ZINC_TRANSPORTERS
+[1] "slc30a6"  "slc39a7"  "slc39a1"  "slc30a5"  "slc39a14"
+
+$REACTOME_RECYCLING_PATHWAY_OF_L1
+ [1] "tuba1c" "tuba1b" "dnm2"   "ap2s1"  "actb"   "cltc"   "kif4"   "ap2m1"  "tuba1a" "tubal3"
+[11] "clta"  
+
+$REACTOME_POST_NMDA_RECEPTOR_ACTIVATION_EVENTS
+[1] "rps6ka1" "rps6ka3" "rps6ka2" "prkar2b" "prkacb"  "calm3"   "prkar1b"
+
+$REACTOME_UNBLOCKING_OF_NMDA_RECEPTORS_GLUTAMATE_BINDING_AND_ACTIVATION
+[1] "dlg2"   "dlg4"   "camk2a" "grin2d" "gria4"  "actn2"  "camk2d" "grin2a" "camk2g"
+
+$REACTOME_DEPOLYMERISATION_OF_THE_NUCLEAR_LAMINA
+[1] "cdk1"    "ctdnep1" "lpin2"   "cnep1r1"
+
+$REACTOME_ZINC_INFLUX_INTO_CELLS_BY_THE_SLC39_GENE_FAMILY
+[1] "slc39a7"  "slc39a1"  "slc39a14"
+
+$REACTOME_NA_CL_DEPENDENT_NEUROTRANSMITTER_TRANSPORTERS
+[1] "slc6a14" "slc22a2" "slc6a19"
+
+$REACTOME_CREB1_PHOSPHORYLATION_THROUGH_NMDA_RECEPTOR_MEDIATED_ACTIVATION_OF_RAS_SIGNALING
+[1] "rps6ka1" "rps6ka3" "rps6ka2"
+
+$REACTOME_ACTIVATION_OF_NMDA_RECEPTORS_AND_POSTSYNAPTIC_EVENTS
+ [1] "rps6ka1" "grin3a"  "rps6ka3" "rps6ka2" "prkar2b" "prkacb"  "lrrc7"   "calm3"   "prkar1b"
+[10] "grin1"  
+
+$REACTOME_FORMYL_PEPTIDE_RECEPTORS_BIND_FORMYL_PEPTIDES_AND_MANY_OTHER_LIGANDS
+[1] "ccl6"    "app"     "fpr3"    "fpr-rs3"
+
+$REACTOME_RELAXIN_RECEPTORS
+[1] "rxfp1" "insl5" "rxfp4" "rln1" 
+
+$REACTOME_INTERACTION_BETWEEN_L1_AND_ANKYRINS
+[1] "actb"   "sptbn4" "actg1" 
+
+$REACTOME_SIGNAL_TRANSDUCTION_BY_L1
+[1] "csnk2b"  "csnk2a1"
+
+$REACTOME_SMOOTH_MUSCLE_CONTRACTION
+ [1] "vcl"     "myl6"    "myl6b"   "acta2"   "sorbs1"  "gucy1a2" "gucy1b2" "myh11"   "pxn"    
+[10] "tpm1"   
+
+$REACTOME_AQUAPORIN_MEDIATED_TRANSPORT
+[1] "gnas"  "gng13" "aqp8"  "aqp9"  "aqp3"  "gngt1"
+
+$REACTOME_TAK1_DEPENDENT_IKK_AND_NF_KAPPA_B_ACTIVATION
+ [1] "traf2"  "nfkbia" "nfkb2"  "lrrc14" "irak1"  "ikbkg"  "irak2"  "rela"   "nlrx1"  "ube2v1"
+[11] "usp14"  "s100b" 
+
+$REACTOME_TYPE_I_HEMIDESMOSOME_ASSEMBLY
+[1] "krt14" "itga6" "dst"  
+
+$REACTOME_BIOSYNTHESIS_OF_THE_N_GLYCAN_PRECURSOR_DOLICHOL_LIPID_LINKED_OLIGOSACCHARIDE_LLO_AND_TRANSFER_TO_A_NASCENT_PROTEIN
+ [1] "alg2"       "alg1"       "slc17a5"    "alg13"      "dpm1"       "nus1"      
+ [7] "alg3"       "alg8"       "dpm2"       "dpm3"       "dpagt1"     "alg14"     
+[13] "nans"       "dolk"       "dhdds"      "alg9"       "alg12"      "srd5a3"    
+[19] "st3gal2"    "amdhd2"     "st6galnac5" "alg5"       "gfpt2"      "glb1"      
+[25] "st3gal3"    "neu3"       "st8sia4"    "nudt14"     "pgm3"       "st8sia1"   
+
+$REACTOME_SYNTHESIS_OF_DOLICHYL_PHOSPHATE
+[1] "nus1"   "dolk"   "dhdds"  "srd5a3" "dolpp1"
+
+$REACTOME_ASPARAGINE_N_LINKED_GLYCOSYLATION
+ [1] "tuba1c"     "tuba1b"     "mgat1"      "vcp"        "alg2"       "alg1"      
+ [7] "slc17a5"    "alg13"      "dpm1"       "napa"       "rps27a"     "nus1"      
+[13] "alg3"       "alg8"       "dpm2"       "dctn4"      "b4galt1"    "gosr2"     
+[19] "dynll1"     "dpm3"       "dctn6"      "dpagt1"     "sec16a"     "ppp6c"     
+[25] "mgat5"      "alg14"      "nans"       "dolk"       "trappc2"    "capzb"     
+[31] "preb"       "dhdds"      "pdia3"      "dctn5"      "trappc4"    "alg9"      
+[37] "copz1"      "alg12"      "folr1"      "calr"       "srd5a3"     "tmed3"     
+[43] "dync1i2"    "uba52"      "tuba1a"     "st3gal2"    "tubal3"     "gbf1"      
+[49] "mgat3"      "amdhd2"     "col7a1"     "mgat2"      "st6galnac5" "alg5"      
+[55] "mgat4a"     "dctn3"     
+
+$REACTOME_SYNTHESIS_OF_UDP_N_ACETYL_GLUCOSAMINE
+[1] "amdhd2"  "gfpt2"   "pgm3"    "gnpnat1"
+
+$REACTOME_SYNTHESIS_OF_SUBSTRATES_IN_N_GLYCAN_BIOSYTHESIS
+ [1] "slc17a5"    "dpm1"       "nus1"       "dpm2"       "dpm3"       "nans"      
+ [7] "dolk"       "dhdds"      "srd5a3"     "st3gal2"    "amdhd2"     "st6galnac5"
+[13] "alg5"       "gfpt2"      "glb1"       "st3gal3"    "neu3"       "st8sia4"   
+[19] "nudt14"     "pgm3"       "st8sia1"   
+
+$REACTOME_CELL_EXTRACELLULAR_MATRIX_INTERACTIONS
+[1] "actb"   "tesk1"  "fblim1" "ilk"    "actg1" 
+
+$REACTOME_REGULATION_OF_CYTOSKELETAL_REMODELING_AND_CELL_SPREADING_BY_IPP_COMPLEX_COMPONENTS
+[1] "parva" "rsu1"  "pxn"  
+
+$REACTOME_INTERLEUKIN_1_FAMILY_SIGNALING
+ [1] "psmd14"  "fbxw11"  "psmb1"   "psma4"   "hmgb1"   "rps27a"  "psmd2"   "rbx1"    "psmd12" 
+[10] "psma6"   "psmd3"   "psmc6"   "psmd4"   "psmb7"   "nfkb1"   "psmb2"   "psmb5"   "myd88"  
+[19] "psma5"   "psma7"   "uba52"   "psma3"   "app"     "psmd6"   "psma2"   "psmd10"  "usp18"  
+[28] "psmc4"   "psmc5"   "ikbkb"   "cul1"    "nkiras2" "psmd8"   "psmd11"  "il33"   
+
+$REACTOME_CELL_JUNCTION_ORGANIZATION
+ [1] "krt14"   "parva"   "itga6"   "cdh7"    "cdh9"    "cadm3"   "rsu1"    "pard3"   "dst"    
+[10] "pxn"     "pard6g"  "cdh8"    "cdh17"   "cdh24"   "flna"    "ang"     "pvr"     "arhgef6"
+[19] "sdk1"    "jup"     "cdh12"  
+
+$REACTOME_INTERLEUKIN_12_FAMILY_SIGNALING
+[1] "tyk2"    "il12rb1" "il6st"   "stat3"   "jak2"    "canx"    "ebi3"    "il23r"  
+
+$REACTOME_INTERLEUKIN_17_SIGNALING
+ [1] "fbxw11"   "rps27a"   "map2k7"   "nfkb1"    "rps6ka1"  "map2k4"   "jun"      "uba52"   
+ [9] "mapkapk2" "rps6ka3"  "ikbkb"    "cul1"     "ppp2ca"   "rps6ka2"  "ppp2cb"   "ripk2"   
+[17] "atf1"     "ube2n"   
+
+$REACTOME_INTERLEUKIN_1_PROCESSING
+[1] "nfkb2" "rela"  "gsdmd"
+
+$REACTOME_SIGNALING_BY_INTERLEUKINS
+ [1] "psmd14"   "fbxw11"   "psmb1"    "ptpn6"    "csf1r"    "psma4"    "hmgb1"    "syk"     
+ [9] "rps27a"   "psmd2"    "map2k7"   "rbx1"     "psmd12"   "psma6"    "psmd3"    "psmc6"   
+[17] "psmd4"    "vav1"     "il13ra1"  "rapgef1"  "psmb7"    "nfkb1"    "psmb2"    "rps6ka1" 
+[25] "psmb5"    "map2k4"   "myd88"    "psma5"    "hsp90b1"  "jun"      "psma7"    "ptpn11"  
+[33] "uba52"    "psma3"    "il23a"    "app"      "psmd6"    "psma2"    "irs2"     "mapkapk2"
+[41] "psmd10"   "rps6ka3"  "usp18"    "psmc4"    "psmc5"    "csf2"     "il2ra"    "ikbkb"   
+[49] "cul1"     "ppp2ca"   "ifnlr1"   "rps6ka2"  "nkiras2"  "psmd8"    "psmd11"   "ppp2cb"  
+[57] "il33"     "ptk2b"   
+
+$REACTOME_OTHER_INTERLEUKIN_SIGNALING
+[1] "csf1r"  "casp3"  "stx4a"  "stxbp2" "il16"   "ptprz1"
+
+$REACTOME_MAPK_TARGETS_NUCLEAR_EVENTS_MEDIATED_BY_MAP_KINASES
+[1] "mapk14"  "ppp2r1b" "rps6ka5" "mapk7"   "mapk10"  "ppp2r5d" "dusp6"  
+
+$REACTOME_ACTIVATED_TAK1_MEDIATES_P38_MAPK_ACTIVATION
+[1] "mapk14" "irak1"  "ikbkg"  "irak2"  "ube2v1"
+
+$REACTOME_JNK_C_JUN_KINASES_PHOSPHORYLATION_AND_ACTIVATION_MEDIATED_BY_ACTIVATED_HUMAN_TAK1
+[1] "rps27a" "map2k7" "map2k4" "uba52" 
+
+$REACTOME_ACTIVATION_OF_THE_AP_1_FAMILY_OF_TRANSCRIPTION_FACTORS
+[1] "mapk14"
+
+$REACTOME_BUTYRATE_RESPONSE_FACTOR_1_BRF1_BINDS_AND_DESTABILIZES_MRNA
+ [1] "exosc9"   "exosc7"   "xrn1"     "dis3"     "ywhab"    "dcp2"     "mapkapk2" "exosc2"  
+ [9] "exosc1"   "exosc4"   "exosc3"   "exosc5"   "dcp1a"   
+
+$REACTOME_AUF1_HNRNP_D0_BINDS_AND_DESTABILIZES_MRNA
+ [1] "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6"  "psmd4" 
+[11] "psmb7"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "hspa8"  "psma3"  "psmd6"  "psma2" 
+[21] "psmd10" "psmc4"  "psmc5" 
+
+$REACTOME_TRISTETRAPROLIN_TTP_ZFP36_BINDS_AND_DESTABILIZES_MRNA
+ [1] "exosc9"   "exosc7"   "xrn1"     "dis3"     "ywhab"    "dcp2"     "mapkapk2" "exosc2"  
+ [9] "exosc1"   "exosc4"   "exosc3"   "exosc5"   "dcp1a"   
+
+$REACTOME_HUR_ELAVL1_BINDS_AND_STABILIZES_MRNA
+[1] "elavl1"  "tnfsf13" "anp32a" 
+
+$REACTOME_REGULATION_OF_MRNA_STABILITY_BY_PROTEINS_THAT_BIND_AU_RICH_ELEMENTS
+ [1] "psmd14"   "psmb1"    "psma4"    "exosc9"   "rps27a"   "psmd2"    "psmd12"   "exosc7"  
+ [9] "psma6"    "parn"     "psmd3"    "psmc6"    "nup214"   "psmd4"    "xrn1"     "psmb7"   
+[17] "psmb2"    "psmb5"    "dis3"     "ywhab"    "psma5"    "dcp2"     "psma7"    "uba52"   
+[25] "hspa8"    "xpo1"     "psma3"    "psmd6"    "psma2"    "mapkapk2" "psmd10"   "psmc4"   
+[33] "psmc5"    "exosc2"   "exosc1"   "exosc4"   "psmd8"    "psmd11"   "prkcd"    "exosc3"  
+[41] "exosc5"  
+
+$REACTOME_KSRP_KHSRP_BINDS_AND_DESTABILIZES_MRNA
+ [1] "exosc9" "exosc7" "parn"   "dis3"   "dcp2"   "exosc2" "exosc1" "exosc4" "exosc3" "exosc5"
+
+$REACTOME_IONOTROPIC_ACTIVITY_OF_KAINATE_RECEPTORS
+[1] "grik2" "dlg4"  "ncald"
+
+$REACTOME_ACTIVATION_OF_KAINATE_RECEPTORS_UPON_GLUTAMATE_BINDING
+[1] "gng13" "gngt1" "grik2" "dlg4"  "ncald" "gng8"  "plcb3" "plcb2"
+
+$REACTOME_INTERLEUKIN_2_FAMILY_SIGNALING
+[1] "ptpn6" "syk"   "csf2"  "il2ra" "ptk2b"
+
+$REACTOME_MITOTIC_G2_G2_M_PHASES
+ [1] "tuba1c"   "tubg1"    "tuba1b"   "ccna2"    "psmd14"   "plk1"     "fbxw11"   "psmb1"   
+ [9] "haus3"    "cdk1"     "psma4"    "cep192"   "rps27a"   "mzt1"     "tubgcp3"  "bora"    
+[17] "psmd2"    "aurka"    "haus1"    "rbx1"     "psmd12"   "nedd1"    "psma6"    "psmd3"   
+[25] "hsp90ab1" "dynll1"   "psmc6"    "tubgcp6"  "haus8"    "haus4"    "psmd4"    "ccnh"    
+[33] "tubgcp4"  "tubgcp2"  "tpx2"     "psmb7"    "psmb2"    "ppme1"    "psmb5"    "sfi1"    
+[41] "mapre1"   "haus6"    "psma5"    "ckap5"    "psma7"    "haus2"    "e2f1"     "dync1i2" 
+[49] "cep76"    "uba52"    "tuba1a"   "tubal3"   "xpo1"     "haus5"    "psma3"    "hsp90aa1"
+[57] "psmd6"    "ppp1r12a" "cdc25b"   "psma2"    "dctn3"    "psmd10"   "psmc4"    "psmc5"   
+[65] "rab8a"    "wee1"     "cdk11b"   "cul1"     "ppp2ca"   "mzt2"     "psmd8"    "psmd11"  
+[73] "prkar2b"  "ppp2cb"  
+
+$REACTOME_MITOTIC_G1_PHASE_AND_G1_S_TRANSITION
+ [1] "orc6"   "orc5"   "dbf4"   "pole"   "rpa3"   "ccna2"  "orc2"   "orc1"   "cks1b"  "psmd14"
+[11] "cdt1"   "mcm2"   "mcm5"   "psmb1"  "mcm3"   "orc4"   "lin52"  "tfdp1"  "prim1"  "mcm7"  
+[21] "psma4"  "hdac1"  "mcm4"   "mcm10"  "rps27a" "psmd2"  "mcm6"   "cdc6"   "orc3"   "pole2" 
+[31] "cdc45"  "psmd12" "skp2"   "psma6"  "pola1"  "psmd3"  "psmc6"  "ccnd1"  "psmd4"  "cdk4"  
+[41] "lin9"   "ccnh"   "rpa1"   "psmb7"  "psmb2"  "psmb5"  "cdc7"   "psma5"  "psma7"  "e2f1"  
+[51] "uba52"  "psma3"  "psmd6"  "ccne1"  "psma2"  "ccne2"  "lin54"  "cdk6"   "psmd10" "pole4" 
+[61] "gmnn"   "pola2"  "psmc4"  "psmc5" 
+
+$REACTOME_SUMOYLATION_OF_CHROMATIN_ORGANIZATION_PROTEINS
+ [1] "nup160" "hdac1"  "nup205" "rae1"   "sumo2"  "nup85"  "ube2i"  "nup98"  "nup214" "nup43" 
+[11] "nup107" "nup93"  "nupl2"  "bmi1"   "cbx8"   "nup153" "ranbp2"
+
+$REACTOME_THROMBIN_SIGNALLING_THROUGH_PROTEINASE_ACTIVATED_RECEPTORS_PARS
+ [1] "arrb2" "f2rl3" "gnb5"  "gna14" "gng12" "gnb3"  "gnb4"  "src"   "arrb1" "f2rl2"
+
+$REACTOME_SUMOYLATION_OF_RNA_BINDING_PROTEINS
+ [1] "nup160" "hnrnpc" "nup205" "rae1"   "sumo2"  "nup85"  "ube2i"  "nup98"  "nup214" "nup43" 
+[11] "nup107" "hnrnpk" "nup93"  "nop58"  "nupl2"  "bmi1"   "cbx8"   "nup153" "ranbp2"
+
+$REACTOME_ASYMMETRIC_LOCALIZATION_OF_PCP_PROTEINS
+ [1] "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6"  "psmd4" 
+[11] "psmb7"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3"  "psmd6"  "psma2"  "psmd10"
+[21] "psmc4"  "psmc5"  "fzd1"   "pard6a" "psmd8"  "psmd11"
+
+$REACTOME_SUMOYLATION_OF_DNA_REPLICATION_PROTEINS
+ [1] "aurkb"   "rangap1" "incenp"  "pcna"    "cdca8"   "nup160"  "top2a"   "nup205"  "rae1"   
+[10] "sumo2"   "nup85"   "ube2i"   "nup98"   "top2b"   "nup214"  "nup43"   "nup107"  "nup93"  
+[19] "nupl2"   "nup153"  "ranbp2" 
+
+$REACTOME_DEGRADATION_OF_AXIN
+ [1] "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6"  "psmd4" 
+[11] "psmb7"  "psmb2"  "psmb5"  "psma5"  "axin2"  "psma7"  "uba52"  "psma3"  "psmd6"  "psma2" 
+[21] "psmd10" "psmc4"  "psmc5"  "axin1"  "psmd8"  "psmd11"
+
+$REACTOME_DEGRADATION_OF_DVL
+ [1] "cul3"   "psmd14" "psmb1"  "psma4"  "rps27a" "psmd2"  "rbx1"   "psmd12" "psma6"  "psmd3" 
+[11] "psmc6"  "psmd4"  "psmb7"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3"  "psmd6" 
+[21] "psma2"  "psmd10" "psmc4"  "psmc5" 
+
+$REACTOME_DISASSEMBLY_OF_THE_DESTRUCTION_COMPLEX_AND_RECRUITMENT_OF_AXIN_TO_THE_MEMBRANE
+[1] "csnk1a1" "gsk3b"   "ppp2r5c" "fzd1"    "ppp2ca"  "axin1"   "ppp2cb"  "ctnnb1" 
+
+$REACTOME_REGULATION_OF_FZD_BY_UBIQUITINATION
+[1] "rps27a" "uba52"  "rspo2"  "usp8"  
+
+$REACTOME_REPRESSION_OF_WNT_TARGET_GENES
+[1] "tle3"  "tle1"  "ctbp1" "lef1"  "tle4" 
+
+$REACTOME_SUMOYLATION_OF_IMMUNE_RESPONSE_PROTEINS
+[1] "nfkbia" "nfkb2"  "topors" "ikbkg"  "rela"  
+
+$REACTOME_INTERCONVERSION_OF_NUCLEOTIDE_DI_AND_TRIPHOSPHATES
+ [1] "rrm1"   "txn1"   "dtymk"  "tyms"   "txnrd1" "guk1"   "dut"    "ak2"    "ak1"    "ak7"   
+
+$REACTOME_PRESYNAPTIC_FUNCTION_OF_KAINATE_RECEPTORS
+[1] "gng13" "gngt1" "gng8"  "plcb3" "plcb2"
+
+$REACTOME_GPCR_LIGAND_BINDING
+  [1] "gnas"     "gpr18"    "hrh4"     "lpar4"    "gng13"    "tacr1"    "npy1r"    "ccl4"    
+  [9] "ccr5"     "sst"      "tas2r138" "xcl1"     "vipr1"    "nms"      "gpr17"    "gngt1"   
+ [17] "f2rl1"    "rrh"      "s1pr3"    "crh"      "pth2"     "grm2"     "tac1"     "ece1"    
+ [25] "chrm5"    "s1pr5"    "drd5"     "prokr1"   "gabbr2"   "tshr"     "gpr143"   "ccl27b"  
+ [33] "uts2"     "npffr2"   "lpar1"    "drd3"     "gpr132"   "fshb"     "glp2r"    "rxfp1"   
+ [41] "vipr2"    "gpr35"    "lpar5"    "adora2a"  "grpr"     "gip"      "insl5"    "ccrl2"   
+ [49] "tas1r1"   "gpr55"    "cxcr5"    "cxcr3"    "glp1r"    "ccl9"     "pomc"     "gpr68"   
+ [57] "sct"      "htr4"     "htr5a"    "gnrhr"    "anxa1"    "s1pr4"    "fpr-rs4"  "taar2"   
+ [65] "ccl7"     "ptgfr"    "drd2"     "ptgir"    "ptger4"   "p2ry1"    "cysltr2"  "gng8"    
+ [73] "cx3cr1"   "p2ry14"   "ppbp"     "tshb"     "rgr"      "adora1"   "c5ar2"    "npb"     
+ [81] "qrfp"     "ccl11"    "uts2b"    "c5ar1"    "ffar1"    "edn2"     "sctr"     "cxcl3"   
+ [89] "npy5r"    "ltb4r2"   "trhr"     "edn3"     "pnoc"     "avpr2"    "adm"      "lpar2"   
+ [97] "tas2r136" "cxcr1"    "gabbr1"   "bdkrb2"   "f2r"      "ccl28"    "ackr3"    "fpr-rs6" 
+[105] "crhbp"    "drd1"     "gphb5"    "gpr37"    "c3ar1"   
+
+$REACTOME_WNT5A_DEPENDENT_INTERNALIZATION_OF_FZD4
+[1] "ap2s1" "arrb2" "cltc"  "ap2m1" "clta" 
+
+$REACTOME_INTERLEUKIN_3_INTERLEUKIN_5_AND_GM_CSF_SIGNALING
+[1] "ptpn6"   "syk"     "rps27a"  "vav1"    "rapgef1" "ptpn11"  "uba52"   "csf2"    "il2ra"  
+
+$REACTOME_WNT5A_DEPENDENT_INTERNALIZATION_OF_FZD2_FZD5_AND_ROR2
+[1] "ap2s1" "cltc"  "ap2m1" "clta" 
+
+$REACTOME_O_LINKED_GLYCOSYLATION
+ [1] "c1galt1"    "a4gnt"      "galnt2"     "spon2"      "pomt2"      "pomgnt2"   
+ [7] "chst4"      "gcnt4"      "adamts3"    "c1galt1c1"  "adamts1"    "thsd7b"    
+[13] "adamts13"   "b3gnt2"     "muc5ac"     "muc1"       "galnt12"    "galnt5"    
+[19] "sspo"       "adamtsl2"   "cfp"        "sema5a"     "st6gal1"    "adamts6"   
+[25] "pomk"       "st3gal4"    "muc15"      "st6galnac2" "b3gnt9"     "thbs2"     
+
+$REACTOME_O_GLYCOSYLATION_OF_TSR_DOMAIN_CONTAINING_PROTEINS
+ [1] "spon2"    "adamts3"  "adamts1"  "thsd7b"   "adamts13" "sspo"     "adamtsl2" "cfp"     
+ [9] "sema5a"   "adamts6" 
+
+$REACTOME_MITOPHAGY
+[1] "csnk2b"   "rps27a"   "tomm20"   "tomm22"   "tomm40"   "csnk2a1"  "uba52"    "mterf3"  
+[9] "map1lc3a"
+
+$REACTOME_PINK1_PRKN_MEDIATED_MITOPHAGY
+[1] "rps27a"   "tomm20"   "tomm22"   "tomm40"   "uba52"    "mterf3"   "map1lc3a"
+
+$REACTOME_RIPK1_MEDIATED_REGULATED_NECROSIS
+[1] "ogt"      "fadd"     "rps27a"   "pdcd6ip"  "cflar"    "uba52"    "hsp90aa1"
+
+$REACTOME_REGULATED_NECROSIS
+ [1] "ogt"      "hmgb1"    "chmp6"    "fadd"     "rps27a"   "pdcd6ip"  "cycs"     "chmp7"   
+ [9] "cflar"    "uba52"    "hsp90aa1" "chmp4c"  
+
+$REACTOME_VEGFR2_MEDIATED_VASCULAR_PERMEABILITY
+[1] "mtor"    "akt1"    "mlst8"   "rictor"  "prr5"    "cav1"    "mapkap1" "pak3"    "trib3"  
+
+$REACTOME_VEGFR2_MEDIATED_CELL_PROLIFERATION
+[1] "rasa1" "hras"  "prkcd" "prkcz" "src"   "prkcb" "pdpk1"
+
+$REACTOME_MISCELLANEOUS_TRANSPORT_AND_BINDING_EVENTS
+[1] "add3"   "lrrc8c" "mrs2"   "ank"    "lrrc8e" "add2"  
+
+$REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION
+ [1] "smarca5" "mybbp1a" "cd3eap"  "ddx21"   "polr1b"  "taf1b"   "gsk3b"   "polr2e"  "taf1d"  
+[10] "taf1c"   "myo1c"   "polr2f" 
+
+$REACTOME_MYOGENESIS
+[1] "mapk14" "tcf4"   "mef2d" 
+
+$REACTOME_N_GLYCAN_TRIMMING_IN_THE_ER_AND_CALNEXIN_CALRETICULIN_CYCLE
+[1] "vcp"    "rps27a" "pdia3"  "calr"   "uba52"  "derl1" 
+
+$REACTOME_CASPASE_ACTIVATION_VIA_EXTRINSIC_APOPTOTIC_SIGNALLING_PATHWAY
+[1] "traf2" "tlr4"  "tradd" "fasl"  "ly96"  "cd14" 
+
+$REACTOME_TNFR1_INDUCED_PROAPOPTOTIC_SIGNALING
+[1] "traf2"    "tnfrsf1a" "tradd"   
+
+$REACTOME_PROGRAMMED_CELL_DEATH
+ [1] "ogt"      "kpnb1"    "hmgb1"    "chmp6"    "fadd"     "rps27a"   "pdcd6ip"  "clspn"   
+ [9] "cycs"     "dynll1"   "chmp7"    "nmt1"     "cflar"    "opa1"     "ywhab"    "acin1"   
+[17] "apip"     "uba52"    "hsp90aa1" "fnta"     "chmp4c"  
+
+$REACTOME_REGULATION_OF_TNFR1_SIGNALING
+ [1] "traf2"    "tnfrsf1a" "ikbkg"    "tradd"    "sppl2a"   "otud7b"   "birc2"    "otulin"  
+ [9] "sppl2b"   "madd"     "usp2"     "tnf"     
+
+$REACTOME_TNFR1_INDUCED_NFKAPPAB_SIGNALING_PATHWAY
+[1] "traf2"    "tnfrsf1a" "ikbkg"    "tradd"    "otud7b"   "tab3"     "birc2"   
+
+$REACTOME_HEDGEHOG_LIGAND_BIOGENESIS
+ [1] "psmd14" "vcp"    "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6"  "psmd3"  "psmc6" 
+[11] "psmd4"  "syvn1"  "sel1l"  "psmb7"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3" 
+[21] "psmd6"  "psma2"  "psmd10" "psmc4"  "psmc5" 
+
+$REACTOME_SIGNALING_BY_HEDGEHOG
+ [1] "cdc73"   "tuba1c"  "cul3"    "tuba1b"  "psmd14"  "vcp"     "psmb1"   "psma4"   "rps27a" 
+[10] "psmd2"   "rbx1"    "psmd12"  "csnk1a1" "arrb2"   "psma6"   "psmd3"   "psmc6"   "gsk3b"  
+[19] "psmd4"   "syvn1"   "sel1l"   "psmb7"   "psmb2"   "psmb5"   "psma5"   "psma7"   "ift57"  
+[28] "uba52"   "tuba1a"  "psma3"   "psmd6"   "psma2"   "psmd10"  "gas8"    "psmc4"   "psmc5"  
+[37] "hhip"   
+
+$REACTOME_SYNTHESIS_OF_DIPHTHAMIDE_EEF2
+[1] "eef2"    "dph1"    "dnajc24" "dph5"   
+
+$REACTOME_MISMATCH_REPAIR
+[1] "rpa3"  "pcna"  "pold2" "pold1" "pold3" "lig1"  "rpa1" 
+
+$REACTOME_MISMATCH_REPAIR_MMR_DIRECTED_BY_MSH2_MSH3_MUTSBETA
+[1] "rpa3"  "pold2" "pold1" "pold3" "lig1"  "rpa1" 
+
+$REACTOME_SIGNALING_BY_RETINOIC_ACID
+[1] "rxra"    "rdh10"   "dhrs9"   "akr1c6"  "dhrs4"   "cyp26a1" "sdr16c5" "pdhb"    "pdk3"   
+
+$REACTOME_RELEASE_OF_HH_NP_FROM_THE_SECRETING_CELL
+[1] "shh"   "dhh"   "disp2" "gpc5" 
+
+$REACTOME_RA_BIOSYNTHESIS_PATHWAY
+[1] "rdh10"   "dhrs9"   "akr1c6"  "dhrs4"   "cyp26a1" "sdr16c5"
+
+$REACTOME_MITOCHONDRIAL_TRANSLATION
+ [1] "oxa1l"      "mrpl34"     "mrpl27"     "mrpl17"     "mrps36"     "mrps18b"   
+ [7] "mrpl57"     "mrps21"     "mrpl38"     "mrps30"     "eral1"      "mrpl28"    
+[13] "gfm1"       "mrps6"      "mrps10"     "mrpl16"     "mrpl39"     "mrps22"    
+[19] "mrpl49"     "mrps18a"    "mrps24"     "mrpl4"      "mrpl3"      "gadd45gip1"
+[25] "mrpl54"     "mrpl36"     "mrpl2"      "mrpl32"     "mrrf"       "mrps12"    
+[31] "mrps14"     "mrpl33"     "mrpl10"     "gfm2"       "mrpl55"     "mrps2"     
+[37] "mrps31"     "mrpl22"     "mrpl44"     "mrpl13"     "aurkaip1"   "mrpl35"    
+[43] "mrpl48"     "mrpl51"     "mrpl15"     "mrpl12"     "mrps11"    
+
+$REACTOME_AFLATOXIN_ACTIVATION_AND_DETOXIFICATION
+[1] "dpep1"   "ggt1"    "mgst1"   "mgst2"   "cyp3a11" "cyp3a16" "akr7a5"  "dpep3"  
+
+$REACTOME_ORGANIC_CATION_TRANSPORT
+[1] "slc22a2"  "slc22a16" "slc22a15"
+
+$REACTOME_ORGANIC_CATION_ANION_ZWITTERION_TRANSPORT
+[1] "slc22a2"  "slc22a16" "slc22a12" "slc22a6"  "slc22a15" "slc22a7" 
+
+$REACTOME_METABOLISM_OF_LIPIDS
+  [1] "chkb"      "sptlc2"    "acaca"     "kdsr"      "sptlc1"    "prkag2"    "ptges2"   
+  [8] "slc25a20"  "mtmr14"    "slco1a4"   "sptssa"    "akr1c14"   "acsl1"     "mtmr7"    
+ [15] "far2"      "osbpl1a"   "osbpl8"    "neu2"      "smpd4"     "acot8"     "hsd17b7"  
+ [22] "phospho1"  "inpp5d"    "ocrl"      "mcat"      "rab5a"     "pip4k2a"   "mtmr3"    
+ [29] "ddhd2"     "sgms1"     "acadvl"    "acsf3"     "fitm2"     "plekha4"   "lpin1"    
+ [36] "pnpla5"    "tbl1x"     "esyt3"     "helz2"     "lpin3"     "pik3cb"    "acot5"    
+ [43] "lipi"      "chka"      "nr1h4"     "pla2g1b"   "srd5a2"    "srebf2"    "bmx"      
+ [50] "arf1"      "fabp1"     "esyt1"     "morc2a"    "hilpda"    "acacb"     "inpp5j"   
+ [57] "slc10a1"   "acer3"     "h2-ke6"    "akr1cl"    "mecr"      "ptges"     "mfsd2a"   
+ [64] "pld2"      "pla2r1"    "sphk2"     "pla2g4c"   "mid1ip1"   "pitpnm3"   "slc51b"   
+ [71] "pi4kb"     "csnk2a2"   "ncor2"     "arf3"      "tnfaip8l3" "cers5"     "hsd17b13" 
+ [78] "cyp2c66"   "pnpla8"    "etnk1"     "pla2g2f"   "pitpnb"    "hsd17b1"   "hpgds"    
+ [85] "gpat2"     "agpat2"    "asah1"     "alpi"      "pomc"      "lpcat1"    "crat"     
+ [92] "cerk"      "prkaa2"    "cyp39a1"   "slc27a2"   "tnfaip8"   "agpat3"    "cyp2c65"  
+ [99] "acox2"     "acot4"     "osbpl6"    "acad11"    "lta4h"     "bdh1"      "lpgat1"   
+[106] "cyp2d22"   "acat2"     "phyh"      "pik3c2g"   "inpp5k"    "cyp7b1"    "hsd3b2"   
+[113] "pip4k2c"   "acbd4"     "cyp1a2"    "slc25a1"   "cers3"     "cpt1a"     "elovl7"   
+[120] "plbd1"     "bdh2"      "dbi"       "cyp24a1"   "smpd2"     "slc44a2"   "ncoa2"    
+[127] "faah"      "ormdl2"    "arsi"     
+
+$REACTOME_PHASE_4_RESTING_MEMBRANE_POTENTIAL
+[1] "kcnk5"  "kcnk1"  "kcnj2"  "kcnj14" "kcnj12" "kcnk3" 
+
+$REACTOME_PHASE_3_RAPID_REPOLARISATION
+[1] "kcne2"  "kcna5"  "kcnh2"  "kcne1l" "kcne3" 
+
+$REACTOME_CARDIAC_CONDUCTION
+ [1] "kcnip2"  "kcnj11"  "casq1"   "cacna1c" "kcnip4"  "fxyd6"   "nos1"    "atp1b1"  "atp1a1" 
+[10] "camk2a"  "slc8a1"  "kcnip3"  "abcc9"   "kcnip1"  "fxyd1"   "slc8a3"  "asph"    "kcne2"  
+[19] "atp1b2"  "trdn"    "kcna5"   "kcnh2"   "itpr2"   "camk2d"  "camk2g"  "kcnk16"  "nppa"   
+[28] "kcne1l"  "ces1d"   "tnni3"   "corin"   "kcnk18"  "sri"     "kcnk6"  
+
+$REACTOME_PHASE_0_RAPID_DEPOLARISATION
+[1] "cacna1c"
+
+$REACTOME_PHASE_2_PLATEAU_PHASE
+[1] "cacna1c" "kcne2"   "kcne1l"  "cacng8"  "kcne3"  
+
+$REACTOME_PHASE_1_INACTIVATION_OF_FAST_NA_CHANNELS
+[1] "kcnip2" "kcnip4" "kcnip3" "kcnip1"
+
+$REACTOME_TRANSCRIPTIONAL_REGULATION_BY_SMALL_RNAS
+ [1] "nup160" "nup205" "rae1"   "nup85"  "nup98"  "nup214" "nup43"  "nup107" "nup93"  "nupl2" 
+[11] "nup153" "ranbp2" "nup88" 
+
+$REACTOME_PHYSIOLOGICAL_FACTORS
+[1] "nppa"  "ces1d" "corin"
+
+$REACTOME_ION_HOMEOSTASIS
+ [1] "atp1b3" "atp2a2" "atp2b1" "trpc1"  "atp2a1" "ryr1"   "atp1a2" "casq2"  "calm3"  "pln"   
+[11] "dmpk"   "slc8a2" "fxyd3"  "stim1" 
+
+$REACTOME_DECTIN_1_MEDIATED_NONCANONICAL_NF_KB_SIGNALING
+ [1] "ube2m"  "uba3"   "psmd14" "fbxw11" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6" 
+[11] "psmd3"  "psmc6"  "psmd4"  "psmb7"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52"  "psma3" 
+[21] "psmd6"  "psma2"  "psmd10" "psmc4"  "psmc5" 
+
+$REACTOME_CLEC7A_DECTIN_1_SIGNALING
+ [1] "ube2m"  "uba3"   "psmd14" "fbxw11" "psmb1"  "psma4"  "rps27a" "psmd2"  "psmd12" "psma6" 
+[11] "psmd3"  "psmc6"  "psmd4"  "psmb7"  "nfkb1"  "psmb2"  "psmb5"  "psma5"  "psma7"  "uba52" 
+[21] "psma3"  "psmd6"  "psma2"  "psmd10" "psmc4"  "psmc5"  "ikbkb"  "ppp3cb" "cul1"   "psmd8" 
+[31] "psmd11" "prkcd" 
+
+$REACTOME_GLI3_IS_PROCESSED_TO_GLI3R_BY_THE_PROTEASOME
+ [1] "psmd14"  "psmb1"   "psma4"   "rps27a"  "psmd2"   "rbx1"    "psmd12"  "csnk1a1" "psma6"  
+[10] "psmd3"   "psmc6"   "gsk3b"   "psmd4"   "psmb7"   "psmb2"   "psmb5"   "psma5"   "psma7"  
+[19] "uba52"   "psma3"   "psmd6"   "psma2"   "psmd10"  "psmc4"   "psmc5"   "cul1"    "psmd8"  
+[28] "psmd11"  "prkacb"  "sufu"    "psmc3"   "psmb4"  
+
+$REACTOME_HEDGEHOG_OFF_STATE
+ [1] "tuba1c"  "tuba1b"  "psmd14"  "psmb1"   "psma4"   "rps27a"  "psmd2"   "rbx1"    "psmd12" 
+[10] "csnk1a1" "psma6"   "psmd3"   "psmc6"   "gsk3b"   "psmd4"   "psmb7"   "psmb2"   "psmb5"  
+[19] "psma5"   "psma7"   "ift57"   "uba52"   "tuba1a"  "psma3"   "psmd6"   "psma2"   "psmd10" 
+[28] "psmc4"   "psmc5"   "cul1"    "wdr19"   "psmd8"   "psmd11"  "prkar2b"
+
+$REACTOME_ANCHORING_OF_THE_BASAL_BODY_TO_THE_PLASMA_MEMBRANE
+ [1] "tubg1"    "plk1"     "haus3"    "cdk1"     "cep192"   "haus1"    "nedd1"    "dynll1"  
+ [9] "haus8"    "haus4"    "cep83"    "sfi1"     "mapre1"   "haus6"    "ckap5"    "haus2"   
+[17] "dync1i2"  "cep76"    "tuba1a"   "haus5"    "hsp90aa1" "dctn3"    "cep89"    "rab8a"   
+[25] "iqcb1"    "mark4"   
+
+$REACTOME_VXPX_CARGO_TARGETING_TO_CILIUM
+[1] "exoc4"  "exoc5"  "exoc1"  "cnga2"  "exoc2"  "rab3ip" "exoc7"  "cnga4" 
+
+$REACTOME_CARGO_TRAFFICKING_TO_THE_PERICILIARY_MEMBRANE
+ [1] "exoc4"  "bbs7"   "arl13b" "exoc5"  "exoc1"  "cnga2"  "exoc2"  "nphp3"  "rab3ip" "exoc7" 
+[11] "cnga4"  "bbs2"  
+
+$REACTOME_BBSOME_MEDIATED_CARGO_TARGETING_TO_CILIUM
+[1] "bbs7"   "rab3ip" "bbs2"  
+
+$REACTOME_INTRAFLAGELLAR_TRANSPORT
+[1] "tuba1c" "tuba1b" "dynll1" "ttc26"  "ift57"  "tuba1a"
+
+$REACTOME_PYROPTOSIS
+[1] "hmgb1"  "chmp6"  "cycs"   "chmp7"  "chmp4c"
+
+$REACTOME_DECTIN_2_FAMILY
+[1] "syk"    "clec4n" "clec4d" "fcer1g"
+
+$REACTOME_C_TYPE_LECTIN_RECEPTORS_CLRS
+ [1] "ube2m"  "pak2"   "uba3"   "psmd14" "fbxw11" "psmb1"  "psma4"  "syk"    "rps27a" "psmd2" 
+[11] "psmd12" "psma6"  "psmd3"  "psmc6"  "psmd4"  "psmb7"  "nfkb1"  "psmb2"  "psmb5"  "psma5" 
+[21] "psma7"  "uba52"  "psma3"  "psmd6"  "psma2"  "clec4n" "psmd10" "psmc4"  "psmc5"  "ikbkb" 
+[31] "ep300"  "ppp3cb" "cul1"   "hras"   "psmd8"  "psmd11" "prkcd" 
+
+$REACTOME_CD209_DC_SIGN_SIGNALING
+[1] "pak2"   "nfkb1"  "ep300"  "hras"   "prkacb" "raf1"  
+
+$REACTOME_RHO_GTPASES_ACTIVATE_PKNS
+[1] "pkn3"     "rhob"     "ywhag"    "sfn"      "rac1"     "ncoa2"    "pkn1"     "ppp1r14a"
+
+$REACTOME_RHO_GTPASES_ACTIVATE_CIT
+[1] "prc1"  "kif14"
+
+$REACTOME_RHO_GTPASES_ACTIVATE_KTN1
+[1] "ktn1"  "klc2"  "kif5a" "kif5b" "rac1"  "klc3"  "klc1" 
+
+$REACTOME_RHO_GTPASES_ACTIVATE_IQGAPS
+ [1] "tuba1c" "tuba1b" "cdc42"  "actb"   "tuba1a" "tubal3" "ctnnb1" "actg1"  "calm3"  "tuba3b"
+
+$REACTOME_TNFR1_MEDIATED_CERAMIDE_PRODUCTION
+[1] "tnfrsf1a" "smpd2"    "nsmaf"    "tnf"     
+
+$REACTOME_RHO_GTPASES_ACTIVATE_ROCKS
+[1] "rock1" "rhob" 
+
+$REACTOME_RHO_GTPASES_ACTIVATE_PAKS
+[1] "pak2"     "cdc42"    "myh9"     "ppp1r12a" "myl12b"   "mylk"     "calm3"    "myl9"    
+
+$REACTOME_TP53_REGULATES_METABOLIC_GENES
+ [1] "tsc1"    "tsc2"    "lamtor2" "rragc"   "rraga"   "lamtor3" "lamtor1" "lamtor4" "txn1"   
+[10] "txnrd1"  "cycs"    "cox14"   "cox7c"   "ywhab"   "cox6a1"  "cox4i1" 
+
+$REACTOME_LIGAND_RECEPTOR_INTERACTIONS
+[1] "gas1" "shh"  "dhh" 
+
+$REACTOME_HEDGEHOG_ON_STATE
+ [1] "cdc73"   "cul3"    "psmd14"  "psmb1"   "psma4"   "rps27a"  "psmd2"   "rbx1"    "psmd12" 
+[10] "csnk1a1" "arrb2"   "psma6"   "psmd3"   "psmc6"   "psmd4"   "psmb7"   "psmb2"   "psmb5"  
+[19] "psma5"   "psma7"   "uba52"   "psma3"   "psmd6"   "psma2"   "psmd10"  "gas8"    "psmc4"  
+[28] "psmc5"   "hhip"   
+
+$REACTOME_REGULATION_OF_TP53_ACTIVITY
+ [1] "aurkb"   "dna2"    "rpa3"    "chek1"   "ccna2"   "rfc5"    "rad9a"   "csnk2b"  "cdk1"   
+[10] "bard1"   "rfc2"    "hdac1"   "top3a"   "mre11a"  "ssrp1"   "rad1"    "daxx"    "rps27a" 
+[19] "rad50"   "aurka"   "topbp1"  "mdm4"    "rfc3"    "hus1"    "prmt5"   "supt16"  "brd7"   
+[28] "meaf6"   "rfc4"    "nbn"     "tpx2"    "rpa1"    "atrip"   "usp7"    "csnk2a1" "atm"    
+[37] "rad17"   "taf5"    "uba52"   "rbbp8"   "chd4"   
+
+$REACTOME_TP53_REGULATES_TRANSCRIPTION_OF_CELL_DEATH_GENES
+[1] "prelid1" "triap1"  "zfp420"  "atm"     "rabggtb"
+
+$REACTOME_ACTIVATION_OF_SMO
+[1] "csnk1a1" "arrb2"   "gas8"   
+
+$REACTOME_APEX1_INDEPENDENT_RESOLUTION_OF_AP_SITES_VIA_THE_SINGLE_NUCLEOTIDE_REPLACEMENT_PATHWAY
+[1] "pnkp"  "xrcc1" "neil1" "polb" 
+
+$REACTOME_PCNA_DEPENDENT_LONG_PATCH_BASE_EXCISION_REPAIR
+ [1] "pole"  "rpa3"  "rfc5"  "pcna"  "pold2" "rfc2"  "pold1" "rfc1"  "rfc3"  "pole2" "pold3"
+[12] "lig1"  "fen1"  "rfc4"  "rpa1" 
+
+$REACTOME_FRUCTOSE_METABOLISM
+[1] "akr1b3" "glyctk" "tkfc"  
+
+$REACTOME_VESICLE_MEDIATED_TRANSPORT
+ [1] "tsc1"      "tsc2"      "nedd8"     "tuba1c"    "tuba1b"    "tbc1d7"    "kif20a"   
+ [8] "dnm2"      "kif11"     "ap3b1"     "bloc1s4"   "cops4"     "arf6"      "gps1"     
+[15] "chmp6"     "napa"      "rps27a"    "racgap1"   "cops6"     "vps37a"    "rab8b"    
+[22] "ap2s1"     "actb"      "arrb2"     "dctn4"     "rab6a"     "gosr2"     "dynll1"   
+[29] "cltc"      "dctn6"     "chmp7"     "ubap1"     "bloc1s3"   "pacsin2"   "vps51"    
+[36] "sec16a"    "ppp6c"     "apol7c"    "dtnbp1"    "picalm"    "bloc1s6"   "rab3il1"  
+[43] "cops5"     "ric1"      "cops8"     "kif4"      "gabarapl2" "trappc2"   "capzb"    
+[50] "kif27"     "preb"      "kif23"     "ap2m1"     "dctn5"     "trappc4"   "copz1"    
+[57] "vps37c"    "hsp90b1"   "folr1"     "kif18b"    "rab10"     "dennd1a"   "calr"     
+[64] "rab38"     "dennd4b"   "tmed3"     "vps25"     "dync1i2"   "cops7a"    "dennd6a"  
+[71] "cenpe"     "uba52"     "hspa8"     "tuba1a"    "snx5"      "tubal3"    "gbf1"     
+[78] "gjb1"      "cyth4"     "alb"       "rgp1"      "necap2"    "col7a1"    "stab2"    
+[85] "chmp4c"    "app"      
+
+ [ reached getOption("max.print") -- omitted 664 entries ]
