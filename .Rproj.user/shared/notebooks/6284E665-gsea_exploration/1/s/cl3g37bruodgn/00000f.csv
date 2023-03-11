@@ -1,0 +1,5 @@
+"0","load(file = ""gsea_output.RData"")"
+"0",""
+"0","# Add variable containing number of genes in leading edge subset"
+"0","score_df$nLeadingEdge <- as.numeric(lapply(score_df$leadingEdge, length))"
+"0",""

@@ -81,7 +81,7 @@ pathways <- lapply(pathways, `[`, -c(1:2))
 head(pathways)
 
 
-######################################################################################
+###############################################################################
 
 # Run GSEA on pre-ranked gene expression data
 score_df <- fgsea::fgseaSimple(
@@ -93,9 +93,12 @@ score_df <- fgsea::fgseaSimple(
   gseaParam = 1
 )
 
+# Add variable containing number of genes in the leading edge subset
+# score_df$nLeadingEdge <- as.numeric(lapply(score_df$leadingEdge, length))
+
 # Write GSEA results to tab-delimited file, excluding leading edge variable
 write.table(
-  x = score_df[,1:7],
+  x = score_df[,1:7,9],
   file = "gsea_output.txt",
   sep = "\t", 
   row.names = FALSE
@@ -110,5 +113,10 @@ utils::capture.output(leading_edge,
 utils::capture.output(leading_edge, 
                       file = "leading_edge.txt") 
 
-
+# Store GSEA output and data objects as .RData file
+save(score_df,
+     mageck_lfc_sort,
+     pathways,
+     file = "gsea_output.RData"
+     )
 

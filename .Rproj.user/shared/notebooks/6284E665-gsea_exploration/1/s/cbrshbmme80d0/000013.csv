@@ -1,0 +1,8 @@
+"0","# Create enrichment plot for selected gene set/pathway"
+"0","set <- ""REACTOME_RHOA_GTPASE_CYCLE"""
+"0","enrichment_plot <- fgsea::plotEnrichment("
+"0","  pathway = pathways[[set]], "
+"0","  stats = mageck_lfc_sort,                    "
+"0","  gseaParam = 1"
+"0","  )"
+"0","enrichment_plot"

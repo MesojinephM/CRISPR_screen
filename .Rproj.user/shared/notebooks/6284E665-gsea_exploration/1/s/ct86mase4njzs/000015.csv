@@ -1,0 +1,2 @@
+"0","gsea_by_NES <- score_df[order(score_df$NES, decreasing = FALSE),]"
+"0","head(gsea_by_NES[,c(""pathway"", ""ES"", ""NES"", ""padj"")])"

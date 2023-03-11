@@ -1,0 +1,4 @@
+"0",""
+"0","# View extreme pathways by ES and NES"
+"0","gsea_by_ES <- score_df[order(score_df$ES, decreasing = TRUE),]"
+"0","head(gsea_by_ES[,c(""pathway"", ""ES"", ""NES"", ""padj"")])"
