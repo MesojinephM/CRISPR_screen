@@ -133,7 +133,7 @@ head(gsea_by_fdr)
 gsea_by_ES <- score_df[order(score_df$ES, decreasing = TRUE),]
 head(gsea_by_ES[,c("pathway", "ES", "NES", "padj")])
 tail(gsea_by_ES[,c("pathway", "ES", "NES", "padj")])
-gsea_by_NES <- score_df[order(score_df$NES, decreasing = FALSE),]
+gsea_by_NES <- score_df[order(score_df$NES, decreasing = TRUE),]
 head(gsea_by_NES[,c("pathway", "ES", "NES", "padj")])
 tail(gsea_by_NES[,c("pathway", "ES", "NES", "padj")])
 
