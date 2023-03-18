@@ -1,0 +1,187 @@
+---
+title: "gsea_exploration"
+author: "Marie Moriarty"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Load .RData
+```{r load}
+load(file = "gsea_output.RData")
+
+# Add variable containing number of genes in leading edge subset
+score_df$nLeadingEdge <- as.numeric(lapply(score_df$leadingEdge, length))
+
+```
+
+Load .RData file from gsea_source.R analysis.
+
+### Distribution of GSEA output
+```{r distributions}
+
+# Enrichment score distribution
+hist(score_df$ES, breaks = 50)
+
+# Normalized Enrichment score distribution
+hist(score_df$NES, breaks = 50)
+
+# Nominal P Value distribution
+hist(score_df$pval, breaks = 50)
+
+# FDR q value distribution
+hist(score_df$padj, breaks = 50)
+
+# Number of more extreme gene sets distribution
+hist(score_df$nMoreExtreme, breaks = 50)
+
+# Size of gene set distribution
+hist(score_df$size, breaks = 50)
+
+# Size of leading edge subset distribution
+hist(score_df$nLeadingEdge, breaks = 50)
+
+```
+
+We created histograms of each of the numeric variables from the GSEA output. This demonstrated the bimodal distributions for ES and NES as well as the changes in distributions between the nominal p-values and fdr values.
+
+### Pairs of variables
+```{r scatterplots}
+library(ggplot2)
+library(dplyr)
+
+# Filter data set using fdr cutoff
+cutoff <- 1
+filter_scores <- score_df %>% 
+  filter(padj <= cutoff)
+summary(filter_scores[,c(2:7,9)])
+
+
+# Size of gene set vs size of leading edge subset
+size_map <- ggplot(score_df, 
+                   mapping = aes(size, nLeadingEdge, alpha = 0.01, label = pathway)) +
+  geom_point() +
+  ggtitle("Gene set size vs. size of leading edge subset")
+
+plotly::ggplotly(size_map)
+
+
+# Normalized vs Observed Enrichment Score
+ggplot(score_df) +
+  geom_histogram(aes(ES, alpha = 0.05, fill = "ES"), 
+                 bins = 50) +
+  geom_histogram(aes(NES, alpha = 0.05, fill = "NES"), 
+                 bins = 50) +
+  ggtitle("Distribution of ES(S) and NES(S) values") +
+  scale_fill_manual(name = element_blank(), 
+                    values = c("ES" = "red", "NES" = "blue"),
+                    labels = c("ES(S)", "NES(S)")) +
+  theme(axis.title.x = element_blank())
+  
+
+```
+
+We see a fairly strong positive correlation between gene set size and the size of the leading edge subset for that gene set, as was expected. The majority of observations have a gene set size under 100 and leading edge subset under 50.
+
+The second plot shows the ES histogram overlayed with the NES histogram. Both, as noted previously, exhibit a bimodal distribution, but we see that the NES distribution has a noticeably wider spread to the data, making extreme values much more  apparent. 
+
+### FDR and gene set Size
+```{r fdr_size}
+# Plot fdr and gene set size together
+fdr_size_plot <- 
+  ggplot(
+    data = score_df, 
+    mapping = aes(padj, size, alpha = 0.05)
+    ) +
+  geom_point(colour = "darkblue") +
+  ggtitle("False Discovery Rate and Gene Set Size")
+
+plotly::ggplotly(fdr_size_plot)
+
+# FDR distribution for gene sets over 100 
+large_sets <- score_df %>%
+  filter(size >= 100)
+hist(large_sets$padj)
+plot(large_sets$padj, large_sets$size)
+cor.test(large_sets$padj, large_sets$size)
+```
+
+There does not seem to be any significant relationship between a gene set's size and its false discovery rate. Filtering to include only the gene sets with size over 100, it seems that there are significantly more observations with fdr values close to zero; however, the two variables are not linearly correlated even after filtering the data.
+
+### Enrichment plots
+```{r e_plots}
+# Create enrichment plot for selected gene set/pathway
+set <- "REACTOME_RHOA_GTPASE_CYCLE"
+
+enrichment_plot <- fgsea::plotEnrichment(
+  pathway = pathways[[set]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+enrichment_plot
+
+
+enrichment_plot2 <- fgsea::plotEnrichment(
+  pathway = pathways[["WP_ENDOCHONDRAL_OSSIFICATION"]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+enrichment_plot2
+
+
+enrichment_plot3 <- fgsea::plotEnrichment(
+  pathway = pathways[["REACTOME_HOMOLOGY_DIRECTED_REPAIR"]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+enrichment_plot3
+
+enrichment_plot4 <- fgsea::plotEnrichment(
+  pathway = pathways[["REACTOME_G0_AND_EARLY_G1"]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+enrichment_plot4
+```
+
+### Viewing pathways with extreme values
+```{r extremes}
+# View pathways with lowest fdr values
+gsea_by_fdr <- score_df[order(score_df$padj, decreasing = FALSE),]
+head(gsea_by_fdr)
+
+# View extreme pathways by ES and NES
+gsea_by_ES <- score_df[order(score_df$ES, decreasing = TRUE),]
+head(gsea_by_ES[,c("pathway", "ES", "NES", "padj")])
+tail(gsea_by_ES[,c("pathway", "ES", "NES", "padj")])
+gsea_by_NES <- score_df[order(score_df$NES, decreasing = TRUE),]
+head(gsea_by_NES[,c("pathway", "ES", "NES", "padj")])
+tail(gsea_by_NES[,c("pathway", "ES", "NES", "padj")])
+
+# order filter scores by
+noteable_sets <- score_df %>% 
+  filter(padj <= 0.05) %>%
+#  filter(NES <0) %>%
+  arrange(desc(NES)) %>%
+  select(c(pathway, padj, NES))
+print(noteable_sets)
+
+```
+
+
+### Code for gene look-up
+```{r lookup_gene}
+# 
+# # Look-up by gene code
+# gene <- "musk"
+# if (length(mageck[mageck$id ==gene,]) != 0){
+#   print(mageck[mageck$id==gene,])
+# } else {
+#   print("No results found")
+# }
+
+```
+

@@ -1,0 +1,358 @@
+---
+title: "data exploration 3-4"
+author: "Marie Moriarty"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Import MAGeCK data set
+
+```{r mageck}
+# Import MAGeCK data set
+library(readr)
+library(ggplot2)
+
+mageck <- read_delim("mageckRRA.gene_summary.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+# Reassign column names
+colnames(mageck) <- c("id",
+                      "num",
+                      "neg.score",
+                      "neg.p_value",
+                      "neg.fdr",
+                      "neg.rank",
+                      "neg.goodsgrna",
+                      "neg.lfc",
+                      "pos.score",
+                      "pos.p_value",
+                      "pos.fdr",
+                      "pos.rank",
+                      "pos.goodsgrna",
+                      "lfc"
+                      )
+
+# Change `id` column to all lowercase characters
+mageck$id <- tolower(mageck$id)
+
+# Convert goodsgrna to factor
+mageck$num <- as.factor(mageck$num)
+mageck$neg.goodsgrna <- as.factor(mageck$neg.goodsgrna)
+mageck$pos.goodsgrna <- as.factor(mageck$pos.goodsgrna)
+
+# Delete neg.lfc
+mageck <- mageck[,-8]
+
+# view data summary
+summary(mageck)
+
+```
+
+Since the data was already clean, after importing I only switched to more easily referenced variable names. I converted the sgRNA related columns to factor-type variables. I then printed the summary of the data set. One thing that I noticed was that there is a factor level in the `num` column saying that there were two observations that had 8 sgRNAs. These seem to be outliers, so they may need to be excluded before beginning the analysis, but I will consult Dr. Ge beforehand.
+
+
+#### Initial plots
+```{r pvs}
+
+#### p-values
+
+# Distribution of positive selection p-values
+ggplot(mageck, aes(x = pos.p_value)) +
+  geom_histogram(bins = 500) +
+  xlab("p-value") +
+  ggtitle("Distribution of positive selection p-values")  
+
+# Distribution of negative selection p-values
+ggplot(mageck, aes(x = neg.p_value)) +
+  geom_histogram(bins = 500) +
+  xlab("p-value") +
+  ggtitle("Distribution of negative selection p-values") 
+
+# Compare positive and negative p-values
+ggplot(mageck, aes(x = neg.p_value, 
+                   y = pos.p_value, 
+                   alpha = 0.01)) +
+  geom_point() +
+  geom_vline(xintercept = 0.05,
+             color = "red") +
+  geom_hline(yintercept = 0.05,
+             color = "red") +
+  ggtitle("Comparison of positive and negative selection p-values") +
+  theme(legend.position="none")
+
+```
+
+Viewing the histogram of positive selection p-values, the data does not seem to show any obvious patterns, except for some higher frequencies as the values approach zero. For the negative selection p-values, we see more observations with p-values at or close to one. The scatter plot, showing both variables along with red lines marking a significance level of 0.05, shows far more significant p-values for the positive selection than the negative, with a large cluster of data points with both very low positive p-values and very high negative p-values.
+
+```{r fdr}
+library(ggpubr)
+####  False Discovery Rates
+
+# Distribution of positive selection fdr
+posfdr_plot <- ggplot(mageck, aes(x = pos.fdr)) +
+                  geom_histogram(bins = 500) +
+                  xlab("fdr") +
+                  ggtitle("Distribution of positive selection fdr values")  
+
+# Distribution of negative selection fdr
+negfdr_plot <- ggplot(mageck, aes(x = neg.fdr)) +
+                   geom_histogram(bins = 500) +
+                   xlab("fdr") +
+                   ggtitle("Distribution of negative selection fdr values") 
+
+ggarrange(posfdr_plot, negfdr_plot)
+
+# # Distribution of positive selection p-values
+# ggplot(mageck, aes(x = pos.p_value)) +
+#   geom_histogram(bins = 500) +
+#   xlab("p-value") +
+#   ggtitle("Distribution of positive selection p-values") 
+# 
+# # Distribution of negative selection p-values
+# ggplot(mageck, aes(x = neg.p_value)) +
+#   geom_histogram(bins = 500) +
+#   xlab("p-value") +
+#   ggtitle("Distribution of negative selection p-values") 
+
+# Compare positive and negative fdr's
+ggplot(mageck, aes(x = neg.fdr, 
+                   y = pos.fdr, 
+                   alpha = 0.01)) +
+  geom_point() +
+  geom_vline(xintercept = 0.1,
+             color = "red") +
+  geom_hline(yintercept = 0.1,
+             color = "red") +
+  ggtitle("Comparison of positive and negative selection fdr values") +
+  theme(legend.position="none")
+
+# Compare positive score and negative score
+ggplot(mageck, aes(x = pos.score, 
+                   y = neg.score, 
+                   alpha = 0.01)) +
+  geom_density_2d_filled() +
+  ggtitle("Comparison of positive score and negative score") 
+
+#sig_negs <- na.omit(filter(mageck$neg.fdr, mageck$neg.fdr != 1))
+```
+
+Looking at the positive and negative selection false discovery rate values, we see the majority of the positive values are closer to one, and surprisingly all but a handful of values for the negative selection are equal to one. We see this more clearly in the scatter plot, which includes significance lines at FDR = 0.1.
+
+```{r lfc}
+
+#### log fold change
+
+# Distribution of lfc (positive and negative values the same)
+ggplot(mageck, aes(x = lfc)) +
+  geom_histogram(bins = 500) +
+  xlab("lfc") +
+  ggtitle("Distribution of log fold change for all genes")  
+
+# Check normality of variable
+qqnorm(mageck$lfc, main = "Normality of log fold change")
+qqline(mageck$lfc)
+
+```
+
+The log fold change variable (same for both positive and negative selections) appears to follow an approximately normal distribution, judging by the histogram. We validated this result using the Q-Q plot in the next figure.
+
+```{r sgrna}
+
+### number of sgRNA's
+
+ggplot(mageck, aes(num)) +
+  geom_bar(aes(fill = num)) +
+  geom_text(stat = 'count', 
+            aes(label = after_stat(count)), 
+            vjust = -0.5) +
+  ggtitle("Distribution of number of guide RNAs used") 
+
+
+### goodsgrna
+
+# positive selection
+ggplot(mageck, aes(pos.goodsgrna)) +
+  geom_bar(aes(fill = pos.goodsgrna)) +
+  geom_text(stat = 'count', 
+            aes(label = after_stat(count)), 
+            vjust = -0.5) +
+  ggtitle("Distribution of negative selection `goodsgrna`")
+
+# negative selection
+ggplot(mageck, aes(neg.goodsgrna)) +
+  geom_bar(aes(fill = neg.goodsgrna)) +
+  geom_text(stat = 'count', 
+            aes(label = after_stat(count)), 
+            vjust = -0.5) +
+  ggtitle("Distribution of negative selection `goodsgrna`")
+
+```
+
+I created bar plots showing the `num` column (the number of targeting sgRNAs for each gene) and the positive and negative selection `goodsgrna` columns (the number of "good" sgRNAs, i.e. those whose ranking fell below a set FDR cutoff). We see that for almost every gene four sgRNA's were used (perhaps the rest could even be considered outliers). The number of "good" sgRNA's followed similar distributions for both positive and negative, with the majority of genes having 1.
+
+### Correlation plot and initial lfc plots
+```{r}
+# Create correlation plot
+library(corrplot)
+cor.crispr <- cor(mageck[,-c(1,2,7,12)])
+corrplot(cor.crispr,
+         method = "color")
+
+# Plot lfc with pos and neg fdr
+plot(mageck$neg.fdr, 
+     mageck$lfc)
+
+plot(mageck$pos.fdr, 
+     mageck$lfc)
+
+plot(mageck$neg.rank,
+     mageck$lfc)
+
+plot(mageck$pos.rank,
+     mageck$lfc)
+
+hist(mageck$lfc)
+```
+
+Note the white strips corresponding to the negative `fdr` correlations, since most of the observations are at or close to `1`, there is essentially no linear correlation between it and any other variable.
+
+### Create list of all gene sets
+```{r gmt}
+# Code adapted from https://stackoverflow.com/questions/6602881/text-file-to-list-in-r
+
+# Read in pathways data as list and split elements into strings
+gmt <- scan("m2.cp.v2022.1.Mm.symbols.gmt", what = "", sep = "\n")
+pathways <- strsplit(gmt, "[[:space:]]+")
+
+# Assign first entry to names of each list element
+names(pathways) <- sapply(pathways, `[[`, 1)
+
+# save urls to separate list for reference
+source <- sapply(pathways, `[[`, 2)
+
+# Change gene names to lowercase to reduce errors
+pathways <- lapply(pathways[-1], tolower)
+
+# Remove two beginning reference rows
+pathways <- lapply(pathways, `[`, -c(1:2))
+
+# Preview data set
+head(pathways)
+
+```
+
+This code chunk imports a file containing a collection of mouse gene sets which will be used for the GSEA analysis. The data needed to be reformatted so that we could separate the gene set names and source urls from the actual list of genes for each set. Finally we ended up with a list object where each element contains a gene set, with a list of all the genes in that set in order.
+
+
+### Add selection column
+```{r selection}
+library(ggridges)
+
+selection <- NULL
+
+# Sort values based on p-values to see which selection p-value is lower
+for (i in 1:length(mageck$id)){
+  if (mageck$neg.p_value[i] > mageck$pos.p_value[i]){
+    selection[i] <- "positive"
+  } else {       
+    selection[i] <- "negative"
+  } 
+}
+
+# Append to mageck data frame as factor
+mageck$selection <- as.factor(selection)
+summary(mageck$selection)
+
+# Compare lfc across selections
+ggplot(mageck, mapping = aes(x = lfc,
+                             group = selection,
+                             fill = selection,
+                             alpha = 0.05)) +
+  geom_density() +
+  ggtitle("Log fold change distribution for positive and negative selections")
+
+# Create separate data frames for each positive and negative selection
+#  and remove selection variable from each
+positives <- mageck[mageck$selection == "positive", -14]
+negatives <- mageck[mageck$selection == "negative", -14]
+
+# Compare lfc in both groups
+hist(positives$lfc)
+hist(negatives$lfc)
+
+summary(positives$lfc)
+summary(negatives$lfc)
+
+qqnorm(positives$lfc)
+qqnorm(negatives$lfc)
+
+t.test(negatives$lfc, positives$lfc)
+```
+  
+We sorted every observation based on whether it had a lower negative or positive p-value (none of them were equal), creating a column indicating which selection they belonged to, and separate data frames to hold the information for each selection for use in more in depth analysis of each group. There were approximately twice as many observations in the positive category as in the negative one.
+
+We then observed how the `lfc` changed between the two groups using the density plot. It appears that the log fold change for the positive group was largely positive, and largely negative for the negative group. This confirms our expectations. This was again confirmed using a t-test, with the results given above.
+
+Remember significant positive selection genes are those whose knockout leads to cholesterol accumulation, and significant negatives are those whose knockout caused cholesterol depletion.
+
+### Sort by LFC
+```{r re-rank}
+lfc_sort <- mageck[order(mageck$lfc, decreasing = TRUE),]
+
+mageck_lfc_sort <- as.vector(lfc_sort$lfc)
+names(mageck_lfc_sort) <- lfc_sort$id
+
+```
+
+### GSEA
+```{r}
+library(BiocManager)
+library(fgsea)
+
+SampleES <- fgsea::fgseaSimple(
+  pathways = pathways[1:4],
+  stats = mageck_lfc_sort,
+  nperm = 1000,
+  minSize = 5,
+  scoreType = "std",
+  gseaParam = 1
+)
+
+Sample2ES <- fgseaSimple(
+  pathways = pathways[1:10],
+  stats = mageck_lfc_sort,
+  nperm = 1000,
+  minSize = 5,
+  scoreType = "std",
+  gseaParam = 1
+)
+Sample2ES
+```
+
+### Enrichment plots
+```{r e_plots}
+sample_plot <- fgsea::plotEnrichment(
+  pathway = pathways[[5]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+sample_plot
+```
+
+### Code for gene look-up
+```{r lookup_gene}
+## Lookup by gene code
+if (length(mageck[mageck$id =="musk",]) != 0){
+  print(mageck[mageck$id=="musk",])
+} else {
+  print("No results found")
+}
+```
+

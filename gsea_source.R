@@ -120,3 +120,18 @@ save(score_df,
      file = "gsea_output.RData"
      )
 
+# FGSEA citation
+# citEntry(entry="ARTICLE",
+#          author = c(person("Gennady", "Korotkevich"),
+#                     person("Vladimir", "Sukhov"),
+#                     person("Alexey", "Sergushichev")),
+#          title = "Fast gene set enrichment analysis",
+#          year = "2019",
+#          doi = "10.1101/060012",
+#          publisher = "Cold Spring Harbor Labs Journals",
+#          URL = "http://biorxiv.org/content/early/2016/06/20/060012",
+#          journal = "bioRxiv",
+#          textVersion = paste("G. Korotkevich, V. Sukhov, A. Sergushichev.",
+#                              "Fast gene set enrichment analysis.",
+#                              "bioRxiv (2019), doi:10.1101/060012")
+# )

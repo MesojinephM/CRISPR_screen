@@ -57,10 +57,11 @@ library(dplyr)
 cutoff <- 1
 filter_scores <- score_df %>% 
   filter(padj <= cutoff)
+summary(filter_scores[,c(2:7,9)])
 
 
 # Size of gene set vs size of leading edge subset
-size_map <- ggplot(filter_scores, 
+size_map <- ggplot(score_df, 
                    mapping = aes(size, nLeadingEdge, alpha = 0.01, label = pathway)) +
   geom_point() +
   ggtitle("Gene set size vs. size of leading edge subset")
@@ -69,7 +70,7 @@ plotly::ggplotly(size_map)
 
 
 # Normalized vs Observed Enrichment Score
-ggplot(filter_scores) +
+ggplot(score_df) +
   geom_histogram(aes(ES, alpha = 0.05, fill = "ES"), 
                  bins = 50) +
   geom_histogram(aes(NES, alpha = 0.05, fill = "NES"), 
@@ -121,6 +122,29 @@ enrichment_plot <- fgsea::plotEnrichment(
   gseaParam = 1
   )
 enrichment_plot
+
+
+enrichment_plot2 <- fgsea::plotEnrichment(
+  pathway = pathways[["WP_ENDOCHONDRAL_OSSIFICATION"]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+enrichment_plot2
+
+
+enrichment_plot3 <- fgsea::plotEnrichment(
+  pathway = pathways[["REACTOME_HOMOLOGY_DIRECTED_REPAIR"]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+enrichment_plot3
+
+enrichment_plot4 <- fgsea::plotEnrichment(
+  pathway = pathways[["REACTOME_G0_AND_EARLY_G1"]], 
+  stats = mageck_lfc_sort,                    
+  gseaParam = 1
+  )
+enrichment_plot4
 ```
 
 ### Viewing pathways with extreme values
@@ -137,19 +161,27 @@ gsea_by_NES <- score_df[order(score_df$NES, decreasing = TRUE),]
 head(gsea_by_NES[,c("pathway", "ES", "NES", "padj")])
 tail(gsea_by_NES[,c("pathway", "ES", "NES", "padj")])
 
+# order filter scores by
+noteable_sets <- score_df %>% 
+  filter(padj <= 0.05) %>%
+#  filter(NES <0) %>%
+  arrange(desc(NES)) %>%
+  select(c(pathway, padj, NES))
+print(noteable_sets)
+
 ```
 
 
 ### Code for gene look-up
 ```{r lookup_gene}
-
-# Look-up by gene code
-gene <- "musk"
-if (length(mageck[mageck$id ==gene,]) != 0){
-  print(mageck[mageck$id==gene,])
-} else {
-  print("No results found")
-}
+# 
+# # Look-up by gene code
+# gene <- "musk"
+# if (length(mageck[mageck$id ==gene,]) != 0){
+#   print(mageck[mageck$id==gene,])
+# } else {
+#   print("No results found")
+# }
 
 ```
 

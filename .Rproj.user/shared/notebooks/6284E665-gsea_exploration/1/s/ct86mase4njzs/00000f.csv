@@ -1,3 +1,0 @@
-"0","# View pathways with lowest fdr values"
-"0","gsea_by_fdr <- score_df[order(score_df$padj, decreasing = FALSE),]"
-"0","head(gsea_by_fdr)"

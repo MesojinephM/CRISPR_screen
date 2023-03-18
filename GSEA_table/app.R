@@ -1,46 +1,122 @@
-#
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 library(shiny)
+
+# Load gsea output data
+load("gsea_output.RData")
+
+# Add variable containing number of genes in leading edge subset
+#score_df$nLeadingEdge <- as.numeric(lapply(score_df$leadingEdge, length))
+
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
 
     # Application title
     titlePanel("GSEA Output"),
-
-    # Sidebar with a slider input for number of bins 
-    sidebarLayout(
-        sidebarPanel(
-            sliderInput("bins",
-                        "Number of bins:",
-                        min = 1,
-                        max = 50,
-                        value = 30)
-        ),
-
-        # Show a plot of the generated distribution
-        mainPanel(
-           plotOutput("distPlot")
-        )
+    
+    tabsetPanel(type = "tabs",
+                tabPanel(
+                    "GSEA Output Table", 
+                    mainPanel(
+                        p("The following data set represents the output 
+                          when GSEA is applied to the MAGeCK data,
+                          pre-ranked using log fold change.", 
+                          style = "font-family: 'times'; font-si16pt"
+                        ),
+                        DT::dataTableOutput("distTable")
+                    )
+                ),
+                tabPanel(
+                    "Leading Edge Subset",
+                    p("The table below includes the leading edge subset
+                    for each pathway, along with the size of the gene set 
+                    and size of the subset.", 
+                      style = "font-family: 'times'; font-si16pt"
+                    ),
+                    DT::dataTableOutput("leadingTable")
+                ),
+                tabPanel(
+                    "Enrichment Plots by Gene Set",
+                    sidebarLayout(
+                        sidebarPanel = selectInput("set",
+                                                   h3("Gene set of interest: "),
+                                                   choices = score_df$pathway
+                                                   ),
+                        mainPanel = fluidRow(
+                            splitLayout(
+                                cellWidths = c("30%","70%"),
+                                tableOutput("enrichData"),
+                                plotOutput("enrichPlot")
+                            )
+                        )
+                    )
+                    
+                )
     )
+    
+    # Show a plot of the generated distribution
+    # mainPanel(
+    #     p("The following data set represents the output
+    #       when GSEA is applied to the MAGeCK data,
+    #       pre-ranked using log fold change.", 
+    #       style = "font-family: 'times'; font-si16pt"),
+    #     tabsetPanel(type = "tabs",
+    #                 tabPanel("GSEA Output Table", DT::dataTableOutput("distTable")),
+    #                 tabPanel("Enrichment Plots by Gene Set", plotOutput("enrichPlot"))
+    #                 )
+    # )
 )
 
-# Define server logic required to draw a histogram
+# Define server logic required to draw figures
 server <- function(input, output) {
 
-    output$distTable <- renderDT({
+    # Display table of GSEA output
+    output$distTable <- DT::renderDataTable(score_df[,c(1:5,7)], server = TRUE)
+
+    # Display table for leading edge subset
+    output$leadingTable <- DT::renderDataTable(score_df[,c(1,5,7,9,8)], server = TRUE)
+    
         
-        city <- input$city
+    # Create enrichment plot of selected gene set
+    output$enrichPlot <- renderPlot({
         
-        # Create table of highest totals for each city
-        datatable(filter(phys_amount, City==city))
+        set <- input$set
+        
+        e_plot <- 
+            fgsea::plotEnrichment(
+                pathway = pathways[[set]], 
+                stats = mageck_lfc_sort,                    
+                gseaParam = 1
+                )
+        e_plot
+    })
+    
+    # Print data for selected gene set
+    output$enrichData <- renderTable({
+        
+        set <- input$set
+        
+        score_df[pathway == set, c(3:5, 7)]
+        
+    }, 
+    bordered = TRUE,
+    align = "c",
+    )
+    
+    output$enrichText <- renderText({
+        
+        # Define data to be printed
+        set <- input$set
+        fdr <- score_df[pathway == set, 3]
+        es <- score_df[pathway == set, 4]
+        nes <- score_df[pathway == set, 5]
+        size <- score_df[pathway == set, 7]
+        
+        print(
+            "Gene Set: ", set,
+            "\nFDR: ", fdr,
+            "\nES: ", es,
+            "\nNES: ", nes,
+            "\nSize: ", size)
         
     })
 }

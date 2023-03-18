@@ -1,0 +1,8 @@
+"0",""
+"0",""
+"0","enrichment_plot2 <- fgsea::plotEnrichment("
+"0","  pathway = pathways[[""WP_ENDOCHONDRAL_OSSIFICATION""]], "
+"0","  stats = mageck_lfc_sort,                    "
+"0","  gseaParam = 1"
+"0","  )"
+"0","enrichment_plot2"
