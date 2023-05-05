@@ -1,0 +1,8 @@
+"0",""
+"0","enrichment_plot4 <- fgsea::plotEnrichment("
+"0","  pathway = pathways[[""REACTOME_G0_AND_EARLY_G1""]], "
+"0","  stats = mageck_lfc_sort,                    "
+"0","  gseaParam = 1"
+"0","  )"
+"0","enrichment_plot4$layers[[5]]$aes_params$colour <- ""blue"""
+"0","enrichment_plot4"

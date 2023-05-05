@@ -1,8 +1,0 @@
-"0",""
-"0","# Look-up by gene code"
-"0","gene <- ""musk"""
-"0","if (length(mageck[mageck$id ==gene,]) != 0){"
-"0","  print(mageck[mageck$id==gene,])"
-"0","} else {"
-"0","  print(""No results found"")"
-"0","}"

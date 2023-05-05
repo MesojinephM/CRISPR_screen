@@ -1,0 +1,26 @@
+{
+    "id": "560DC5EA",
+    "path": "~/MATH 401/Capstone Analysis/CRISPR_screen/GSEA_table/app.R",
+    "project_path": "GSEA_table/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1678074402971.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "46,57",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1683228342,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1683228342237,
+    "read_only": false,
+    "read_only_alternatives": []
+}
